@@ -1,6 +1,17 @@
 {
 	"mod": [
 	    
+			     {
+	"name": "MOD BUSSID Gerobak Sampah.bussidmod",
+	"title": "MOD BUSSID Gerobak Sampah",
+	"url": "https://download.modbussid.co.id/66c",
+	"livery": [],
+	"img_url": ["https://i.ytimg.com/vi/-8oMl3LzWMo/maxresdefault.jpg", "https://i.ytimg.com/vi/iUoyGdaTH_s/hqdefault.jpg", "https://i.ytimg.com/vi/yqKuTpMPX5Q/sddefault.jpg", "https://i.ytimg.com/vi/qMFxdn4HhCo/maxresdefault.jpg"],
+	"kategori": "special",
+	"size": "6.2 mb",
+	"created_on": "26/05/2021"
+},
+		
 	     {
 	"name": "Motor RX King Modif.bussidmod",
 	"title": "Motor RX King Modif",
@@ -22,6 +33,28 @@
 	"size": "25.8 mb",
 	"created_on": "26/05/2021"
 },
+     {
+	"name": "Sepeda Anak Roda Tiga Roda v1.bussidmod",
+	"title": "Sepeda Anak Roda Tiga Roda v1",
+	"url": "https://download.modbussid.co.id/6h2",
+	"livery": [],
+	"img_url": ["https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/03/Sepeda-Anak-Roda-Tiga.jpg?quality=100&f=auto", "https://i.ytimg.com/vi/rcbOVsDITg0/maxresdefault.jpg"],
+	"kategori": "special",
+	"size": "1.4 mb",
+	"created_on": "26/05/2021"
+},
+		
+		     {
+	"name": "Sepeda Anak Roda Tiga Roda v2.bussidmod",
+	"title": "Sepeda Anak Roda Tiga Roda v2",
+	"url": "https://download.modbussid.co.id/6h3",
+	"livery": [],
+	"img_url": ["https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/03/Sepeda-Anak-Roda-Tiga.jpg?quality=100&f=auto", "https://i.ytimg.com/vi/rcbOVsDITg0/maxresdefault.jpg"],
+	"kategori": "special",
+	"size": "1.4 mb",
+	"created_on": "26/05/2021"
+},
+
 
 	     {
 	"name": "Motor Honda Supra X 125 Gojek.bussidmod",
