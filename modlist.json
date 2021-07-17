@@ -1,5 +1,28 @@
 {
 	"mod": [
+		
+		{
+	"name": "Truck Tesla Semi Support Trailer.bussidmod",
+	"title": "Truck Tesla Semi Support Trailer",
+	"url": "https://download.modbussid.co.id/6l7",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Tesla-Semi-Support-Trailer.jpg", "https://i.ytimg.com/vi/n_A5q9A_WYI/hqdefault.jpg", "https://i.ytimg.com/vi/n_A5q9A_WYI/hqdefault.jpg"],
+	"kategori": "truck",
+	"size": "22 mb",
+	"created_on": "17/07/2021"
+},
+
+
+	    {
+	"name": "Bus Marcopolo Paradiso 1800DD.bussidmod",
+	"title": "Bus Marcopolo Paradiso 1800DD",
+	"url": "https://download.modbussid.co.id/6l3",
+	"livery": ["https://download.modbussid.co.id/6l4"],
+	"img_url": ["https://i.ytimg.com/vi/3pqQfaR225I/mqdefault.jpg", "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Marcopolo-Paradiso-1800DD.jpg", "https://i.ytimg.com/vi/hmEqsg3Rt2Y/mqdefault.jpg"],
+	"kategori": "buss",
+	"size": "31 mb",
+	"created_on": "17/07/2021"
+},
 	    
 			     {
 	"name": "MOD BUSSID Gerobak Sampah.bussidmod",
