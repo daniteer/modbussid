@@ -1,6 +1,17 @@
 {
 	"mod": [
 		
+				{
+	"name": "Truck Trailer dan Kontainer Bisa Belok.bussidmod",
+	"title": "Truck Trailer dan Kontainer Bisa Belok",
+	"url": "https://download.modbussid.co.id/6l9",
+	"livery": ["https://download.modbussid.co.id/6lj", "https://download.modbussid.co.id/6li", "https://download.modbussid.co.id/6lh"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Hino-500-Trailer.jpg", "https://i.ytimg.com/vi/CMdY8lU6gBc/hqdefault.jpg", "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-Trailer.jpeg"],
+	"kategori": "truck",
+	"size": "56.6 mb",
+	"created_on": "17/07/2021"
+},
+		
 		{
 	"name": "Truck Tesla Semi Support Trailer.bussidmod",
 	"title": "Truck Tesla Semi Support Trailer",
