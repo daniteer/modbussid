@@ -1,6 +1,28 @@
 {
 	"mod": [
 		
+			{
+	"name": "Mobil Ford Bronco Wildtrak.bussidmod",
+	"title": "Mobil Ford Bronco Wildtrak",
+	"url": "https://download.modbussid.co.id/6lu",
+	"livery": ["https://download.modbussid.co.id/6ij", "https://download.modbussid.co.id/6ik", "https://download.modbussid.co.id/6im"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/Ford-Bronco-Wildtrak.jpg", "https://i.ytimg.com/vi/lttBajL7Wt0/maxresdefault.jpg", "https://www.gtainside.com/downloads/picr/2020-11/1606200523_2021-ford-bronco-wildtrak_3.jpeg"],
+	"kategori": "mobil",
+	"size": "31.9 mb",
+	"created_on": "18/07/2021"
+},
+		
+		{
+	"name": "Motor Honda PCX 150cc Thailook Style.bussidmod",
+	"title": "Motor Honda PCX 150cc Thailook Style",
+	"url": "https://download.modbussid.co.id/6k6",
+	"livery": ["https://download.modbussid.co.id/6ij", "https://download.modbussid.co.id/6il", "https://download.modbussid.co.id/6im"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/05/Honda-PCX-150cc-Thailook-Style.jpg", "https://i.ytimg.com/vi/W5SyPFp82Ew/mqdefault.jpg", "https://i.ytimg.com/vi/-Cs11egkM0c/mqdefault.jpg"],
+	"kategori": "motor",
+	"size": "40.2 mb",
+	"created_on": "18/07/2021"
+},
+		
 				{
 	"name": "Truck Trailer dan Kontainer Bisa Belok.bussidmod",
 	"title": "Truck Trailer dan Kontainer Bisa Belok",
