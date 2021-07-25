@@ -1,6 +1,17 @@
 {
 	"mod": [
 		
+		{
+	"name": "Mobil Mercedes-Benz W202.bussidmod",
+	"title": "Mobil Mercedes-Benz W202",
+	"url": "https://download.modbussid.co.id/6l5",
+	"livery": ["https://download.modbussid.co.id/6ik", "https://download.modbussid.co.id/6il"],
+	"img_url": ["hhttps://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Mercedes-Benz-W202.jpg", "https://i.ytimg.com/vi/N62hJkWkjyE/maxresdefault.jpg", "https://i.ytimg.com/vi/Jfvh2sG2NDc/maxresdefault.jpg"],
+	"kategori": "mobil",
+	"size": "38.3 mb",
+	"created_on": "25/07/2021"
+},
+		
 			{
 	"name": "Mobil Ford Bronco Wildtrak.bussidmod",
 	"title": "Mobil Ford Bronco Wildtrak",
