@@ -1,12 +1,23 @@
 {
 	"mod": [
 		
+				{
+	"name": "Truck Hino 500NG Muatan Semen.bussidmod",
+	"title": "Truck Hino 500NG Muatan Semen",
+	"url": "https://download.modbussid.co.id/5R9/MOD_BUSSID_Truck_Hino_500NG_Muatan_Semen.bussidmod",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/07/MOD-BUSSID-Truck-Hino-500NG-Muatan-Semen.jpeg", "http://stuffonmyrabbit.net/wp-content/uploads/2020/12/MOD-BUSSID-Truck-Hino-500NG-Muatan-Semen.jpg", "http://stuffonmyrabbit.net/wp-content/uploads/2020/12/Eksterior-Truck-Hino-500NG-Muatan-Semen.jpg"],
+	"kategori": "truck",
+	"size": "7.0 mb",
+	"created_on": "25/07/2021"
+},
+
 		{
 	"name": "Mobil Mercedes-Benz W202.bussidmod",
 	"title": "Mobil Mercedes-Benz W202",
 	"url": "https://download.modbussid.co.id/6l5",
 	"livery": ["https://download.modbussid.co.id/6ik", "https://download.modbussid.co.id/6il"],
-	"img_url": ["hhttps://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Mercedes-Benz-W202.jpg", "https://i.ytimg.com/vi/N62hJkWkjyE/maxresdefault.jpg", "https://i.ytimg.com/vi/Jfvh2sG2NDc/maxresdefault.jpg"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Mercedes-Benz-W202.jpg", "https://i.ytimg.com/vi/N62hJkWkjyE/maxresdefault.jpg", "https://i.ytimg.com/vi/Jfvh2sG2NDc/maxresdefault.jpg"],
 	"kategori": "mobil",
 	"size": "38.3 mb",
 	"created_on": "25/07/2021"
