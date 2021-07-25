@@ -1,6 +1,15 @@
 {
 	"mod": [
-		
+		{
+	"name": "Cyborg Hoverbike.bussidmod",
+	"title": "Cyborg Hoverbike",
+	"url": "https://download.modbussid.co.id/8Sd",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/03/Cyborg-Hoverbike.jpg", "https://i.ytimg.com/vi/A2hWLW-AS74/maxresdefault.jpg", "https://i.ytimg.com/vi/entnbYdIfzQ/maxresdefault.jpg"],
+	"kategori": "special",
+	"size": "5.8 mb",
+	"created_on": "25/07/2021"
+},
 				{
 	"name": "Truck Hino 500NG Muatan Semen.bussidmod",
 	"title": "Truck Hino 500NG Muatan Semen",
