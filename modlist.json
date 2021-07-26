@@ -1,5 +1,39 @@
 {
-	"mod": [
+	"mod": []
+	
+	{
+	"name": "Truck Optimus Prime Trailer.bussidmod",
+	"title": "Truck Optimus Prime Trailer",
+	"url": "https://download.modbussid.co.id/byf",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-Optimus-Prime-Trailer.jpg", "https://galeribussid.com/wp-content/uploads/2021/03/Photo_210624020329.jpeg", "https://i2.wp.com/ytimg.googleusercontent.com/vi/3v6J8PUxfOc/hqdefault.jpg"],
+	"kategori": "special",
+	"size": "8.6 mb",
+	"created_on": "26/07/2021"
+},
+	
+	{
+	"name": "Truck Mercedes-Benz Actros Double Trailer.bussidmod",
+	"title": "Truck Mercedes-Benz Actros Double Trailer",
+	"url": "https://download.modbussid.co.id/byh",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-Mercedes-Benz-Actros-Double-Trailer.jpg", "https://i.ytimg.com/vi/y7DjJoZ7fMM/hqdefault.jpg", "https://galeribussid.com/wp-content/uploads/2021/06/Photo_210626115708.jpeg"],
+	"kategori": "truck",
+	"size": "18.5 mb",
+	"created_on": "26/07/2021"
+},
+		
+		
+			{
+	"name": "Mobil Rolls-Royce Phantom Limousine.bussidmod",
+	"title": "Mobil Rolls-Royce Phantom Limousine",
+	"url": "https://download.modbussid.co.id/8X0",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Mobil-Rolls-Royce-Phantom-Limousine.jpg", "https://i.ytimg.com/vi/MP0tj8x40yY/maxresdefault.jpg", "https://i.ytimg.com/vi/2Gu9u9_D3YU/maxresdefault.jpg"],
+	"kategori": "mobil",
+	"size": "14.0 mb",
+	"created_on": "26/07/2021"
+},
 		{
 	"name": "Cyborg Hoverbike.bussidmod",
 	"title": "Cyborg Hoverbike",
