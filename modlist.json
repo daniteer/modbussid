@@ -1,6 +1,39 @@
 {
 	"mod":[
 	
+		
+		{
+	"name": "Mobil Mercedes-Benz Biome Concept.bussidmod",
+	"title": "Mobil Mercedes-Benz Biome Concept",
+	"url": "https://download.modbussid.co.id/8W0",
+	"livery": ["https://download.modbussid.co.id/8W1"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Mercedes-Benz-Biome-Concept.jpg", "https://img.gta5-mods.com/q75/images/mercedes-benz-biome-concept/fe887e-1.jpg", "https://galeribussid.com/wp-content/uploads/2021/06/Photo_210610075856.jpeg"],
+	"kategori": "mobil",
+	"size": "6.2 mb",
+	"created_on": "30/07/2021"
+},
+		
+		{
+	"name": "Mobil Ford Explorer Jurassic Park.bussidmod",
+	"title": "Mobil Ford Explorer Jurassic Park",
+	"url": "https://download.modbussid.co.id/8W2",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Ford-Explorer-Jurassic-Park.jpg", "https://i2.wp.com/ytimg.googleusercontent.com/vi/xR2CZGkYjQU/hqdefault.jpg", "https://i2.wp.com/ytimg.googleusercontent.com/vi/0HAyOD_8PmQ/hqdefault.jpg"],
+	"kategori": "mobil",
+	"size": "4.2 mb",
+	"created_on": "30/07/2021"
+},
+		{
+	"name": "Truck Mercedes-Benz Unimog Gandeng.bussidmod",
+	"title": "Truck Mercedes-Benz Unimog Gandeng",
+	"url": "https://download.modbussid.co.id/byc",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/Truck-Mercedes-Benz-Unimog-Gandeng.jpg", "https://i.ytimg.com/vi/EO9gPcG9efg/hqdefault.jpg", "https://i.ytimg.com/vi/2_FRrtIEOdg/hqdefault.jpg"],
+	"kategori": "truck",
+	"size": "36.4 mb",
+	"created_on": "30/07/2021"
+},
+		
 	{
 	"name": "Truck Optimus Prime Trailer.bussidmod",
 	"title": "Truck Optimus Prime Trailer",
