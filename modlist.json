@@ -1,14 +1,24 @@
 {
 	"mod":[
+				{
+	"name": "Truck MAN TGX V8 Trailer V1.bussidmod",
+	"title": "Truck MAN TGX V8 Trailer V1",
+	"url": "https://download.modbussid.co.id/8X7",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-MAN-TGX-V8-Trailer.jpg", "https://i.ytimg.com/vi/4sbZaV7D_J4/maxresdefault.jpg", "https://i.ytimg.com/vi/67sLndYIQys/maxresdefault.jpg"],
+	"kategori": "truck",
+	"size": "20.0 mb",
+	"created_on": "01/08/2021"
+},
 	
 		{
-	"name": "Pesawat Boeing P-8A Poseidon.bussidmod",
-	"title": "Pesawat Boeing P-8A Poseidon",
-	"url": "https://download.modbussid.co.id/bws",
-	"livery": [],
-	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/05/Pesawat-Boeing-P-8A-Poseidon.jpg", "https://asset.kompas.com/crops/OmsLVG4hiypM9FTg2Q40aP7jSMk=/40x0:940x600/780x390/filters:watermark(data/photo/2020/03/10/5e6775d554370.png,0,-0,1)/data/photo/2020/10/22/5f913863d5f3a.jpg", "https://1.bp.blogspot.com/-2uPtwGVo3cE/Xr63V2mbTOI/AAAAAAAAeZg/UGZwS8c-K8IyzCNNooPJhgYaQkpa8_vgwCNcBGAsYHQ/s1600/p-8a-poseidon.jpg"],
+	"name": "Pesawat Jet Cessna Citation X.bussidmod",
+	"title": "Pesawat Jet Cessna Citation X",
+	"url": "https://download.modbussid.co.id/3y3",
+	"livery": ["https://download.modbussid.co.id/3y4", "https://download.modbussid.co.id/3y6", "https://download.modbussid.co.id/3y5"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/Pesawat-Jet-Cessna-Citation-X.jpg", "https://i.ytimg.com/vi/DUJR3R4NGQA/maxresdefault.jpg", "https://i.ytimg.com/vi/z9RU00ZV6zI/maxresdefault.jpg"],
 	"kategori": "special",
-	"size": "29.1 mb",
+	"size": "3.3 mb",
 	"created_on": "01/08/2021"
 },
 		
