@@ -1,6 +1,16 @@
 {
 	"mod":[
 	
+		{
+	"name": "Pesawat Boeing P-8A Poseidon.bussidmod",
+	"title": "Pesawat Boeing P-8A Poseidon",
+	"url": "https://download.modbussid.co.id/bws",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/05/Pesawat-Boeing-P-8A-Poseidon.jpg", "https://asset.kompas.com/crops/OmsLVG4hiypM9FTg2Q40aP7jSMk=/40x0:940x600/780x390/filters:watermark(data/photo/2020/03/10/5e6775d554370.png,0,-0,1)/data/photo/2020/10/22/5f913863d5f3a.jpg", "https://1.bp.blogspot.com/-2uPtwGVo3cE/Xr63V2mbTOI/AAAAAAAAeZg/UGZwS8c-K8IyzCNNooPJhgYaQkpa8_vgwCNcBGAsYHQ/s1600/p-8a-poseidon.jpg"],
+	"kategori": "special",
+	"size": "29.1 mb",
+	"created_on": "01/08/2021"
+},
 		
 		{
 	"name": "Mobil Mercedes-Benz Biome Concept.bussidmod",
