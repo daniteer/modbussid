@@ -1,5 +1,26 @@
 {
 	"mod":[
+	
+		{
+	"name": "Mobil Toyota Land Cruiser VXR 200.bussidmod",
+	"title": "Mobil Toyota Land Cruiser VXR 200",
+	"url": "https://download.modbussid.co.id/8X6",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Mobil-Toyota-Land-Cruiser-VXR-200.jpg", "https://i.ytimg.com/vi/gJiXnKtp790/maxresdefault.jpg", "https://imgx.gridoto.com/crop/0x0:0x0/700x465/filters:watermark(file/2017/gridoto/img/watermark_jip.png,5,5,60)/photo/2019/04/26/1422569221.jpg"],
+	"kategori": "mobil",
+	"size": "43.0 mb",
+	"created_on": "03/08/2021"
+},
+	{
+	"name": "Mobil Chevrolet Nova S10.bussidmod",
+	"title": "Mobil Chevrolet Nova S10",
+	"url": "https://download.modbussid.co.id/byt",
+	"livery": ["https://download.modbussid.co.id/6ij", "https://download.modbussid.co.id/6ik", "https://download.modbussid.co.id/6im"],
+	"img_url": ["https://i.ytimg.com/vi/SBszS50OVKk/maxresdefault.jpg", "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Mobil-Toyota-Land-Cruiser-VXR-200.jpg", "https://i.ytimg.com/vi/QFCHwo9Rl80/maxresdefault.jpg"],
+	"kategori": "mobil",
+	"size": "36.3 mb",
+	"created_on": "03/08/2021"
+},
 			{
 	"name": "Pesawat Antonov An-225 Mriya.bussidmod",
 	"title": "Pesawat Antonov An-225 Mriya",
