@@ -1,5 +1,15 @@
 {
 	"mod":[
+			{
+	"name": "Pesawat Antonov An-225 Mriya.bussidmod",
+	"title": "Pesawat Antonov An-225 Mriya",
+	"url": "https://download.modbussid.co.id/65a",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Pesawat-Antonov-An-225-Mriya.jpg", "https://i.ytimg.com/vi/vrndGkqAhHw/maxresdefault.jpg", "https://i.ytimg.com/vi/jv4oISY91X0/maxresdefault.jpg"],
+	"kategori": "special",
+	"size": "18.9 mb",
+	"created_on": "03/08/2021"
+},
 				{
 	"name": "Truck MAN TGX V8 Trailer V1.bussidmod",
 	"title": "Truck MAN TGX V8 Trailer V1",
