@@ -1,5 +1,26 @@
 {
 	"mod":[
+		{
+	"name": "Truck Renault Premium 6×4 Beton.bussidmod",
+	"title": "Truck Renault Premium 6×4 Beton",
+	"url": "https://download.modbussid.co.id/bys",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-Renault-Premium-6x4-Beton.jpg", "https://galeribussid.com/wp-content/uploads/2021/07/Photo_210713113418.jpeg", "https://i.ytimg.com/vi/gBl6PenmyNk/maxresdefault.jpg"],
+	"kategori": "truck",
+	"size": "23.7 mb",
+	"created_on": "04/08/2021"
+},
+		
+		{
+	"name": "Truck Hydramax AERV.bussidmod",
+	"title": "Truck Hydramax AERV",
+	"url": "https://download.modbussid.co.id/byu",
+	"livery": ["https://download.modbussid.co.id/byv", "https://download.modbussid.co.id/byw", "https://download.modbussid.co.id/byx"],
+	"img_url": ["https://galeribussid.com/wp-content/uploads/2021/07/Photo_210703024008.jpeg", "https://img.gta5-mods.com/q75/images/hydramax-aerv-template/c14da5-GTA5%2011-06-2016%2013-50-15-960.jpg", "https://img.gta5-mods.com/q95/images/hydramax-aerv-template/c14da5-GTA5%2011-06-2016%2013-52-53-456.jpg"],
+	"kategori": "truck",
+	"size": "11.6 mb",
+	"created_on": "04/08/2021"
+},
 	
 		{
 	"name": "Mobil Toyota Land Cruiser VXR 200.bussidmod",
