@@ -1,5 +1,26 @@
 {
 	"mod":[
+		
+		{
+	"name": "Canter Berkah Cow Angkut Cabe.bussidmod",
+	"title": "Canter Berkah Cow Angkut Cabe",
+	"url": "https://download.modbussid.co.id/3ms",
+	"livery": ["https://download.modbussid.co.id/3mr"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Canter-Berkah-Cow-Angkut-Cabe.jpg", "https://1.bp.blogspot.com/-K1PUFqmbe1U/XyY9LFMSOUI/AAAAAAAAI5o/L-IQtXlYSyMOtnZYhR-qh2xoSH9-i2i1wCLcBGAsYHQ/w1200-h630-p-k-no-nu/Photo_200802110203.jpeg", "https://1.bp.blogspot.com/-pM4M0Z5c4s8/XyY9hGiYBHI/AAAAAAAAI6A/nv8VgfE9fE4ByVj2hj-WUp_BWtuejLCXQCLcBGAsYHQ/s320/Photo_200802110454.jpeg"],
+	"kategori": "truck",
+	"size": "29.4 mb",
+	"created_on": "08/08/2021"
+},
+			{
+	"name": "Mobil BMW M4 Competition 2021.bussidmod",
+	"title": "Mobil BMW M4 Competition 2021",
+	"url": "https://download.modbussid.co.id/6l6",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/BMW-M4-Competition-2021.jpg", "https://i.ytimg.com/vi/mJ5-kiJ4mWE/maxresdefault.jpg", "https://img.cintamobil.com/2020/10/27/radrgpyy/2021-bmw-m4-33e7.jpg"],
+	"kategori": "mobil",
+	"size": "21.4 mb",
+	"created_on": "08/08/2021"
+},
 		{
 	"name": "Truck Renault Premium 6×4 Beton.bussidmod",
 	"title": "Truck Renault Premium 6×4 Beton",
