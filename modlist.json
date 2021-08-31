@@ -2,6 +2,17 @@
 	"mod":[
 		
 		{
+	"name": "Truck DAF XF Euro 6.bussidmod",
+	"title": "Truck DAF XF Euro 6",
+	"url": "https://download.modbussid.co.id/6m8",
+	"livery": ["https://download.modbussid.co.id/6m9", "https://download.modbussid.co.id/6m9"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-DAF-XF-Euro-6.jpg", "https://i2.wp.com/ytimg.googleusercontent.com/vi/qjY6qHDbUDc/hqdefault.jpg", "https://i.ytimg.com/vi/ZmTk0ljyDxs/hqdefault.jpg"],
+	"kategori": "truck",
+	"size": "20.2 mb",
+	"created_on": "31/08/2021"
+},
+		
+		{
 	"name": "Bus Transjakarta Gandeng.bussidmod",
 	"title": "Bus Transjakarta Gandeng",
 	"url": "https://download.modbussid.co.id/8X4",
