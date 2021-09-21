@@ -1,6 +1,17 @@
 {
 	"mod":[
 		
+			{
+	"name": "Canter Berkah Cow Angkut Sapi.bussidmod",
+	"title": "Canter Berkah Cow Angkut Sapi",
+	"url": "https://download.modbussid.co.id/3mq",
+	"livery": ["https://download.modbussid.co.id/3mr"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Canter-Berkah-Cow-Angkut-Sapi.jpg", "https://i.ytimg.com/vi/Pcox80dJCDs/maxresdefault.jpg", "https://i.ytimg.com/vi/r-CaoalGOG0/hqdefault.jpg"],
+	"kategori": "truck",
+	"size": "30.0 mb",
+	"created_on": "21/09/2021"
+},
+		
 		{
 	"name": "Mobil Tesla Model 3.bussidmod",
 	"title": "Mobil Tesla Model 3",
