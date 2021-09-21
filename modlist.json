@@ -2,6 +2,38 @@
 	"mod":[
 		
 		{
+	"name": "Mobil Tesla Model 3.bussidmod",
+	"title": "Mobil Tesla Model 3",
+	"url": "https://download.modbussid.co.id/8Qd",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Tesla-Model-3.jpg", "https://i.ytimg.com/vi/JCsizzZCmB8/maxresdefault.jpg", "https://i2.wp.com/ytimg.googleusercontent.com/vi/KQW0aG4IzQw/hqdefault.jpg"],
+	"kategori": "car",
+	"size": "34.6 mb",
+	"created_on": "21/09/2021"
+},
+		{
+	"name": "Mobil Tesla Model 3.bussidmod",
+	"title": "Mobil Tesla Model 3",
+	"url": "https://download.modbussid.co.id/8Qd",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Tesla-Model-3.jpg", "https://i.ytimg.com/vi/JCsizzZCmB8/maxresdefault.jpg", "https://i2.wp.com/ytimg.googleusercontent.com/vi/KQW0aG4IzQw/hqdefault.jpg"],
+	"kategori": "car",
+	"size": "34.6 mb",
+	"created_on": "21/09/2021"
+},
+		
+		{
+	"name": "Mobil Derek.bussidmod",
+	"title": "Mobil Derek",
+	"url": "https://download.modbussid.co.id/6me",
+	"livery": ["https://download.modbussid.co.id/6mf"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Mobil-Derek.jpg", "https://i.ytimg.com/vi/Uy1VXZVdoZA/maxresdefault.jpg", "https://i2.wp.com/ytimg.googleusercontent.com/vi/eaEZoZl2uLo/hqdefault.jpg"],
+	"kategori": "car",
+	"size": "11.2 mb",
+	"created_on": "21/09/2021"
+},
+		
+		{
 	"name": "Truck Mercedes-Benz Atego Damkar.bussidmod",
 	"title": "Truck Mercedes-Benz Atego Damkar",
 	"url": "https://download.modbussid.co.id/6n8",
