@@ -1,9 +1,31 @@
 {
 	"mod":[
 		
+								{
+	"name": "Mobil Lamborghini Egoista.bussidmod",
+	"title": "Mobil Lamborghini Egoista",
+	"url": "https://download.modbussid.co.id/6nx",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/09/MOD-BUSSID-Mobil-Lamborghini-Egoista.jpg", "https://i.ytimg.com/vi/XxLsi6rj4uA/hqdefault.jpg", "https://i.ytimg.com/vi/Vjjq28bO27g/maxresdefault.jpg"],
+	"kategori": "car",
+	"size": "6.1 mb",
+	"created_on": "01/10/2021"
+},
+		
+						{
+	"name": "Mobil Mahindra Scorpio.bussidmod",
+	"title": "Mobil Mahindra Scorpio",
+	"url": "https://download.modbussid.co.id/bAd",
+	"livery": ["https://download.modbussid.co.id/6ij"],
+	"img_url": ["https://i.ytimg.com/vi/NFfNBtcJS8o/maxresdefault.jpg", "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Mahindra-Scorpio.jpg", "https://i.ytimg.com/vi/ufneaKbZ7cI/maxresdefault.jpg"],
+	"kategori": "car",
+	"size": "22.9 mb",
+	"created_on": "01/10/2021"
+},
+		
 					{
 	"name": "Jetbus 3 Sein Ngalir.bussidmod",
-	"title": " Jetbus 3 Sein Ngalir",
+	"title": "Jetbus 3 Sein Ngalir",
 	"url": "https://download.modbussid.co.id/3l4",
 	"livery": [],
 	"img_url": ["https://i.ytimg.com/vi/Q0mzekbXPkA/maxresdefault.jpg", "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Jetbus-3-Sein-Ngalir.png", "https://i.ytimg.com/vi/pthLqjngqRs/hqdefault.jpg"],
