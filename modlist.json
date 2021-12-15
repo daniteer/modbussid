@@ -1,7 +1,49 @@
 {
 	"mod":[
 		
-								{
+		{
+	"name": "SR2 XHD Prime Scania K410iB.bussidmod",
+	"title": "SR2 XHD Prime Scania K410iB",
+	"url": "https://download.modbussid.co.id/6on",
+	"livery": ["https://download.modbussid.co.id/6oq", "https://download.modbussid.co.id/6op", "https://download.modbussid.co.id/6or"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB.jpeg", "https://galeribussid.com/wp-content/uploads/2021/03/Livery-Borlindo-Update-SR2-XHD-Scania-K410iB.jpg", "https://i.ytimg.com/vi/diPqTd4TVQg/maxresdefault.jpg"],
+	"kategori": "buss",
+	"size": "45.4 mb",
+	"created_on": "15/12/2021"
+},
+			{
+	"name": "Bus Jetliner SHD Hino RK8.bussidmod",
+	"title": "Bus Jetliner SHD Hino RK8",
+	"url": "https://download.modbussid.co.id/6ot",
+	"livery": ["https://download.modbussid.co.id/6ou", "https://download.modbussid.co.id/6ov", "https://download.modbussid.co.id/6ow"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Bus-Jetliner-SHD-Hino-RK8.jpeg", "https://galeribussid.com/wp-content/uploads/2021/08/MOD-Bus-Update-Jetliner-SHD-Hino-RK8-by-Sahrul-Ramdani.jpg", "https://live.staticflickr.com/2924/33293083254_582ecc1386_b.jpg"],
+	"kategori": "buss",
+	"size": "37.2 mb",
+	"created_on": "15/12/2021"
+},
+		
+				{
+	"name": "Bus SR2 Panorama v2.bussidmod",
+	"title": "Bus SR2 Panorama v2",
+	"url": "https://download.modbussid.co.id/90T",
+	"livery": ["https://download.modbussid.co.id/90U"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg", "https://i1.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-19112021-060925.jpg", "https://i.ytimg.com/vi/275PouRoAc8/maxresdefault.jpg"],
+	"kategori": "buss",
+	"size": "67.8 mb",
+	"created_on": "15/12/2021"
+},
+		{
+	"name": "Bus SR2 Panorama.bussidmod",
+	"title": "Bus SR2 Panorama",
+	"url": "https://download.modbussid.co.id/90S",
+	"livery": ["https://download.modbussid.co.id/90U"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg", "https://i1.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-19112021-060925.jpg", "https://i.ytimg.com/vi/275PouRoAc8/maxresdefault.jpg"],
+	"kategori": "buss",
+	"size": "67.8 mb",
+	"created_on": "15/12/2021"
+},
+		
+	{
 	"name": "Mobil Lamborghini Egoista.bussidmod",
 	"title": "Mobil Lamborghini Egoista",
 	"url": "https://download.modbussid.co.id/6nx",
@@ -12,7 +54,7 @@
 	"created_on": "01/10/2021"
 },
 		
-						{
+{
 	"name": "Mobil Mahindra Scorpio.bussidmod",
 	"title": "Mobil Mahindra Scorpio",
 	"url": "https://download.modbussid.co.id/bAd",
