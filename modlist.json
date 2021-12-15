@@ -1,5 +1,26 @@
 {
 	"mod":[
+		{
+	"name": "Truck Canter Public Figure.bussidmod",
+	"title": "Truck Canter Public Figure",
+	"url": "https://download.modbussid.co.id/6ps",
+	"livery": ["https://download.modbussid.co.id/6pt"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Public-Figure.jpeg", "https://i.ytimg.com/vi/UKSuF_-JmME/sddefault.jpg", "https://i.ytimg.com/vi/yf3HVPKGBws/sddefault.jpg"],
+	"kategori": "truck",
+	"size": "47.2 mb",
+	"created_on": "15/12/2021"
+},
+		
+		{
+	"name": "Truck Canter Republik Gabah.bussidmod",
+	"title": "Truck Canter Republik Gabah",
+	"url": "https://download.modbussid.co.id/6pu",
+	"livery": ["https://download.modbussid.co.id/6pv"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Republik-Gabah.jpeg", "https://i.ytimg.com/vi/Dco-VnAdYQw/hqdefault.jpg", "https://i.ytimg.com/vi/atZQDtadHq0/maxresdefault.jpg"],
+	"kategori": "truck",
+	"size": "47.4 mb",
+	"created_on": "15/12/2021"
+},
 		
 		{
 	"name": "SR2 XHD Prime Scania K410iB.bussidmod",
