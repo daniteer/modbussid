@@ -1,5 +1,27 @@
 {
 	"mod":[
+		
+		{
+	"name": "Truck Canter NKR Tebu Racing.bussidmod",
+	"title": "Truck Canter NKR Tebu Racing",
+	"url": "https://download.modbussid.co.id/6p3",
+	"livery": ["https://download.modbussid.co.id/6p4"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Canter-NKR-Tebu-Racing.jpeg", "https://i.ytimg.com/vi/wMrqdeG1OuE/sddefault.jpg", "https://i.ytimg.com/vi/-Jo1zHxu528/hqdefault.jpg"],
+	"kategori": "truck",
+	"size": "19.4 mb",
+	"created_on": "16/12/2021"
+},
+				{
+	"name": "Truck Canter 010 Full Box Mbois.bussidmod",
+	"title": "Truck Canter 010 Full Box Mbois",
+	"url": "https://download.modbussid.co.id/6pn",
+	"livery": ["https://download.modbussid.co.id/6po", "https://download.modbussid.co.id/6pp"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-010-Full-Box-Mbois.jpeg", "https://i.ytimg.com/vi/U7Gl_3-FWC0/maxresdefault.jpg", "https://i.ytimg.com/vi/VtzvGPXezlI/maxresdefault.jpg"],
+	"kategori": "truck",
+	"size": "51.7 mb",
+	"created_on": "16/12/2021"
+},
+		
 		{
 	"name": "Truck Canter Public Figure.bussidmod",
 	"title": "Truck Canter Public Figure",
