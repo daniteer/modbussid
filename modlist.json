@@ -1,6 +1,27 @@
 {
 	"mod":[
 		
+			{
+	"name": "Truck Liebherr LTM 1300-6.2 Crane.bussidmod",
+	"title": "Truck Liebherr LTM 1300-6.2 Crane",
+	"url": "https://download.modbussid.co.id/6pj",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Liebherr-LTM-1300-6.2-Crane.jpeg", "https://gamesmods.net/uploads/posts/2018-02/1517940260_272726-farmingsimulator2017game-2018-02-06-08-24-18-336.jpg", "https://i.ytimg.com/vi/bGZ_Ofcar94/hqdefault.jpg"],
+	"kategori": "special",
+	"size": "5.4 mb",
+	"created_on": "16/12/2021"
+},
+		{
+	"name": "UD Quester Trailer ISO Tank.bussidmod",
+	"title": "UD Quester Trailer ISO Tank",
+	"url": "https://download.modbussid.co.id/6pl",
+	"livery": ["https://download.modbussid.co.id/6pm"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Trailer-ISO-Tank.jpeg", "https://i.ytimg.com/vi/gN5XGbuuGzQ/mqdefault.jpg", "https://i.ytimg.com/vi/WAnl1aCg2mo/maxresdefault.jpg"],
+	"kategori": "special",
+	"size": "43.7 mb",
+	"created_on": "16/12/2021"
+},
+		
 		{
 	"name": "Truck Canter NKR Tebu Racing.bussidmod",
 	"title": "Truck Canter NKR Tebu Racing",
