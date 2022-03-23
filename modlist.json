@@ -2,8 +2,19 @@
 	"mod":[
 		
 		{
-	"name": "Download MOD BUSSID Monster Truck Seventy Indonesia.bussidmod",
-	"title": "Download MOD BUSSID Monster Truck Seventy Indonesia",
+	"name": "Truck Volvo FMX 440.bussidmod",
+	"title": "Truck Volvo FMX 440",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Volvo_FMX_440_by_Ade_Iskandar.bussidmod",
+	"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Livery_Truck_Volvo_FMX_440_by_Ade_Iskandar.png?inline=false"],
+	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Volvo-FMX-440.jpeg", "https://blogger.googleusercontent.com/img/a/AVvXsEgmLm7cEZUdJt0ExlwOu4oEIh1cgnNtVcQVg9qPjLWFypWy4xk1S7rl3WiJ7ZIxzv4MziHa_9yzuUzGmp6Fz_GqBCCOaFauQn_cgBm9MgPzlDhaN349SENrKqLUZQRVrXRKHwxdrtcWGtTKDYeCR6BYGoIoReVeqJ_r_6GLGB7JvL_oZSIR0pGLMjGj=w1200-h630-p-k-no-nu", "https://i.ytimg.com/vi/oVF984YEaVM/maxresdefault.jpg"],
+	"kategori": "truck",
+	"size": "50.0 mb",
+	"created_on": "23/03/2022"
+},
+		
+		{
+	"name": "Monster Truck Seventy Indonesia.bussidmod",
+	"title": "Monster Truck Seventy Indonesia",
 	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Monster_Truck_Seventy_Indonesia_by_Muhammad_Gibran_.bussidmod",
 	"livery": [],
 	"img_url": ["https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg", "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-22122021-115247.jpg", "https://i.ytimg.com/vi/w8Tz7fDu5pg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAURt6Y56l_It1vOGOJkIA6LnUwpw"],
