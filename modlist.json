@@ -2,6 +2,17 @@
 	"mod":[
 		
 		{
+	"name": "Truck Isuzu Giga Trailer Full Anim Panjang.bussidmod",
+	"title": "Truck Isuzu Giga Trailer Full Anim Panjang",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/3._ISUZU_GIGA.bussidmod",
+	"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/3__MOD_giga_ht3.bussidmodMod_Vehicle0.png"],
+	"img_url": ["https://modbussidterbaru.com/wp-content/uploads/2021/09/Screenshot_2021-09-27-16-11-26-82_5d347d05ff406c08e59fd63f6905b8af.jpg", "https://i.ytimg.com/vi/KA-Gxmv0Cgg/hqdefault.jpg"],
+	"kategori": "truck",
+	"size": "52.0 mb",
+	"created_on": "14/04/2022"
+},
+		
+		{
 	"name": "Truck Fuso Trailer Muat Hitachi Excavator.bussidmod",
 	"title": "Truck Fuso Trailer Muat Hitachi Excavator",
 	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/2._FUSO_THE_GREAT_DOLLY.bussidmod",
