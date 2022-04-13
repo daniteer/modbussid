@@ -2,6 +2,17 @@
 	"mod":[
 		
 		{
+	"name": "Truck Fuso Trailer Muat Hitachi Excavator.bussidmod",
+	"title": "Truck Fuso Trailer Muat Hitachi Excavator",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/2._FUSO_THE_GREAT_DOLLY.bussidmod",
+	"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/2._FUSO_THE_GREAT_DOLLY.png"],
+	"img_url": ["https://modbussidterbaru.com/wp-content/uploads/2021/09/Screenshot_2021-09-27-16-10-13-41_5d347d05ff406c08e59fd63f6905b8af.jpg", "https://i.ytimg.com/vi/oOs0xhgOsH8/maxresdefault.jpg"],
+	"kategori": "truck",
+	"size": "65.7 mb",
+	"created_on": "14/04/2022"
+},
+		
+		{
 	"name": "Truck Canter New Calista.bussidmod",
 	"title": "Truck Canter New Calista",
 	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/2._S3_Shilo.bussidmod",
