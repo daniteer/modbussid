@@ -2,6 +2,17 @@
 	"mod":[
 		
 		{
+	"name": "Toyota Hiace Ambulance.bussidmod",
+	"title": "Toyota Hiace Ambulance",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota_HiAce_Ambulance.bussidmod?inline=false",
+	"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/template.png"],
+	"img_url": ["https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-11042022-113518.jpg?w=1200&ssl=1", "https://i.ytimg.com/vi/OlaGgKb9QFU/hqdefault.jpg"],
+	"kategori": "special",
+	"size": "9.3 mb",
+	"created_on": "15/04/2022"
+},
+		
+		{
 	"name": "Ford Thunderbird Lowriders.bussidmod",
 	"title": "Ford Thunderbird Lowriders",
 	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Ford_Thunderbird_Lowriders.bussidmod",
