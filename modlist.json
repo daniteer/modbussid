@@ -2,9 +2,20 @@
 	"mod":[
 		
 		{
+	"name": "MPGT 2 DG .bussidmod",
+	"title": "MPGT 2 DG",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/mpgt_2_dg_gen1_free.bussidmod",
+	"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/mpgt2dgeka.png", "https://gitlab.com/trirdani/bussid-data/-/raw/main/received_557757879046062.png"],
+	"img_url": ["https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-11042022-113518.jpg?w=1200&ssl=1", "https://i.ytimg.com/vi/OlaGgKb9QFU/hqdefault.jpg", "https://image.winudf.com/v2/image1/Y29tLnN1cGVybWFsZW8uYnVzY2VwZXJfc2NyZWVuXzRfMTYyMDEyODU1Nl8wODI/screen-4.jpg?fakeurl=1&type=.jpg"],
+	"kategori": "buss",
+	"size": "26.3 mb",
+	"created_on": "15/04/2022"
+},
+		
+		{
 	"name": "Toyota Hiace Ambulance.bussidmod",
 	"title": "Toyota Hiace Ambulance",
-	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota_HiAce_Ambulance.bussidmod?inline=false",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota_HiAce_Ambulance.bussidmod",
 	"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/template.png"],
 	"img_url": ["https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-11042022-113518.jpg?w=1200&ssl=1", "https://i.ytimg.com/vi/OlaGgKb9QFU/hqdefault.jpg"],
 	"kategori": "special",
