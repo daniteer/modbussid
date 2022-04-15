@@ -2,6 +2,17 @@
 	"mod":[
 		
 		{
+	"name": "Ford Thunderbird Lowriders.bussidmod",
+	"title": "Ford Thunderbird Lowriders",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Ford_Thunderbird_Lowriders.bussidmod",
+	"livery": [],
+	"img_url": ["https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-13042022-132133.jpg?w=1200&ssl=1", "https://cs1.gtaall.com/screenshots/4dc09/2013-09/original/7ba058af6f13148f36cc4c6cc1d296d70a4240d9/84938-1319877661-gallery27.jpg"],
+	"kategori": "car",
+	"size": "7.9 mb",
+	"created_on": "15/04/2022"
+},
+		
+		{
 	"name": "Truck Isuzu Giga Trailer Full Anim Panjang.bussidmod",
 	"title": "Truck Isuzu Giga Trailer Full Anim Panjang",
 	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/3._ISUZU_GIGA.bussidmod",
