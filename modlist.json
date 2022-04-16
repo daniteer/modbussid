@@ -2,6 +2,19 @@
 	"mod":[
 		
 		{
+	"name": "Marcopolo Paradiso G6 1800DD 8×2 Scania K420.bussidmod",
+	"title": "Marcopolo Paradiso G6 1800DD 8×2 Scania K420",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/marcopolo%20paradiso/Marcopolo_Paradiso_Harapan_Jaya_8x2_SCANIA_K420.bussidmod",
+	"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/marcopolo%20paradiso/viasul.png?inline=false",
+		  "https://gitlab.com/trirdani/bussid-data/-/raw/main/marcopolo%20paradiso/cometa.png?inline=false",
+		  "https://gitlab.com/trirdani/bussid-data/-/raw/main/marcopolo%20paradiso/uniao.png?inline=false"],
+	"img_url": ["https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-16022022-133651.jpg?w=1200&ssl=1", "https://i.ytimg.com/vi/MisTUA0vuzU/maxresdefault.jpg"],
+	"kategori": "buss",
+	"size": "18.9 mb",
+	"created_on": "17/04/2022"
+},
+		
+		{
 	"name": "RS Integra ALS 270.bussidmod",
 	"title": "RS Integra ALS 270",
 	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Salinan_Salinan_integra.bussidmod",
