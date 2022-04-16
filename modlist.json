@@ -2,11 +2,47 @@
 	"mod":[
 		
 		{
+	"name": "RS Integra ALS 270.bussidmod",
+	"title": "RS Integra ALS 270",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Salinan_Salinan_integra.bussidmod",
+	"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/RS%20Integra%20ALS%20270%20livery/bodyint.png",
+		  "https://gitlab.com/trirdani/bussid-data/-/raw/main/RS%20Integra%20ALS%20270%20livery/integra.png"],
+	"img_url": ["https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-13042022-185137.jpg?w=1200&ssl=1", "https://i.ytimg.com/vi/5uEa3NOeKZU/hqdefault.jpg"],
+	"kategori": "buss",
+	"size": "33.8 mb",
+	"created_on": "17/04/2022"
+},
+	
+		
+			{
+	"name": "Truck Fuso Long Chasis Full Muatan.bussidvehicle",
+	"title": "Truck Fuso Long Chasis Full Muatan",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck_Panjang.bussidvehicle",
+	"livery": [],
+	"img_url": ["https://modbussidterbaru.com/wp-content/uploads/2021/05/Screenshot_2021-05-28-09-45-17-86_5d347d05ff406c08e59fd63f6905b8af.jpg"],
+	"kategori": "truck",
+	"size": "18.7 mb",
+	"created_on": "17/04/2022"
+},
+		
+				{
+	"name": "Classic Jadul Marodadi Prima Patriot Standart_2.bussidmod",
+	"title": "Classic Jadul Marodadi Prima Patriot Standart_2",
+	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Classic_Jadul_Marodadi_Prima_Patriot_Standart_2.bussidmod",
+	"livery": [],
+	"img_url": ["https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/1.jpg", "https://i.ytimg.com/vi/ykZYUnNX02c/maxresdefault.jpg", "https://i.pinimg.com/736x/35/a5/56/35a556e0c895ccb59aad238387ff3289.jpg"],
+	"kategori": "buss",
+	"size": "9.4 mb",
+	"created_on": "17/04/2022"
+},
+	
+		
+		{
 	"name": "MPGT 2 DG .bussidmod",
 	"title": "MPGT 2 DG",
 	"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/mpgt_2_dg_gen1_free.bussidmod",
 	"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/mpgt2dgeka.png", "https://gitlab.com/trirdani/bussid-data/-/raw/main/received_557757879046062.png"],
-	"img_url": ["https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-11042022-113518.jpg?w=1200&ssl=1", "https://i.ytimg.com/vi/OlaGgKb9QFU/hqdefault.jpg", "https://image.winudf.com/v2/image1/Y29tLnN1cGVybWFsZW8uYnVzY2VwZXJfc2NyZWVuXzRfMTYyMDEyODU1Nl8wODI/screen-4.jpg?fakeurl=1&type=.jpg"],
+	"img_url": ["https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-01042022-090524.jpg", "https://2.bp.blogspot.com/-zOPItmWGLAM/XCyS7XtbqEI/AAAAAAAABxk/GaYwU4highc-Rm69NrnzuU1ZwrvJBt-YwCLcBGAs/w0/SS%2BPresisi%2BBody.jpg", "https://4.bp.blogspot.com/-hmnnMwXtqwI/WbrLvH4bt0I/AAAAAAAAAEg/SCou7gfaNt4vf4VS13jne_vrbJ-0ZeKgQCLcBGAs/s640/Copy%2Bof%2Bets2_00001.jpg"],
 	"kategori": "buss",
 	"size": "26.3 mb",
 	"created_on": "15/04/2022"
