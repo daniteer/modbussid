@@ -2,6 +2,21 @@
   "mod": [
     
     {
+      "name": "Jetliner Hino RN285 Mod.bussidmod",
+      "title": "Jetliner Hino RN285 Mod",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/1_jetliner_hdd_rn285_DOP.bussidmod?inline=false",
+      "livery": [
+      ],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-08022022-160603.jpg?w=1200&ssl=1",
+        "https://galeribussid.com/wp-content/uploads/2022/02/MOD-Bus-Jetliner-HDD-Hino-RN285-MDC.webp"
+      ],
+      "kategori": "buss",
+      "size": "53.0 mb",
+      "created_on": "20/04/2022"
+    },
+    
+    {
       "name": "Avante H8 Flanker.bussidmod",
       "title": "Avante H8 Flanker",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/avante%20h8%20flanker/update_std_v1.bussidmod",
