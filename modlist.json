@@ -2,6 +2,23 @@
   "mod": [
     
     {
+      "name": "Avante H8 Flanker.bussidmod",
+      "title": "Avante H8 Flanker",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/avante%20h8%20flanker/update_std_v1.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/avante%20h8%20flanker/liver_avantee3ee_includ_by_Ahmdsgn-picsay.png",
+                 "https://gitlab.com/trirdani/bussid-data/-/raw/main/avante%20h8%20flanker/liver_avantee3ee_includ_by_Ahmdsgn-picsay.png",
+                 "https://gitlab.com/trirdani/bussid-data/-/raw/main/avante%20h8%20flanker/Avante_H9_Kapuas_Raya_By_FCRZ__scania_-picsay.png"
+      ],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/03/SGCA_IMG-03032022-194420.jpg?w=1200&ssl=1",
+        "https://i.ytimg.com/vi/oFNhQBVX3xo/maxresdefault.jpg"
+      ],
+      "kategori": "buss",
+      "size": "47.0 mb",
+      "created_on": "20/04/2022"
+    },
+    
+    {
       "name": "Hino Dutro Mbois Full Strobo/Animasi.bussidmod",
       "title": "Hino Dutro Mbois Full Strobo/Animasi",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/DUTRO_SHARE_BY_JODS_TV.bussidmod",
