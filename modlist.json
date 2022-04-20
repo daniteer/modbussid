@@ -1,5 +1,20 @@
 {
   "mod": [
+    
+    {
+      "name": "Hino Dutro Mbois Full Strobo/Animasi.bussidmod",
+      "title": "Hino Dutro Mbois Full Strobo/Animasi",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/DUTRO_SHARE_BY_JODS_TV.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/dutro_mbois.png"
+      ],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2021/03/Photo_210313015550.jpeg",
+        "https://i.ytimg.com/vi/d68x0s2tJTk/maxresdefault.jpg"
+      ],
+      "kategori": "truck",
+      "size": "42.0 mb",
+      "created_on": "20/04/2022"
+    },
     {
       "name": "Marcopolo Paradiso G6 1800DD 8×2 Scania K420.bussidmod",
       "title": "Marcopolo Paradiso G6 1800DD 8×2 Scania K420",
