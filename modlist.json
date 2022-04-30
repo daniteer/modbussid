@@ -1,6 +1,22 @@
 {
   "mod": [
     
+     {
+      "name": "Hino Lohan Tronton Ocu Paibo.bussidmod",
+      "title": "Hino Lohan Tronton Ocu Paibo",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Hino%20Lohan%20Tronton%20Ocu%20Paibo/HINO_LOHAN_TRONTON_OCU_PAIBO_DOP_CUSTOME.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Hino%20Lohan%20Tronton%20Ocu%20Paibo/livery.png"
+      ],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-19022022-151201.jpg",
+        "https://i.ytimg.com/vi/UpWgZ0e-LKw/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/qlCG-NpcmQQ/hqdefault.jpg"
+      ],
+      "kategori": "truck",
+      "size": "54.9 mb",
+      "created_on": "30/04/2022"
+    },
+    
     {
       "name": "Hino Lohan Molen.bussidmod",
       "title": "Hino Lohan Molen",
@@ -8,7 +24,7 @@
       "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Hino%20Lohan%20Molen/liveryy.png"
       ],
       "img_url": [
-        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-26022022-090953.jpg?w=120",
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-26022022-090953.jpg",
         "https://i.ytimg.com/vi/nDFw9598pug/maxresdefault.jpg"
       ],
       "kategori": "truck",
