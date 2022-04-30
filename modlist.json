@@ -2,17 +2,17 @@
   "mod": [
     
      {
-      "name": "UD Kuzer Tangki.bussidmod",
-      "title": "UD Kuzer Tangki",
-      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/UD%20Kuzer%20tangki%20mod/UD_KUZER_TANGKI_ad_iskn.bussidmod",
-      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/UD%20Kuzer%20tangki%20mod/AO_KUZER_TANGKI.png"
+      "name": "UD Quester Sohade.bussidmod",
+      "title": "UD Quester Sohade",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/UD%20Quester%20Sohade/QUESTER_TRAILER_ad_iskn.bussidmod",
+      "livery": [
       ],
       "img_url": [
-        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-19042022-195534.jpg",
-        "https://i.ytimg.com/vi/MIhNEzdNsOg/maxresdefault.jpg"
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-22022022-174104.jpg",
+        "https://i.ytimg.com/vi/56sI3BwGUvI/hqdefault.jpg"
       ],
       "kategori": "truck",
-      "size": "33.6 mb",
+      "size": "33.7 mb",
       "created_on": "30/04/2022"
     },
     
