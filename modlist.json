@@ -2,6 +2,21 @@
   "mod": [
     
     {
+      "name": "RS Evolution Kuler.bussidmod",
+      "title": "RS Evolution Kuler",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/RS%20Evolution%20Kuler/rs_evolution_csart_cvt_Sahrul_Ramdani.bussidmod",
+      "livery": [
+      ],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-01012022-060500.jpg",
+        "https://1.bp.blogspot.com/-rS0yHryniQQ/XPPky9Gl--I/AAAAAAAAAlU/0W6mai-bh8s5WltwZhyRLflhnE74NIuMwCLcBGAs/s640/PicsArt_05-03-08.27.55.png"
+      ],
+      "kategori": "buss",
+      "size": "8.2 mb",
+      "created_on": "01/05/2022"
+    },
+    
+    {
       "name": "Toyota Supra M4K JDM.bussidmod",
       "title": "Toyota Supra M4K JDM",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota_Supra_M4K.bussidmod",
