@@ -1,6 +1,38 @@
 {
   "mod": [
     
+    {
+      "name": "Toyota Supra M4K JDM.bussidmod",
+      "title": "Toyota Supra M4K JDM",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota_Supra_M4K.bussidmod",
+      "livery": [
+      ],
+      "img_url": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjctqol5gqn4y37GecJRKDPRCf-2JzNQ4yWup3b9JTUnfPMZxICByk01WU450dvbLmG50tQ9Gii21xkU8fHIgBftS_JslmZq0ckVPvFQmDJZOxujtfrUCn8p1ir_LB5yXSOd_qXc7D62y5BptML3WWD7q5xBuKXXWNEsV-5sFkOQlO3b1in9TvrCHPt/s1600/Photo_220428061644.png",
+        "https://i0.wp.com/i.imgur.com/euOkidx.jpeg?w=1290&ssl=1",
+        "https://i.pinimg.com/originals/9f/16/1c/9f161cbf0f6d9b55aa6237084b536d80.jpg"
+      ],
+      "kategori": "car",
+      "size": "8.2 mb",
+      "created_on": "01/05/2022"
+    },
+    
+     {
+      "name": "Jeep Cherokee 1984 Off-Road.bussidmod",
+      "title": "Jeep Cherokee 1984 Off-Road",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Jeep%20Cherokee%201984%20Off-Road/Jeep_Cherokee_1984_Off-Road.bussidmod",
+      "livery": [
+      ],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-26042022-195453.jpg",
+        "https://i.ytimg.com/vi/fL8VZmX2vEA/hqdefault.jpg",
+        "https://s.yimg.com/aah/rodi/jeep-cherokee-xj-all-terrain-fender-flares-1984-2001-23.png"
+      ],
+      "kategori": "car",
+      "size": "20.4 mb",
+      "created_on": "01/05/2022"
+    },
+    
      {
       "name": "Hino Lohan Tronton Ocu Paibo.bussidmod",
       "title": "Hino Lohan Tronton Ocu Paibo",
