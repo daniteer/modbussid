@@ -2,17 +2,17 @@
   "mod": [
     
     {
-      "name": "RS Evolution Kuler.bussidmod",
-      "title": "RS Evolution Kuler",
-      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/RS%20Evolution%20Kuler/rs_evolution_csart_cvt_Sahrul_Ramdani.bussidmod",
-      "livery": [
+      "name": "SR1 Old.bussidmod",
+      "title": "SR1 Old",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/SR1%20old/sr1_sph_cvt_Sahrul.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/SR1%20old/PicsArt_12-26-06.00.38.png"
       ],
       "img_url": [
-        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-01012022-060500.jpg",
-        "https://1.bp.blogspot.com/-rS0yHryniQQ/XPPky9Gl--I/AAAAAAAAAlU/0W6mai-bh8s5WltwZhyRLflhnE74NIuMwCLcBGAs/s640/PicsArt_05-03-08.27.55.png"
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhtYn_Akez1ubFmsAIairZTN0oo1cZWKvjjyVfxCHSSjJq3wHS04ufDKsz1Oc9i1el8wHQezz6VYd0FxFO4_cj9-7HwuwBskFWnKv6POAapQ8kn77yCBROP6ccWn1M-cCiemhBLpqqfjmvU-Bl5DQ9KlMwrccUSz9XeHV4B1GsfjO1X5-5GR04xYC3OLQ=s1200",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiothpCU6_bg6syjh9CgMJ4Gap9R3OzShjpVX010C6WtJeaaYSjUlty6-k2i0IcSWP_gVRsdM6M7ESuljlbkkWvTEYJLQE41BHQ4uvnVgz7eSfdgX1TvoHdQmvnZfRhTpLdNHwkXth5FGZAbuX0JDEoZu0yz4MvZj8l1zdx421BhVpc5nvH_dTPvgefjg=s1200"
       ],
       "kategori": "buss",
-      "size": "8.2 mb",
+      "size": "13.6 mb",
       "created_on": "01/05/2022"
     },
     
