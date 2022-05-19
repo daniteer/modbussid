@@ -3,6 +3,20 @@
     
     
     {
+      "name": "Toyota GR86 Pandem.bussidmod",
+      "title": "Toyota GR86 Pandem",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota%20GR86%20Pandem/Toyota_GR86_Pandem_from_Drift_Spirits_cvt_MAH_Channel.bussidmod",
+      "livery": [],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-12052022-140532.jpg",
+        "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/03/MOD-BUSSID-Mobil-Toyota-GT-86-1.jpeg"
+      ],
+      "kategori": "car",
+      "size": "16.6mb",
+      "created_on": "19/05/2022"
+    },
+    
+    {
       "name": "BMW X4.bussidmod",
       "title": "BMW X4",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/BMW%20X4/BMW_X4.bussidmod",
