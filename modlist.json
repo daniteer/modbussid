@@ -1,6 +1,22 @@
 {
   "mod": [
     
+    
+    {
+      "name": "Fuso Engkel Sefloader.bussidmod",
+      "title": "Fuso Engkel Sefloader",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Fuso%20FN%20Gandeng/FUSO_GANDENG_V2_ad_iskn.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Fuso%20Engkel%20Sefloader/update_livery.png"],
+      "img_url": [
+        "https://i.ytimg.com/vi/kCasvi1evdk/hqdefault.jpg",
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-06012022-163250.jpg",
+        "https://i.ytimg.com/vi/ySoGyYbx04c/maxresdefault.jpg"
+      ],
+      "kategori": "truck",
+      "size": "31.3mb",
+      "created_on": "19/05/2022"
+    },
+    
     {
       "name": "Fuso FN Gandeng.bussidmod",
       "title": "Fuso FN Gandeng",
