@@ -1,6 +1,21 @@
 {
   "mod": [
     
+     {
+      "name": "JB3 HDD Purnayasa.bussidmod",
+      "title": "JB3 HDD Purnayasa",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20HDD%20Purnayasa/HDD_PURNAYASA.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20HDD%20Purnayasa/Purnayasa_Trans_by_Andra.png"
+      ],
+      "img_url": [
+        "https://i.ytimg.com/vi/d8dKGf6JS-U/maxresdefault.jpg",
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-11052022-081657.jpg"
+      ],
+      "kategori": "buss",
+      "size": "36.6 mb",
+      "created_on": "19/05/2022"
+    },
+    
     {
       "name": "SR1 Old.bussidmod",
       "title": "SR1 Old",
