@@ -1,6 +1,20 @@
 {
   "mod": [
     
+    {
+      "name": "Fuso FN Gandeng.bussidmod",
+      "title": "Fuso FN Gandeng",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Fuso%20FN%20Gandeng/FUSO_GANDENG_V2_ad_iskn.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Fuso%20FN%20Gandeng/LIVERY_FUSO_GANDENG.png"],
+      "img_url": [
+        "https://i.ytimg.com/vi/6L8NbbBxqwM/maxresdefault.jpg",
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-01022022-200823.jpg",
+        "https://i.ytimg.com/vi/8iyXq4cudqw/maxresdefault.jpg"
+      ],
+      "kategori": "truck",
+      "size": "27.1 mb",
+      "created_on": "19/05/2022"
+    },
     
          {
       "name": "Hino 500 Damkar.bussidmod",
