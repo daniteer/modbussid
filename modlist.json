@@ -1,6 +1,22 @@
 {
   "mod": [
     
+         {
+      "name": "Hino Evo C Transjakarta.bussidmod",
+      "title": "Hino Evo C Transjakarta",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Hino%20Evo%20C%20Transjakarta/Bus_Hino_Evo-C_Transjakarta.bussidmod",
+      "livery": [],
+      "img_url": [
+        "https://gtaland.net/wp-content/uploads/2020/11/1466798940_gallery66_GTALand.net.jpg",
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-02052022-022802.jpg",
+        "https://i.ytimg.com/vi/z2nEmmXhAJY/maxresdefault.jpg"
+      ],
+      "kategori": "buss",
+      "size": "9.1 mb",
+      "created_on": "19/05/2022"
+    },
+
+    
      {
       "name": "JB3 HDD Purnayasa.bussidmod",
       "title": "JB3 HDD Purnayasa",
