@@ -1,6 +1,22 @@
 {
   "mod": [
     
+    
+         {
+      "name": "Hino 500 Damkar.bussidmod",
+      "title": "Hino 500 Damkar",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Hino%20Evo%20C%20Transjakarta/Bus_Hino_Evo-C_Transjakarta.bussidmod",
+      "livery": [],
+      "img_url": [
+        "https://i.ytimg.com/vi/lrJcSIOr0ws/maxresdefault.jpg",
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-05052022-165535.jpg",
+        "https://i.ytimg.com/vi/EJDpArno5ZY/maxresdefault.jpg"
+      ],
+      "kategori": "truck",
+      "size": "29.0 mb",
+      "created_on": "19/05/2022"
+    },
+    
          {
       "name": "Hino Evo C Transjakarta.bussidmod",
       "title": "Hino Evo C Transjakarta",
