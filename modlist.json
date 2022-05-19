@@ -3,6 +3,20 @@
     
     
     {
+      "name": "BMW X4.bussidmod",
+      "title": "BMW X4",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/BMW%20X4/BMW_X4.bussidmod",
+      "livery": [],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-17052022-181804.jpg",
+        "https://cs1.gtaall.com/screenshots/4dc09/2019-04/original/71c225fc3bbabc7b0f6fa429e21ae9b83d71d31d/718069-gallery3.jpg"
+      ],
+      "kategori": "truck",
+      "size": "35.2mb",
+      "created_on": "19/05/2022"
+    },
+    
+    {
       "name": "Fuso Engkel Sefloader.bussidmod",
       "title": "Fuso Engkel Sefloader",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Fuso%20FN%20Gandeng/FUSO_GANDENG_V2_ad_iskn.bussidmod",
