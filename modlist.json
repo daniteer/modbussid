@@ -1,6 +1,21 @@
 {
   "mod": [
     
+        {
+      "name": "JJb3+ shd hino GARUDA MAS YUKIKATO.bussidmod",
+      "title": "JJb3+ shd hino GARUDA MAS YUKIKATO",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Jb3+%20shd%20hino%20garuda%20mas%20yukikato/NON_FACELIFT_RING_FULL_VARIASI.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Jb3+%20shd%20hino%20garuda%20mas%20yukikato/Garuda_Mas_Yukikato_by_Hanafi_Hardiyan.png", "https://gitlab.com/trirdani/bussid-data/-/raw/main/Jb3+%20shd%20hino%20garuda%20mas%20yukikato/Garuda_Mas_Yukikato_NB_by_Hanafi_Hardiyan.png?inline=false"],
+      "img_url": [
+        "https://i.ytimg.com/vi/4yO_C7A8UV8/hqdefault.jpg",
+        "https://i.ytimg.com/vi/tdcTaPXLFTM/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/B-iA_h90Mfs/maxresdefault.jpg"
+      ],
+      "kategori": "buss",
+      "size": "39.2 mb",
+      "created_on": "21/05/2022"
+    },
+    
     {
       "name": "Jetbus HD Kuler.bussidmod",
       "title": "Jetbus HD Kuler",
