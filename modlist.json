@@ -1,6 +1,20 @@
 {
   "mod": [
     
+        {
+      "name": "JB3 Dream Coach.bussidmod",
+      "title": "JB3 Dream Coach",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20Dream%20Coach/JB3_DC_VAR_ALCOA.bussidmod",
+      "livery": [],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-19052022-221448.jpg",
+        "https://i.ytimg.com/vi/3-C8dnB3jmI/maxresdefault.jpg"
+      ],
+      "kategori": "buss",
+      "size": "63.5 mb",
+      "created_on": "21/05/2022"
+    },
+    
     
     {
       "name": "Toyota GR86 Pandem.bussidmod",
@@ -12,7 +26,7 @@
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/03/MOD-BUSSID-Mobil-Toyota-GT-86-1.jpeg"
       ],
       "kategori": "car",
-      "size": "16.6mb",
+      "size": "16.6 mb",
       "created_on": "19/05/2022"
     },
     
@@ -26,7 +40,7 @@
         "https://cs1.gtaall.com/screenshots/4dc09/2019-04/original/71c225fc3bbabc7b0f6fa429e21ae9b83d71d31d/718069-gallery3.jpg"
       ],
       "kategori": "truck",
-      "size": "35.2mb",
+      "size": "35.2 mb",
       "created_on": "19/05/2022"
     },
     
@@ -41,7 +55,7 @@
         "https://i.ytimg.com/vi/ySoGyYbx04c/maxresdefault.jpg"
       ],
       "kategori": "truck",
-      "size": "31.3mb",
+      "size": "31.3 mb",
       "created_on": "19/05/2022"
     },
     
