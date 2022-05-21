@@ -1,6 +1,20 @@
 {
   "mod": [
     
+    {
+      "name": "Jetbus HD Kuler.bussidmod",
+      "title": "Jetbus HD Kuler",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/jb%20hd%20kuler/jbhdipw.bussidmod",
+      "livery": [],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-22012022-075009.jpg",
+        "https://i.ytimg.com/vi/L-toZWmooUE/hqdefault.jpg"
+      ],
+      "kategori": "buss",
+      "size": "33.1 mb",
+      "created_on": "21/05/2022"
+    },
+    
         {
       "name": "JB3 Dream Coach.bussidmod",
       "title": "JB3 Dream Coach",
