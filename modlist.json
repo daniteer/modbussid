@@ -2,6 +2,56 @@
   "mod": [
     
     {
+      "name": "Kereta Santa Claus.bussidmod",
+      "title": "Kereta Santa Claus",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Kereta_Santa_Claus_by_MAH_Channel.bussidmod",
+      "livery": [],
+      "img_url": [
+"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Kereta-Santa-Claus.jpeg", "https://i.ytimg.com/vi/fRDYS74Zzyw/maxresdefault.jpg", "https://i.ytimg.com/vi/Ve64WsYLtpc/maxresdefault.jpg"],
+      "kategori": "special",
+      "size": "6.52 mb",
+      "created_on": "16/06/2022"
+    },
+    
+     {
+      "name": "Kereta Api Arcelor Mittal ES44AC.bussidmod",
+      "title": "Kereta Api Arcelor Mittal ES44AC",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Kereta_Api_Arcelor_Mittal_ES44AC_cvt_MAH_Channel.bussidmod",
+      "livery": [],
+      "img_url": [
+"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/01/Kereta-Api-Arcelor-Mittal-ES44AC.jpeg", "https://i.ytimg.com/vi/5GvEQcIgmoo/maxresdefault.jpg", "https://i.ytimg.com/vi/m3zPSWdCL6k/maxresdefault.jpg"],
+      "kategori": "special",
+      "size": "6.84 mb",
+      "created_on": "16/06/2022"
+    },
+    
+    
+     {
+      "name": "Mobil Skoda Rapid.bussidmod",
+      "title": "Mobil Skoda Rapid",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Mobil_Skoda_Rapid_cvt_MAH_Channel.bussidmod",
+      "livery": [],
+      "img_url": [
+"https://i.ytimg.com/vi/HtqiZ9ahMSs/maxresdefault.jpg", "https://i.ytimg.com/vi/ED8V7Dw2dU0/maxresdefault.jpg", "https://i.ytimg.com/vi/vIm-fLIAWmY/hqdefault.jpg"],
+      "kategori": "car",
+      "size": "18.15 mb",
+      "created_on": "16/06/2022"
+    },
+    
+        {
+      "name": "Mobil Pontiac GTO 1969.bussidmod",
+      "title": "Mobil Pontiac GTO 1969",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Mobil_Pontiac_GTO_1969_cvt_MAH_Channel.bussidmod",
+      "livery": [],
+      "img_url": [
+"https://i.ytimg.com/vi/wk0O7nJUAYE/maxresdefault.jpg", "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/01/Mobil-Pontiac-GTO-1969.jpeg"],
+      "kategori": "car",
+      "size": "18.15 mb",
+      "created_on": "16/06/2022"
+    },
+    
+
+    {
       "name": "Mobil Space Docker GTA 5.bussidmod",
       "title": "Mobil Space Docker GTA 5",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Mobil_Space_Docker_GTA_5_by_Rockstar.bussidmod",
