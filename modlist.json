@@ -1,6 +1,18 @@
 {
   "mod": [
     
+    {
+      "name": "Mobil Space Docker GTA 5.bussidmod",
+      "title": "Mobil Space Docker GTA 5",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Mobil_Space_Docker_GTA_5_by_Rockstar.bussidmod",
+      "livery": [],
+      "img_url": [
+"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/01/Mobil-Space-Docker-GTA-5.jpeg", "https://1.bp.blogspot.com/-vjndmxcki3s/V-VWixqKr7I/AAAAAAAAM8Y/IZpJ-SejF24ns6jQYB7P2qrz4FP97u4JQCLcB/s1600/GTA%2BV%2BBF%2BSpace%2BDocker.jpg", "https://1.bp.blogspot.com/-k0Fb2JIau1Y/V14DeThz5UI/AAAAAAAAUgI/cdJTrmA3Kl0VUsZ5uo74TW40Eaw2fVj1QCKgB/s1600/15%2Bkendaraan%2Blangka%2Bgta%2B5%2B9.jpg"],
+      "kategori": "car",
+      "size": "5.15 mb",
+      "created_on": "16/06/2022"
+    },
+    
         {
       "name": "JJb3+ shd hino GARUDA MAS YUKIKATO.bussidmod",
       "title": "JJb3+ shd hino GARUDA MAS YUKIKATO",
