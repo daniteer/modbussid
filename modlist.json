@@ -544,7 +544,7 @@
     {
       "name": "Truck Liebherr LTM 1300-6.2 Crane.bussidmod",
       "title": "Truck Liebherr LTM 1300-6.2 Crane",
-      "url": "https://download.modbussid.co.id/6pj",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Liebherr_LTM_1300-6.2_Crane_by_gonzalezvla_cvt_MAH_Channel.bussidmod",
       "livery": [],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Liebherr-LTM-1300-6.2-Crane.jpeg",
@@ -558,9 +558,9 @@
     {
       "name": "UD Quester Trailer ISO Tank.bussidmod",
       "title": "UD Quester Trailer ISO Tank",
-      "url": "https://download.modbussid.co.id/6pl",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck_UD_Quester_Trailer_ISO_Tank_by_AD_ISKN.bussidmod",
       "livery": [
-        "https://download.modbussid.co.id/6pm"
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/Livery_UD_Quester_Trailer_ISO_Tank_by_AD_ISKN.png?inline=false"
       ],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Trailer-ISO-Tank.jpeg",
@@ -574,9 +574,9 @@
     {
       "name": "Truck Canter NKR Tebu Racing.bussidmod",
       "title": "Truck Canter NKR Tebu Racing",
-      "url": "https://download.modbussid.co.id/6p3",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Canter_NKR_Po_V6_by_Muhklas_Po.bussidmod?inline=false",
       "livery": [
-        "https://download.modbussid.co.id/6p4"
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/Livery_NKR_V6_Muat_Tebu_by_Muhklas_Po.png?inline=false"
       ],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Canter-NKR-Tebu-Racing.jpeg",
