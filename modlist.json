@@ -639,11 +639,11 @@
     {
       "name": "SR2 XHD Prime Scania K410iB.bussidmod",
       "title": "SR2 XHD Prime Scania K410iB",
-      "url": "https://download.modbussid.co.id/6on",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/SR2%20XHD%20Prime%20Scania%20K410iB/MOD_BUSSID_SR2_XHD_Prime_Scania_K410iB_by_Unity_Mods_Project.bussidmod",
       "livery": [
-        "https://download.modbussid.co.id/6oq",
-        "https://download.modbussid.co.id/6op",
-        "https://download.modbussid.co.id/6or"
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/SR2%20XHD%20Prime%20Scania%20K410iB/Livery_Bejeu_SR2_Tronton_UMP_by_Blahbloh.png",
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/SR2%20XHD%20Prime%20Scania%20K410iB/Livery_ALS_Artis_Bogor_Scania_K410IB_SR2_Tronton_UMP_by_Garasitube.png",
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/SR2%20XHD%20Prime%20Scania%20K410iB/Livery_HR_Hercules_197_Scania_K410IB_SR2_Tronton_UMP_by_Garasitube.png"
       ],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB.jpeg",
@@ -657,11 +657,11 @@
     {
       "name": "Bus Jetliner SHD Hino RK8.bussidmod",
       "title": "Bus Jetliner SHD Hino RK8",
-      "url": "https://download.modbussid.co.id/6ot",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Jetliner%20SHD%20Hino%20RK8/MOD_BUSSID_Bus_Jetliner_SHD_Hino_RK8_by_Sahrul_Ramdani.bussidmod",
       "livery": [
-        "https://download.modbussid.co.id/6ou",
-        "https://download.modbussid.co.id/6ov",
-        "https://download.modbussid.co.id/6ow"
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Jetliner%20SHD%20Hino%20RK8/Livery_Putra_Jaya_Jetliner_JT_WSP_by_Blahbloh.png?inline=false",
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Jetliner%20SHD%20Hino%20RK8/Livery_ALS_Jetliner_JT_WSP_by_Blahbloh.png?inline=false",
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Jetliner%20SHD%20Hino%20RK8/Livery_Bintang_Utara_Jetliner_JT_WSP_by_Blahbloh.png?inline=false"
       ],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Bus-Jetliner-SHD-Hino-RK8.jpeg",
@@ -675,9 +675,9 @@
     {
       "name": "Bus SR2 Panorama v2.bussidmod",
       "title": "Bus SR2 Panorama v2",
-      "url": "https://download.modbussid.co.id/90T",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20SR2%20Panorama%20v2/MOD_BUSSID_BUS_SR2_Panorama_Kamera_Penumpang_by_Rull_Hyden.bussidmod",
       "livery": [
-        "https://download.modbussid.co.id/90U"
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20SR2%20Panorama%20v2/Livery_SAN_SR2_Panorama_by_Rull_Hyden.png?inline=false"
       ],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg",
@@ -691,9 +691,9 @@
     {
       "name": "Bus SR2 Panorama.bussidmod",
       "title": "Bus SR2 Panorama",
-      "url": "https://download.modbussid.co.id/90S",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20SR2%20Panorama%20v2/MOD_BUSSID_BUS_SR2_Panorama_by_Rull_Hyden.bussidmod",
       "livery": [
-        "https://download.modbussid.co.id/90U"
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20SR2%20Panorama%20v2/Livery_SAN_SR2_Panorama_by_Rull_Hyden.png?inline=false"
       ],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg",
