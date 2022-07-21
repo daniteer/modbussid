@@ -707,7 +707,7 @@
     {
       "name": "Mobil Lamborghini Egoista.bussidmod",
       "title": "Mobil Lamborghini Egoista",
-      "url": "https://download.modbussid.co.id/6nx",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Mobil_Lamborghini_Egoista_by_MAH_Channel.bussidmod",
       "livery": [],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/09/MOD-BUSSID-Mobil-Lamborghini-Egoista.jpg",
@@ -721,9 +721,9 @@
     {
       "name": "Mobil Mahindra Scorpio.bussidmod",
       "title": "Mobil Mahindra Scorpio",
-      "url": "https://download.modbussid.co.id/bAd",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/mahindra%20scorpio/MOD_BUSSID_Mobil_Lamborghini_Egoista_by_MAH_Channel.bussidmod?inline=false",
       "livery": [
-        "https://download.modbussid.co.id/6ij"
+        "https://gitlab.com/trirdani/bussid-data/-/raw/main/mahindra%20scorpio/Livery_Black_by_MAH_Channel.png?inline=false"
       ],
       "img_url": [
         "https://i.ytimg.com/vi/NFfNBtcJS8o/maxresdefault.jpg",
