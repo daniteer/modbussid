@@ -735,9 +735,9 @@
       "created_on": "01/10/2021"
     },
     {
-      "name": "Jetbus 3 Sein Ngalir.bussidmod",
+      "name": "Jetbus 3 Sein Ngalir.bussidvehicle",
       "title": "Jetbus 3 Sein Ngalir",
-      "url": "https://download.modbussid.co.id/3l4",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/jetbus3seinngalir__2_.bussidvehicle",
       "livery": [],
       "img_url": [
         "https://i.ytimg.com/vi/Q0mzekbXPkA/maxresdefault.jpg",
@@ -751,7 +751,7 @@
     {
       "name": "SR2 HD Prime Facelift Full Bagasi.bussidmod",
       "title": "SR2 HD Prime Facelift Full Bagasi",
-      "url": "https://download.modbussid.co.id/8wq",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/SR2_HD_Prime_Facelift_Full_Bagasi.bussidmod",
       "livery": [],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/SR2-HD-Prime-Facelift-Full-Bagasi.jpg",
@@ -765,9 +765,9 @@
     {
       "name": "Canter Berkah Cow Angkut Sapi.bussidmod",
       "title": "Canter Berkah Cow Angkut Sapi",
-      "url": "https://download.modbussid.co.id/3mq",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Canter%20Berkah%20Cow%20Angkut%20Sapi/Canter_Berkah_Cow_Angkut_Sapi_by_RMC_Creation.bussidmod",
       "livery": [
-        "https://download.modbussid.co.id/3mr"
+        https://gitlab.com/trirdani/bussid-data/-/raw/main/Canter%20Berkah%20Cow%20Angkut%20Sapi/Livery_Berkah_Cow_by_LfDesign.png?inline=false
       ],
       "img_url": [
         "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Canter-Berkah-Cow-Angkut-Sapi.jpg",
