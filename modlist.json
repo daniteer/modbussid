@@ -777,7 +777,7 @@
 		{
 			"name": "Mobil Tesla Model 3.bussidmod",
 			"title": "Mobil Tesla Model 3",
-			"url": "https://download.modbussid.co.id/8Qd",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Tesla_Model_3_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Tesla-Model-3.jpg",
@@ -788,26 +788,13 @@
 			"size": "34.6 mb",
 			"created_on": "21/09/2021"
 		},
-		{
-			"name": "Mobil Tesla Model 3.bussidmod",
-			"title": "Mobil Tesla Model 3",
-			"url": "https://download.modbussid.co.id/8Qd",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Tesla-Model-3.jpg",
-				"https://i.ytimg.com/vi/JCsizzZCmB8/maxresdefault.jpg",
-				"https://i2.wp.com/ytimg.googleusercontent.com/vi/KQW0aG4IzQw/hqdefault.jpg"
-			],
-			"kategori": "car",
-			"size": "34.6 mb",
-			"created_on": "21/09/2021"
-		},
+		
 		{
 			"name": "Mobil Derek.bussidmod",
 			"title": "Mobil Derek",
-			"url": "https://download.modbussid.co.id/6me",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/mobil%20derek/MOD_BUSSID_Mobil_Derek_by_MAH_Channel.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/6mf"
+				"https://gitlab.com/trirdani/bussid-data/-/raw/main/mobil%20derek/Livery_Derek_Cracked_Glass.png?inline=false"
 			],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Mobil-Derek.jpg",
@@ -821,7 +808,7 @@
 		{
 			"name": "Truck Mercedes-Benz Atego Damkar.bussidmod",
 			"title": "Truck Mercedes-Benz Atego Damkar",
-			"url": "https://download.modbussid.co.id/6n8",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Mercedes-Benz_Atego_Damkar_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/08/MOD-BUSSID-Truck-Mercedes-Benz-Atego-Damkar.jpg",
@@ -835,8 +822,10 @@
 		{
 			"name": "Mobil Ferrari 488 GTB.bussidmod",
 			"title": "Mobil Ferrari 488 GTB",
-			"url": "https://download.modbussid.co.id/6ni",
-			"livery": [],
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/MOD_BUSSID_Mobil_Ferrari_488_GTB_by_MAH_Channel.bussidmod?inline=false",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/Livery_Black_by_MAH_Channel.png?inline=false",
+				  "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/Livery_White_by_MAH_Channel.png?inline=false",
+				  "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/Livery_Blue_by_MAH_Channel.png?inline=false"],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/08/MOD-BUSSID-Mobil-Ferrari-488-GTB.jpg",
 				"https://i2.wp.com/ytimg.googleusercontent.com/vi/JM2knEKOKzo/hqdefault.jpg",
