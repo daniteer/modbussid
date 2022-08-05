@@ -838,8 +838,10 @@
 		{
 			"name": "Mobil Acura NSX LB.bussidmod",
 			"title": "Mobil Acura NSX LB",
-			"url": "https://download.modbussid.co.id/6nk",
-			"livery": [],
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Acura%20NSX%20LB/MOD_BUSSID_Mobil_Acura_NSX_LB_by_MAH_Channel.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/Livery_Black_by_MAH_Channel.png?inline=false",
+				  "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/Livery_White_by_MAH_Channel.png?inline=false",
+				  "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/Livery_Blue_by_MAH_Channel.png?inline=false"],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/08/MOD-BUSSID-Mobil-Acura-NSX-LB.jpg",
 				"https://i.ytimg.com/vi/l36nwDXA3CA/maxresdefault.jpg"
