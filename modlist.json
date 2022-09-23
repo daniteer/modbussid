@@ -854,8 +854,10 @@
 		{
 			"name": "Mobil Mitsubishi Lancer Evolution 9.bussidmod",
 			"title": "Mobil Mitsubishi Lancer Evolution 9",
-			"url": "https://download.modbussid.co.id/6nm",
-			"livery": [],
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Mitsubishi%20Lancer%20Evolution%209/MOD_BUSSID_Mobil_Mitsubishi_Lancer_Evolution_9_by_MAH_Channel.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/Livery_Black_by_MAH_Channel.png?inline=false",
+				  "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/Livery_White_by_MAH_Channel.png?inline=false",
+				  "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Ferrari%20488%20GTB/Livery_Blue_by_MAH_Channel.png?inline=false"],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/08/MOD-BUSSID-Mobil-Mitsubishi-Lancer-Evolution-9.jpg",
 				"https://i.ytimg.com/vi/LoLcCxglLoY/hqdefault.jpg",
@@ -868,7 +870,7 @@
 		{
 			"name": "JB3 Oleng Di Tempat.bussidmod",
 			"title": "JB3 Oleng Di Tempat",
-			"url": "https://download.modbussid.co.id/3td",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20Oleng%20Di%20Tempat/JB3_Oleng_Di_Tempat_by_AD_ISKN.bussidmod?inline=false",
 			"livery": [],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-Oleng-Di-Tempat.jpg",
