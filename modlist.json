@@ -1,6 +1,20 @@
 {
 	"mode": "1",
 	"mod": [
+		
+		{
+			"name": "BMW M4 G82 M Performance 2021.bussidmod",
+			"title": "BMW M4 G82 M Performance 2021",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/BMW_M4_G82_M_Performance_2021cvt_MAH_Channel.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/08/BMW-M4-G82-M-Performance-2021cvt-MAH-Channel.jpeg", "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-02112021-142057.jpg",
+				"https://i.ytimg.com/vi/yUSDhR1JTk8/maxresdefault.jpg"
+			],
+			"kategori": "car",
+			"size": "33.2 mb",
+			"created_on": "24/10/2022"
+		},
 
 		{
 			"name": "Kereta Santa Claus.bussidmod",
