@@ -3,6 +3,21 @@
 	"mod": [
 		
 		{
+			"name": "Motor Grader.bussidmod",
+			"title": "Motor Grader",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Motor_Grader_by_Rs.Bandit.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/08/Motor-Grader-by-Rs.Bandit.jpeg",
+				"https://i.ytimg.com/vi/919XCCNmtps/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/9Q4jv0TEcfw/maxresdefault.jpg"
+			],
+			"kategori": "special",
+			"size": "5.29 mb",
+			"created_on": "24/10/2022"
+		},
+		
+		{
 			"name": "Motor Kawasaki Z800.bussidmod",
 			"title": "Motor Kawasaki Z800",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Motor_Kawasaki_Z800_Full_Animation_cvt_MAH_Channel.bussidmod",
