@@ -3,6 +3,21 @@
 	"mod": [
 		
 		{
+			"name": "Truck NMR71 Zahra.bussidmod",
+			"title": "Truck NMR71 Zahra",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20NMR71%20Zahra/MOD_BUSSID_Truck_NMR71_Zahra_By_Budesign.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20NMR71%20Zahra/Livery_Rebecca_Zahra_by_Tony_05_ID.png"],
+			"img_url": [
+				"https://i.ytimg.com/vi/kc7sIDRzw-0/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/BPvXofUz86E/hqdefault.jpg",
+				"https://i.ytimg.com/vi/RjWxzkFLySg/maxresdefault.jpgg"
+			],
+			"kategori": "truck",
+			"size": "51.08 mb",
+			"created_on": "24/10/2022"
+		},
+		
+		{
 			"name": "BMW M4 G82 M Performance 2021.bussidmod",
 			"title": "BMW M4 G82 M Performance 2021",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/BMW_M4_G82_M_Performance_2021cvt_MAH_Channel.bussidmod",
