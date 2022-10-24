@@ -3,6 +3,21 @@
 	"mod": [
 		
 		{
+			"name": "Motor Kawasaki Z800.bussidmod",
+			"title": "Motor Kawasaki Z800",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Motor_Kawasaki_Z800_Full_Animation_cvt_MAH_Channel.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/modbussidindonesia.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Motor-Kawasaki-Z800.jpeg",
+				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Motor-Kawasaki-Z800-1.jpeg",
+				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/08/Motor-Kawasaki-Z800-Full-Animation-cvt-MAH-Channel.jpeg"
+			],
+			"kategori": "motor",
+			"size": "10.08 mb",
+			"created_on": "24/10/2022"
+		},
+		
+		{
 			"name": "BMW R1200 GS.bussidmod",
 			"title": "BMW R1200 GS",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/BMW_R1200_GS_by_MK3D_Mods_cvt_MAH_Channel.bussidmod",
