@@ -3,6 +3,21 @@
 	"mod": [
 		
 		{
+			"name": "Truck Canter BOX Indomaret Mbois Full Animasi.bussidmod",
+			"title": "Truck Canter BOX Indomaret Mbois Full Animasi",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20BOX%20Indomaret%20Mbois%20Full%20Animasi/2._CANTER_BOX_MBOIS.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20BOX%20Indomaret%20Mbois%20Full%20Animasi/2._IMG_20220612_214534.png?inline=false"],
+			"img_url": [
+				"https://www.transferkuota.com/wp-content/uploads/2022/09/Truck-Canter-BOX-Indomaret-Mbois-Full-Animasi.jpg",
+				"https://i.ytimg.com/vi/voxHRSokZi0/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/027EMlLQzII/maxresdefault.jpg"
+			],
+			"kategori": "truck",
+			"size": "51.38 mb",
+			"created_on": "25/10/2022"
+		},
+		
+		{
 			"name": "Motor Grader.bussidmod",
 			"title": "Motor Grader",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Motor_Grader_by_Rs.Bandit.bussidmod",
