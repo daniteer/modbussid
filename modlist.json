@@ -3,10 +3,25 @@
 	"mod": [
 		
 		{
+			"name": "Persija DC Tronton DOP Full Animasi.bussidmod",
+			"title": "Persija DC Tronton DOP Full Animasi",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Persija%20DC%20Tronton%20DOP%20Full%20Animasi/4._DC_TRONTON.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Persija%20DC%20Tronton%20DOP%20Full%20Animasi/4._Persija_DC_dop_by_bony_bdm.png"],
+			"img_url": [
+				"https://www.transferkuota.com/wp-content/uploads/2022/09/Bus-Livery-Persija-DC-Tronton-DOP-Full-Animasi.jpg",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_uaixUdcVMMLZj0x2XUBxdihAo6_afYyrU1MSNaQrAhqW0si_Jux05B-8fMTvHulFpPI&usqp=CAU",
+				"https://i.ytimg.com/vi/b7VAFqNMm3A/maxresdefault.jpg"
+			],
+			"kategori": "buss",
+			"size": "69.50 mb",
+			"created_on": "25/10/2022"
+		},
+		
+		{
 			"name": "Truck Canter BOX Indomaret Mbois Full Animasi.bussidmod",
 			"title": "Truck Canter BOX Indomaret Mbois Full Animasi",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20BOX%20Indomaret%20Mbois%20Full%20Animasi/2._CANTER_BOX_MBOIS.bussidmod",
-			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20BOX%20Indomaret%20Mbois%20Full%20Animasi/2._IMG_20220612_214534.png?inline=false"],
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20BOX%20Indomaret%20Mbois%20Full%20Animasi/2._IMG_20220612_214534.png"],
 			"img_url": [
 				"https://www.transferkuota.com/wp-content/uploads/2022/09/Truck-Canter-BOX-Indomaret-Mbois-Full-Animasi.jpg",
 				"https://i.ytimg.com/vi/voxHRSokZi0/maxresdefault.jpg",
