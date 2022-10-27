@@ -3,6 +3,22 @@
 	"mod": [
 		
 		{
+			"name": "Truck Losbak Aktor.bussidmod",
+			"title": "Truck Losbak Aktor",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Losbak%20Aktor/2._CANTER_LOSBAK_BUDESIGN.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Losbak%20Aktor/2._losbak_by_fa_design.png?inline=false"],
+			"img_url": [
+				"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/01/511.jpg",
+				"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2413-1.jpg",
+				"https://gameitu.com/wp-content/uploads/2022/05/Mod-Bussid-Truck-Losbak-Aktor.jpg"
+			],
+			"kategori": "truck",
+			"size": "32,30 mb",
+			"created_on": "27/10/2022"
+		},
+		
+		
+		{
 			"name": "Persija DC Tronton DOP Full Animasi.bussidmod",
 			"title": "Persija DC Tronton DOP Full Animasi",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Persija%20DC%20Tronton%20DOP%20Full%20Animasi/4._DC_TRONTON.bussidmod",
