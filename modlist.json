@@ -2,6 +2,22 @@
 	"mode": "1",
 	"mod": [
 		
+				{
+			"name": "Mercedes-Benz Multego OC500.bussidmod",
+			"title": "Mercedes-Benz Multego OC500",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mercedes-Benz_Multego_OC500_cvt_MAH_Channel.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/07/SGCA_IMG-29072022-191209.jpg",
+				"https://i.ytimg.com/vi/3viCoAf6EiU/maxresdefault.jpg",
+				"https://www.gtainside.com/downloads/picr/2020-10/1602245728_gallery191.jpg"
+			],
+			"kategori": "buss",
+			"size": "12.00 mb",
+			"created_on": "28/10/2022"
+		},
+		
+		
 		{
 			"name": "JB3+ SHD Hino RK.bussidmod",
 			"title": "JB3+ SHD Hino RK",
