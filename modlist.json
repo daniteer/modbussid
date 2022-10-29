@@ -2,6 +2,35 @@
 	"mode": "1",
 	"mod": [
 		
+		{
+			"name": "SR2 XHD Prime Scania.bussidmod",
+			"title": "SR2 XHD Prime Scania",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/__2F___SR2_XHD_Prime_TRONTON_PAKE_WINGLET_BY_CORELAV_VIVA_VARIAN_SCANIA.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/07/SGCA_IMG-05072022-191717.jpg",
+				"https://i.ytimg.com/vi/D-8sMsGWhRQ/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/d9c82HXbeF0/maxresdefault.jpg"
+			],
+			"kategori": "buss",
+			"size": "39.40 mb",
+			"created_on": "29/10/2022"
+		},
+		{
+			"name": "Discovery SERI 1.bussidmod",
+			"title": "Discovery SERI 1",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Dc01_Sr_Full_Acc_Dan_Full_Boneka.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/07/SGCA_IMG-10072022-070443.jpg",
+				"https://i.ytimg.com/vi/GOfovxldMSI/maxresdefault.jpg",
+				"https://3.bp.blogspot.com/-QDneEkstCQc/W5IfX_xLKeI/AAAAAAAAHw4/xBHJLzgYRjEljKeZknB6PWVTF4bQHvmkwCLcBGAs/s1600/985.png"
+			],
+			"kategori": "buss",
+			"size": "41.74 mb",
+			"created_on": "29/10/2022"
+		},
+		
 				{
 			"name": "Mercedes-Benz Multego OC500.bussidmod",
 			"title": "Mercedes-Benz Multego OC500",
