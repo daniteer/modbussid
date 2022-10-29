@@ -3,6 +3,37 @@
 	"mod": [
 		
 		{
+			"name": "Jetliner SHD RN285.bussidmod",
+			"title": "Jetliner SHD RN285",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JETLINER_SHD_RN285_evortex.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i.ytimg.com/vi/sfJOslix9es/maxresdefault.jpg",
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-19062022-164057.jpg",
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2019/07/Jetliner-SHD-Mod-for-BUSSID-by-WSPMod-SGCArena.jpg"
+			],
+			"kategori": "buss",
+			"size": "44.06 mb",
+			"created_on": "29/10/2022"
+		},
+		
+		{
+			"name": "JB3 HDD Single Glass.bussidmod",
+			"title": "JB3 HDD Single Glass",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20HDD%20Single%20Glass/HDDSG_TAMENG_FS.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20HDD%20Single%20Glass/ALS_Hino_RMSG.png?inline=false",
+				  "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3%20HDD%20Single%20Glass/PALALA_Hino_RMSG.png?inline=false"],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-23062022-140638.jpg",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2THfkaksY-uaGRD3UgMsOhkCRjbuUxQ29ew&usqp=CAU",
+				"https://i.ytimg.com/vi/8RpZDM6RJIY/maxresdefault.jpg"
+			],
+			"kategori": "buss",
+			"size": "39.40 mb",
+			"created_on": "29/10/2022"
+		},
+		
+		{
 			"name": "SR2 XHD Prime Scania.bussidmod",
 			"title": "SR2 XHD Prime Scania",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/__2F___SR2_XHD_Prime_TRONTON_PAKE_WINGLET_BY_CORELAV_VIVA_VARIAN_SCANIA.bussidmod",
