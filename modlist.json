@@ -3,6 +3,22 @@
 	"mod": [
 		
 		{
+			"name": "JB3 Mercedes-Benz Dream Coach Tronton.bussidmod",
+			"title": "JB3 Mercedes-Benz Dream Coach Tronton",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3_DC_TRONTON_MERCY_VAR_DOP.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-05062022-072804.jpg?w=1200&ssl=1.jpg",
+				"https://i.ytimg.com/vi/D7SwUlaDnaw/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/XZo4rAYqjJo/maxresdefault.jpg"
+			],
+			"kategori": "buss",
+			"size": "69.91 mb",
+			"created_on": "30/10/2022"
+		},
+		
+		
+		{
 			"name": "MP Ventura Gen1.bussidmod",
 			"title": "MP Ventura Gen1",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/mp_ventura_gen1.bussidmod",
