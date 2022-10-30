@@ -3,6 +3,21 @@
 	"mod": [
 		
 		{
+			"name": "MP Ventura Gen1.bussidmod",
+			"title": "MP Ventura Gen1",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/mp_ventura_gen1.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-19062022-162534.jpg",
+				"https://i.ytimg.com/vi/jxTJRkRtTMM/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/jbboO8oFXj8/maxresdefault.jpg"
+			],
+			"kategori": "buss",
+			"size": "17.06 mb",
+			"created_on": "30/10/2022"
+		},
+		
+		{
 			"name": "Jetliner SHD RN285.bussidmod",
 			"title": "Jetliner SHD RN285",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JETLINER_SHD_RN285_evortex.bussidmod",
