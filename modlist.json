@@ -2,6 +2,38 @@
 	"mode": "1",
 	"mod": [
 		
+		
+		{
+			"name": "Canter Sanpex.bussidmod",
+			"title": "Canter Sanpex",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/CANTER_SANPEX_BUDESIGN.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-16042022-054957.jpg?w=1200&ssl=1",
+				"https://i.ytimg.com/vi/k7_QJFjCFQs/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/QRig1ElcV2E/maxresdefault.jpg"
+			],
+			"kategori": "truck",
+			"size": "54.08 mb",
+			"created_on": "30/10/2022"
+		},
+		
+		
+		{
+			"name": "UD Kuzer Tangki.bussidmod",
+			"title": "UD Kuzer Tangki",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/UD_KUZER_TANGKI_ad_iskn.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-19042022-195534.jpg",
+				"hhttps://i.ytimg.com/vi/Z8ZtmSI3F48/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADsFBfy0lWsOds1hRduVUCkVcBaQ",
+				"https://i.ytimg.com/vi/Jmp8cq31zB4/hqdefault.jpg"
+			],
+			"kategori": "truck",
+			"size": "33.64 mb",
+			"created_on": "30/10/2022"
+		},
+		
 		{
 			"name": "JB3 Mercedes-Benz Dream Coach Tronton.bussidmod",
 			"title": "JB3 Mercedes-Benz Dream Coach Tronton",
