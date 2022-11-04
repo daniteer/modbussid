@@ -2,6 +2,37 @@
 	"mode": "1",
 	"mod": [
 		
+		
+		{
+			"name": "Mercedes Benz Actros SLT 8×4.bussidmod",
+			"title": "Mercedes Benz Actros SLT 8×4",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mercedes_Actros_SLT_8x4_Euro_6_by_gonzalezvla.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/03/SGCA_IMG-12032022-232414.jpg",
+				"https://i.ytimg.com/vi/w0gZ15Ip9z4/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/o2h11pA7dpE/maxresdefault.jpg"
+			],
+			"kategori": "truck",
+			"size": "18.66 mb",
+			"created_on": "05/11/2022"
+		},
+		
+		{
+			"name": "Ud Kuzer Dump.bussidmod",
+			"title": "Ud Kuzer Dump",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/UD_KUZER_DUMP_ad_iskn.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/KUZER_DUMP.png"],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/03/SGCA_IMG-25032022-091916.jpg",
+				"https://i.ytimg.com/vi/9B7Lzu_lJ7I/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/3SN32Z1JUTQ/maxresdefault.jpg"
+			],
+			"kategori": "truck",
+			"size": "29.22 mb",
+			"created_on": "05/11/2022"
+		},
+		
 				{
 			"name": "UD Quester Crane Mod.bussidmod",
 			"title": "UD Quester Crane Mod",
@@ -14,7 +45,7 @@
 			],
 			"kategori": "truck",
 			"size": "46.18 mb",
-			"created_on": "30/10/2022"
+			"created_on": "05/11/2022"
 		},
 		
 		{
