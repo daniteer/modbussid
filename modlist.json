@@ -2,6 +2,20 @@
 	"mode": "1",
 	"mod": [
 		
+				{
+			"name": "UD Quester Crane Mod.bussidmod",
+			"title": "UD Quester Crane Mod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/UD%20Quester%20Crane%20Mod/Quester_Dolly_ad_iskn.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-07042022-233220.jpg",
+				"https://i.ytimg.com/vi/Cul4NnlyMMU/maxresdefault.jpg",
+				"https://i.ytimg.com/vi/lyDmFSJjOwg/maxresdefault.jpg"
+			],
+			"kategori": "truck",
+			"size": "46.18 mb",
+			"created_on": "30/10/2022"
+		},
 		
 		{
 			"name": "Canter Sanpex.bussidmod",
@@ -9,7 +23,7 @@
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/CANTER_SANPEX_BUDESIGN.bussidmod",
 			"livery": [],
 			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-16042022-054957.jpg?w=1200&ssl=1",
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-16042022-054957.jpg",
 				"https://i.ytimg.com/vi/k7_QJFjCFQs/maxresdefault.jpg",
 				"https://i.ytimg.com/vi/QRig1ElcV2E/maxresdefault.jpg"
 			],
