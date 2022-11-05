@@ -1694,13 +1694,13 @@
 		{
 			"name": "Mobil Volkswagen Beetle.bussidmod",
 			"title": "Mobil Volkswagen Beetle",
-			"url": "https://download.modbussid.co.id/8Tb",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Volkswagen%20Beetle/Volkswagen_Beetle_by_MAH_Channel.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/8Tc",
-				"https://download.modbussid.co.id/8Tg",
-				"https://download.modbussid.co.id/8Td",
-				"https://download.modbussid.co.id/8Te",
-				"https://download.modbussid.co.id/8Tf"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Volkswagen%20Beetle/Livery_Red_Volkswagen_Beetle_by_MAH_Channel.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Volkswagen%20Beetle/Livery_Orange_Volkswagen_Beetle_by_MAH_Channel.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Volkswagen%20Beetle/Livery_Green_Volkswagen_Beetle_by_MAH_Channel.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Volkswagen%20Beetle/Livery_Blue_Volkswagen_Beetle_by_MAH_Channel.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Volkswagen%20Beetle/Livery_Black_Volkswagen_Beetle_by_MAH_Channel.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/03/Volkswagen-Beetle.jpg?quality=100&f=auto",
@@ -1715,13 +1715,13 @@
 		{
 			"name": "Mobil Lexus NX 200T.bussidmod",
 			"title": "Mobil Lexus NX 200T",
-			"url": "https://download.modbussid.co.id/6ii",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Lexus%20NX%20200T/Lexus_NX_200T_by_MAH_Channel.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/6ik",
-				"https://download.modbussid.co.id/6il",
-				"https://download.modbussid.co.id/6im",
-				"https://download.modbussid.co.id/6in",
-				"https://download.modbussid.co.id/6io"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Lexus%20NX%20200T/Livery_Blue_by_MAH_Channel__7_.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Lexus%20NX%20200T/Livery_Green_by_MAH_Channel__8_.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Lexus%20NX%20200T/Livery_Orange_by_MAH_Channel__7_.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Lexus%20NX%20200T/Livery_Red_by_MAH_Channel__6_.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Lexus%20NX%20200T/Livery_White_by_MAH_Channel__6_.png"
 			],
 			"img_url": [
 				"https://i.ytimg.com/vi/pTKwl5qGkOA/hqdefault.jpg",
@@ -1735,7 +1735,7 @@
 		{
 			"name": "Mobil Daihatsu GranMax PickUp.bussidmod",
 			"title": "Mobil Daihatsu GranMax PickUp",
-			"url": "https://download.modbussid.co.id/6iq",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Daihatsu_GranMax_PickUp_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/qWtGNEm14sQ/maxresdefault.jpg",
@@ -1749,7 +1749,7 @@
 		{
 			"name": "Mobil Toyota AE86 Initial D.bussidmod",
 			"title": "Mobil Toyota AE86 Initial D",
-			"url": "https://download.modbussid.co.id/6it",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota_AE86_Initial_D_by_MAH_Channel_.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/Lv3bPkbC6Xo/maxresdefault.jpg",
@@ -1763,7 +1763,7 @@
 		{
 			"name": "Truck Volvo FH12 Pertamina.bussidvehicle",
 			"title": "Truck Volvo FH12 Pertamina",
-			"url": "https://download.modbussid.co.id/JL/Truk_Volvo_FH12_Pertamina.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Volvo_Globetrottter__Pertamina_.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Truck-Volvo-FH12-Pertamina.jpg?w=600&quality=100&f=auto",
@@ -1777,7 +1777,7 @@
 		{
 			"name": "Truck Mitsubishi Fuso Canter by BMI.bussidvehicle",
 			"title": "Truck Mitsubishi Fuso Canter by BMI",
-			"url": "https://download.modbussid.co.id/5NY/MOD_BUSSID_Truck_Mitsubishi_Fuso_Canter_by_BMI.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Mitsubishi_Fuso_Canter_by_BMI.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-BUSSID-Truck-Mitsubishi-Fuso-Canter-by-BMI.jpg?w=600&quality=100&f=auto",
@@ -1808,7 +1808,7 @@
 		{
 			"name": "Minibus Isuzu ELF Giga Pandawa 87.bussidmod",
 			"title": "Minibus Isuzu ELF Giga Pandawa 87",
-			"url": "https://download.modbussid.co.id/3la",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Minibus_Isuzu_ELF_Giga_Pandawa_87_-_AnonyTun.com.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/WcLb6-kfzLc/hqdefault.jpg",
@@ -1822,7 +1822,7 @@
 		{
 			"name": "Carry Minibus 1.0.bussidmod",
 			"title": "Carry Minibus 1.0",
-			"url": "https://download.modbussid.co.id/3nm",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Carry_Minibus_1.0_by_DSP.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/M-x2OSCFMA0/maxresdefault.jpg",
@@ -1836,7 +1836,7 @@
 		{
 			"name": "Bus New Armada Evonext Gen 2 v2.bussidmod",
 			"title": "Bus New Armada Evonext Gen 2 v2",
-			"url": "https://download.modbussid.co.id/65T",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/New_Armada_Evonext_Gen_2_V1_Standar_by_UnityMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/7sZYBIVnrac/maxresdefault.jpg",
@@ -1851,7 +1851,7 @@
 		{
 			"name": "Buss Avante HDD Scania K360iB v2.bussidmod",
 			"title": "Buss Avante HDD Scania K360iB v2",
-			"url": "https://download.modbussid.co.id/3pr",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Avante_HDD_Scania_K360iB_Kamera_Penumpang__V2__by_Mulil.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://sgcarena.com/wp-content/uploads/2020/10/SGCA_IMG-6148.jpg",
