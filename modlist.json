@@ -2,6 +2,60 @@
 	"mode": "1",
 	"mod": [
 		
+		{
+			"name": "Western Star 5700 XE Overweight Trailer.bussidmod",
+			"title": "Western Star 5700 XE Overweight Trailer",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Western_Star_5700_XE.bussidmod.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/10/SGCA_IMG-19102022-160721.jpg"
+			],
+			"kategori": "truck",
+			"size": "10.15 mb",
+			"created_on": "05/11/2022"
+		},
+		
+		{
+			"name": "Ural Next Firetruck.bussidmod",
+			"title": "Ural Next Firetruck",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/FireTruck_Ural_Next.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/10/SGCA_IMG-21102022-144311.jpg",
+				"https://i.ytimg.com/vi/n8lRqHIYBOc/maxresdefault.jpg"
+			],
+			"kategori": "truck",
+			"size": "41.10 mb",
+			"created_on": "05/11/2022"
+		},
+		
+		{
+			"name": "Mercedes-Benz NG 1632.bussidmod",
+			"title": "Mercedes-Benz NG 1632",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mercedes-Benz_NG_1632_Trailer.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/10/SGCA_IMG-20102022-085413.jpg",
+				"https://i.ytimg.com/vi/UjizFR7VNnU/maxresdefault.jpg"
+			],
+			"kategori": "truck",
+			"size": "45.87 mb",
+			"created_on": "05/11/2022"
+		},
+		
+		{
+			"name": "UD Quon Trailer Muatan Double Dozer.bussidmod",
+			"title": "UD Quon Trailer Muatan Double Dozer",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/QUON_DOLLY_V2.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-02112022-174005.jpg"
+			],
+			"kategori": "truck",
+			"size": "93.56 mb",
+			"created_on": "06/11/2022"
+		},
+		
 		
 		{
 			"name": "Mercedes Benz Actros SLT 8×4.bussidmod",
