@@ -3,168 +3,6 @@
 	"mod": [
 		
 		{
-			"name": "Western Star 5700 XE Overweight Trailer.bussidmod",
-			"title": "Western Star 5700 XE Overweight Trailer",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Western_Star_5700_XE.bussidmod.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/10/SGCA_IMG-19102022-160721.jpg"
-			],
-			"kategori": "truck",
-			"size": "10.15 mb",
-			"created_on": "05/11/2022"
-		},
-
-		{
-			"name": "Ural Next Firetruck.bussidmod",
-			"title": "Ural Next Firetruck",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/FireTruck_Ural_Next.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/10/SGCA_IMG-21102022-144311.jpg",
-				"https://i.ytimg.com/vi/n8lRqHIYBOc/maxresdefault.jpg"
-			],
-			"kategori": "truck",
-			"size": "41.10 mb",
-			"created_on": "05/11/2022"
-		},
-
-		{
-			"name": "Mercedes-Benz NG 1632.bussidmod",
-			"title": "Mercedes-Benz NG 1632",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mercedes-Benz_NG_1632_Trailer.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/10/SGCA_IMG-20102022-085413.jpg",
-				"https://i.ytimg.com/vi/UjizFR7VNnU/maxresdefault.jpg"
-			],
-			"kategori": "truck",
-			"size": "45.87 mb",
-			"created_on": "05/11/2022"
-		},
-
-		{
-			"name": "UD Quon Trailer Muatan Double Dozer.bussidmod",
-			"title": "UD Quon Trailer Muatan Double Dozer",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/QUON_DOLLY_V2.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-02112022-174005.jpg"
-			],
-			"kategori": "truck",
-			"size": "93.56 mb",
-			"created_on": "06/11/2022"
-		},
-
-
-		{
-			"name": "Mercedes Benz Actros SLT 8×4.bussidmod",
-			"title": "Mercedes Benz Actros SLT 8×4",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mercedes_Actros_SLT_8x4_Euro_6_by_gonzalezvla.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/03/SGCA_IMG-12032022-232414.jpg",
-				"https://i.ytimg.com/vi/w0gZ15Ip9z4/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/o2h11pA7dpE/maxresdefault.jpg"
-			],
-			"kategori": "truck",
-			"size": "18.66 mb",
-			"created_on": "05/11/2022"
-		},
-
-		{
-			"name": "Ud Kuzer Dump.bussidmod",
-			"title": "Ud Kuzer Dump",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/UD_KUZER_DUMP_ad_iskn.bussidmod",
-			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/KUZER_DUMP.png"],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/03/SGCA_IMG-25032022-091916.jpg",
-				"https://i.ytimg.com/vi/9B7Lzu_lJ7I/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/3SN32Z1JUTQ/maxresdefault.jpg"
-			],
-			"kategori": "truck",
-			"size": "29.22 mb",
-			"created_on": "05/11/2022"
-		},
-
-				{
-			"name": "UD Quester Crane Mod.bussidmod",
-			"title": "UD Quester Crane Mod",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/UD%20Quester%20Crane%20Mod/Quester_Dolly_ad_iskn.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-07042022-233220.jpg",
-				"https://i.ytimg.com/vi/Cul4NnlyMMU/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/lyDmFSJjOwg/maxresdefault.jpg"
-			],
-			"kategori": "truck",
-			"size": "46.18 mb",
-			"created_on": "05/11/2022"
-		},
-
-		{
-			"name": "Canter Sanpex.bussidmod",
-			"title": "Canter Sanpex",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/CANTER_SANPEX_BUDESIGN.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-16042022-054957.jpg",
-				"https://i.ytimg.com/vi/k7_QJFjCFQs/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/QRig1ElcV2E/maxresdefault.jpg"
-			],
-			"kategori": "truck",
-			"size": "54.08 mb",
-			"created_on": "30/10/2022"
-		},
-
-
-		{
-			"name": "UD Kuzer Tangki.bussidmod",
-			"title": "UD Kuzer Tangki",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/UD_KUZER_TANGKI_ad_iskn.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-19042022-195534.jpg",
-				"hhttps://i.ytimg.com/vi/Z8ZtmSI3F48/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADsFBfy0lWsOds1hRduVUCkVcBaQ",
-				"https://i.ytimg.com/vi/Jmp8cq31zB4/hqdefault.jpg"
-			],
-			"kategori": "truck",
-			"size": "33.64 mb",
-			"created_on": "30/10/2022"
-		},
-
-		{
-			"name": "JB3 Mercedes-Benz Dream Coach Tronton.bussidmod",
-			"title": "JB3 Mercedes-Benz Dream Coach Tronton",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3_DC_TRONTON_MERCY_VAR_DOP.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-05062022-072804.jpg?w=1200&ssl=1.jpg",
-				"https://i.ytimg.com/vi/D7SwUlaDnaw/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/XZo4rAYqjJo/maxresdefault.jpg"
-			],
-			"kategori": "buss",
-			"size": "69.91 mb",
-			"created_on": "30/10/2022"
-		},
-
-
-		{
-			"name": "MP Ventura Gen1.bussidmod",
-			"title": "MP Ventura Gen1",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/mp_ventura_gen1.bussidmod",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-19062022-162534.jpg",
-				"https://i.ytimg.com/vi/jxTJRkRtTMM/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/jbboO8oFXj8/maxresdefault.jpg"
-			],
-			"kategori": "buss",
-			"size": "17.06 mb",
-			"created_on": "30/10/2022"
-		},
-		
-		{
 			"name": "Jetliner SHD RN285.bussidmod",
 			"title": "Jetliner SHD RN285",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JETLINER_SHD_RN285_evortex.bussidmod",
@@ -2406,7 +2244,7 @@
 		{
 			"name": "Bus ALS Celcius (Bus Tua).bussidvehicle",
 			"title": "Bus ALS Celcius (Bus Tua)",
-			"url": "https://download.modbussid.co.id/tv/ALS_Celcius_(Bus_Tua).bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/ALS_Celcius__Bus_Tua_.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-ALS-Celcius-Bus-Tua.jpg?w=600&quality=100&f=auto",
@@ -2420,9 +2258,9 @@
 		{
 			"name": "Bus JB3+HDD Po. Haryanto Ganz Still Air Suspension.bussidmod",
 			"title": "Bus JB3+HDD Po. Haryanto Ganz Still Air Suspension",
-			"url": "https://download.modbussid.co.id/K3/JB3+HDD_Air_Suspension_by_ZTOM_Edit_Aldovadewa_-_MODBUSSID.co.id.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20JB3+%20Facelift%20Scania%20K360/JB3+HDD_Air_Suspension_by_ZTOM_Edit_Aldovadewa_-_Javastech.com.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/K4/Livery_Po._Haryanto_Ganz_Still_JB3+_HDD_Edit_ZTOM_Aldovadewa_-_MODBUSSID.co.id.jpg"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20JB3+%20Facelift%20Scania%20K360/Livery_Po._Haryanto_Ganz_Still_JB3+_HDD_Edit_ZTOM_Aldovadewa_-_Javastech.com.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-JB3HDD-Po.-Haryanto-Ganz-Still-Air-Suspension-by-ZTOM-Edit-Aldovadewa.jpg?w=600&quality=100&f=auto",
@@ -2436,7 +2274,7 @@
 		{
 			"name": "Bus JB3+ Facelift Scania K360.bussidmod",
 			"title": "Bus JB3+ Facelift Scania K360",
-			"url": "https://download.modbussid.co.id/tz/JB3+_Facelift_Scania_K360.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3+_Facelift_Scania_K360.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-JB3-Facelift-Scania-K360.jpg?w=600&quality=100&f=auto",
@@ -2450,7 +2288,7 @@
 		{
 			"name": "Bus Bumel Sumber Kencono.bussidmod",
 			"title": "Bus Bumel Sumber Kencono",
-			"url": "https://download.modbussid.co.id/6gj",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bumel_Sumber_Kencono_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Bus-Bumel-Sumber-Kencono.jpg?quality=100&f=auto",
@@ -2465,7 +2303,7 @@
 		{
 			"name": "Truck Hino Losbak Muat Semen.bussidmod",
 			"title": "Truck Hino Losbak Muat Semen",
-			"url": "https://download.modbussid.co.id/5S3",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Hino_Losbak_Muat_Semen.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Hino-Losbak-Muat-Semen.png?quality=100&f=auto",
@@ -2479,7 +2317,7 @@
 		{
 			"name": "Motor BMW S1000RR.bussidmod",
 			"title": "Motor BMW S1000RR",
-			"url": "https://download.modbussid.co.id/3jk",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_BMW_S1000RR.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/8P3ANqRAxos/maxresdefault.jpg",
@@ -2495,13 +2333,13 @@
 		{
 			"name": "Toyota Tundra.bussidmod",
 			"title": "Toyota Tundra",
-			"url": "https://download.modbussid.co.id/3xj",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota%20Tundra/Toyota_Tundra_by_MAH_Channel.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3xk",
-				"https://download.modbussid.co.id/3xo",
-				"https://download.modbussid.co.id/3xl",
-				"https://download.modbussid.co.id/3xm",
-				"https://download.modbussid.co.id/3xn"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Toyota%20Tundra/Livery_Black_Toyota_Tundra.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Toyota%20Tundra/Livery_White_Toyota_Tundra.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Toyota%20Tundra/Livery_Blue_Toyota_Tundra.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Toyota%20Tundra/Livery_Green_Toyota_Tundra.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Toyota%20Tundra/Livery_Orange_Toyota_Tundra.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/Toyota-Tundra.jpg?quality=100&f=auto",
@@ -2516,7 +2354,7 @@
 		{
 			"name": "Truck Hino 500 Angkut Pipa.bussidmod",
 			"title": "Truck Hino 500 Angkut Pipa",
-			"url": "https://download.modbussid.co.id/3g6",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Hino_500_Angkut_Pipa.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/lVvraNLbfp8/maxresdefault.jpg",
@@ -2531,7 +2369,7 @@
 		{
 			"name": "Motor Vespa Super 150.bussidvehicle",
 			"title": "Motor Vespa Super 150",
-			"url": "https://download.modbussid.co.id/5u5/MOD_BUSSID_Motor_Vespa_Super_150_-_BUSSID.co.id.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_Vespa_Super_150.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Motor-Vespa-Super-150.jpg?w=600&quality=100&f=auto",
@@ -2545,9 +2383,9 @@
 		{
 			"name": "Truck Canter Box Balap.bussidmod",
 			"title": "Truck Canter Box Balap",
-			"url": "https://download.modbussid.co.id/3mh",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Box%20Balap/MOD_BUSSID_Truck_Canter_Box_by_Ade_Iskandar.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3mi"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Box%20Balap/Livery_Tam_Cargo_Putih_Kardus_Balap_by_FACHRURROZI.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Canter-Box-Balap.jpg?w=768&quality=100&f=auto",
@@ -2561,7 +2399,7 @@
 		{
 			"name": "Mobil Mercedes-Benz AMG G 63.bussidmod",
 			"title": "Mobil Mercedes-Benz AMG G 63",
-			"url": "https://download.modbussid.co.id/6d7",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mercedes-Benz_E63_AMG_by_NanoNano.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Mercedes-Benz-AMG-G-63.jpg?quality=100&f=auto",
@@ -2576,7 +2414,7 @@
 		{
 			"name": "Motor Harley Davidson.bussidmod",
 			"title": "Motor Harley Davidson",
-			"url": "https://download.modbussid.co.id/3jj",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Harley_Davidson_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/7JNCQFSjR18/maxresdefault.jpg",
@@ -2591,9 +2429,9 @@
 		{
 			"name": "Bus Bumel Nucleus Wiper Standar Full Aksesoris.bussidmod",
 			"title": "Bus Bumel Nucleus Wiper Standar Full Aksesoris",
-			"url": "https://download.modbussid.co.id/t3/Bumel_Nucleus_Wiper_Standar_Full_Aksesoris_-_MODBUSSID.co.id.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Bumel%20Nucleus%20Wiper%20Standar%20Full%20Aksesoris/Bumel_Nucleus_Wiper_Standar_Full_Aksesoris_-_Javastech.com.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/t4/Livery_Setia_Negara_Al-Faruq_Bumel_Nucleus_-_MODBUSSID.co.id.jpg"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Bumel%20Nucleus%20Wiper%20Standar%20Full%20Aksesoris/Livery_Setia_Negara_Al-Faruq_Bumel_Nucleus_-_Javastech.com.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Bumel-Nucleus-Wiper-Standar-Full-Aksesoris.jpg?w=600&quality=100&f=auto",
@@ -2608,7 +2446,7 @@
 		{
 			"name": "Bus SR1 Legacy Spion Gajah.bussidmod",
 			"title": "Bus SR1 Legacy Spion Gajah",
-			"url": "https://download.modbussid.co.id/td/SR1_Legacy_Spion_Gajah_-_MODBUSSID.co.id.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_SR1_Legacy_Spion_Gajah.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-SR1-Legacy-Spion-Gajah.jpg?w=600&quality=100&f=auto",
@@ -2623,9 +2461,9 @@
 		{
 			"name": "SR2 Triple Axle.bussidmod",
 			"title": "SR2 Triple Axle",
-			"url": "https://download.modbussid.co.id/5Gg/MOD_BUSSID_SR2_Triple_Axle_-_Keira.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/SR2%20Triple%20Axle/SR2_Triple_Axle.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/351/Livery_Harapan_Jaya_SR2_Triple_Axle_-_Keira.png"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/SR2%20Triple%20Axle/Livery_Harapan_Jaya_SR2_Triple_Axle.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/03/SR2-Triple-Axle.jpg?quality=100&f=auto",
@@ -2639,7 +2477,7 @@
 		{
 			"name": "Mobil Calya by Keira.bussidmod",
 			"title": "Mobil Calya Terbaru 2020 by Keira",
-			"url": "https://download.modbussid.co.id/5Gh/MOD_BUSSID_Calya_-_Keira.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota_Calya_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/Hn7MqrjHVCo/sddefault.jpg",
@@ -2653,7 +2491,7 @@
 		{
 			"name": "Motor Vespa Omah.bussidvehicle",
 			"title": "Motor Vespa Omah",
-			"url": "https://download.modbussid.co.id/5T2",
+			"url": "",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Motor-Vespa-Omah.png?quality=100&f=auto",
