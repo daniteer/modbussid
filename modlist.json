@@ -2044,7 +2044,7 @@
 		{
 			"name": "MOD Kawasaki Ninja  H2R.bussidmod",
 			"title": "MOD Kawasaki Ninja H2R",
-			"url": "https://download.modbussid.co.id/5T0",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_Ninja_H2R_-_Javastech.com.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Motor-Ninja-H2R.png?quality=100&f=auto",
@@ -2059,7 +2059,7 @@
 		{
 			"name": "Mobil Ferarri Polisi Lalu Lintas.bussidmod",
 			"title": "Mobil Ferarri Polisi Lalu Lintas",
-			"url": "https://download.modbussid.co.id/65b",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Ferrari_Polisi_Lalu_Lintas_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/12/Ferrari-Polisi-Lalu-Lintas.jpg?quality=100&f=auto",
@@ -2074,9 +2074,9 @@
 		{
 			"name": "Truck Canter New Oppa Muda Terpal Segitiga.bussidmod",
 			"title": "Truck Canter New Oppa Muda Terpal Segitiga",
-			"url": "https://download.modbussid.co.id/3ph",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20New%20Oppa%20Muda%20Terpal%20Segitiga/Canter_New_Oppa_Muda_Terpal_Segitiga_by_ADS.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3pf"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20New%20Oppa%20Muda%20Terpal%20Segitiga/Livery_Canter_ADS_New_Oppa_Muda_By_LfDesign.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/Canter-New-Oppa-Muda-Terpal-Segitiga.jpg?quality=100&f=auto",
@@ -2091,7 +2091,7 @@
 		{
 			"name": "Truck Fuso Bak Terpal Tribal.bussidmod",
 			"title": "Truck Fuso Bak Terpal Tribal",
-			"url": "https://download.modbussid.co.id/JL/Truck_Truck_Fuso_Bak_Terpal_Tribal.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Fuso_Bak_Terpal.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Truck-Fuso-Bak-Terpal-Tribal.jpg?w=600&quality=100&f=auto",
@@ -2104,7 +2104,7 @@
 		},
 		{
 			"name": "Motor Yamaha R1M Sport.bussidmod",
-			"url": "https://download.modbussid.co.id/3no",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Yamaha_R1M_V1_Standar_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Yamaha-R1M.jpg?quality=100&f=auto",
@@ -2118,7 +2118,7 @@
 		},
 		{
 			"name": "Truck Isuzu NKR Dump Muat Sawit.bussidmod",
-			"url": "https://download.modbussid.co.id/610",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Isuzu_NKR_Dump_Muat_Sawit_by_SG.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/Isuzu-NKR-Dump-Muat-Sawit.jpg?quality=100&f=auto",
@@ -2134,7 +2134,7 @@
 		{
 			"name": "Motor Yamaha YZR Valentino Rossi.bussidmod",
 			"title": "Motor Yamaha YZR Valentino Rossi",
-			"url": "https://download.modbussid.co.id/6g6",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Yamaha_YZR_Valentino_Rossi_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Yamaha-YZR-Valentino-Rossi.jpg?quality=100&f=auto",
@@ -2163,7 +2163,7 @@
 		{
 			"name": "Yamaha Aerox 155cc.bussidmod",
 			"title": "Yamaha Aerox 155cc",
-			"url": "https://download.modbussid.co.id/3n0",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Yamaha_Aerox_155cc_Standar_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Yamaha-Aerox-155cc.jpg?quality=100&f=auto",
@@ -2178,7 +2178,7 @@
 		{
 			"name": "Bus Sutra 86 Zs Art.bussidmod",
 			"title": "Bus Sutra 86 Zs Art",
-			"url": "https://download.modbussid.co.id/K6/sutra_86_zs_art.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/sutra_86_zs_art.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Sutra-86-Zs-Art.jpg?w=600&quality=100&f=auto",
@@ -2192,13 +2192,13 @@
 		{
 			"name": "Pagani Huayra.bussidmod",
 			"title": "Pagani Huayra",
-			"url": "https://download.modbussid.co.id/3xx",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Pagani%20Huayra/Pagani_Huayra_by_MAH_Channel.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3xy",
-				"https://download.modbussid.co.id/68U",
-				"https://download.modbussid.co.id/3xz",
-				"https://download.modbussid.co.id/68S",
-				"https://download.modbussid.co.id/68T"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Pagani%20Huayra/Livery_Black_Pagani_Huayra.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Pagani%20Huayra/Livery_White_Pagani_Huayra.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Pagani%20Huayra/Livery_Green_Pagani_Huayra.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Pagani%20Huayra/Livery_Blue_Pagani_Huayra.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Pagani%20Huayra/Livery_Orange_Pagani_Huayra.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/Pagani-Huayra.jpg?quality=100&f=auto",
@@ -2214,7 +2214,7 @@
 		{
 			"name": "Motor Honda CBR 150 Knalpot Racing.bussidmod",
 			"title": "Motor Honda CBR 150 Knalpot Racing",
-			"url": "https://download.modbussid.co.id/5ST",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_Honda_CBR_150_Knalpot_Racing.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Motor-Honda-CBR-150-Knalpot-Racing.png?quality=100&f=auto",
@@ -2228,9 +2228,9 @@
 		{
 			"name": "Bus SR1 Legacy Pahala Kencana.bussidmod",
 			"title": "Bus SR1 Legacy Pahala Kencana",
-			"url": "https://download.modbussid.co.id/ta/SR1_LEGACY_spion_gajah.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20SR1%20Legacy%20Pahala%20Kencana/SR1_LEGACY_spion_gajah__3_.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/t9/Pahala_Kencana_SR1_WSP_by_Blahbloh.jpg"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20SR1%20Legacy%20Pahala%20Kencana/Pahala_Kencana_SR1_WSP_by_Blahbloh__3_.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-SR1-Legacy-Pahala-Kencana.jpg?w=600&quality=100&f=auto",
