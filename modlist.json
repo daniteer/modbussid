@@ -1791,10 +1791,13 @@
 		{
 			"name": "Evolander HD standard.bussidmod",
 			"title": "Evolander HD standard",
-			"url": "https://download.modbussid.co.id/60V",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Evolander%20HD%20standard/Evolander_HD_by_Rull_Hyden_-_Javastech.com.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/60X",
-				"https://download.modbussid.co.id/60W"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Evolander%20HD%20standard/Harapan_Jaya_Evo_HD_Rull_Hyden_by_Iyunkz_Photos.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Evolander%20HD%20standard/Kramat_Djati_Evo_HD_Rull_Hyden_by_Mizta_Doel.PNG",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Evolander%20HD%20standard/Nusantara_Evo_HD_Rull_Hyden_by_Mizta_Doel.PNG",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Evolander%20HD%20standard/Puspa_Jaya_Evo_HD_Rull_Hyden_by_Mizta_Doel.PNG",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Evolander%20HD%20standard/Shantika_Evo_HD_Rull_Hyden_by_Mizta_Doel.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/Evolander-HD.jpg?quality=100&f=auto",
@@ -1865,7 +1868,7 @@
 		{
 			"name": "Buss JB3+ MHD Angga Saputro Voyager Full Acc.bussidmod",
 			"title": "Buss JB3+ MHD Angga Saputro Voyager Full Acc",
-			"url": "https://download.modbussid.co.id/3ok",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3+_MHD_Angga_Saputro_Voyager_Full_Acc__Dop__by_MD_Creation.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/JB3-MHD-Angga-Saputro-Voyager-Full-Acc.jpg?quality=100&f=auto",
@@ -1879,7 +1882,7 @@
 		{
 			"name": "Elf NLR 55 BLX Bumper Avante.bussidmod",
 			"title": "Elf NLR 55 BLX Bumper Avante",
-			"url": "https://download.modbussid.co.id/3tg",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Elf_NLR_55_BLX_Bumper_Avante_by_AM_Project.bussidmod",
 			"livery": [
 				"https://download.modbussid.co.id/3th"
 			],
@@ -1895,9 +1898,9 @@
 		{
 			"name": "Download MOD BUSSID Avante D2 SDD.bussidmod",
 			"title": "Download MOD BUSSID Avante D2 SDD",
-			"url": "https://download.modbussid.co.id/663",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/MOD%20BUSSID%20Avante%20D2%20SDD/Avante_D2_SDD_by_Budesign_TM.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/664"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/MOD%20BUSSID%20Avante%20D2%20SDD/Livery_Harapan_Jaya_Avante_D2_by_XPK.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/12/Avante-D2-SDD.jpg?quality=100&f=auto",
@@ -1911,7 +1914,7 @@
 		{
 			"name": "Download MOD BUSSID JB3+ O500RS Angga Saputro.bussidmod",
 			"title": "Download MOD BUSSID JB3+ O500RS Angga Saputro",
-			"url": "https://download.modbussid.co.id/3wl",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3+_SHD_Mercy_O500RS_Angga_Saputro_Facelift_V1_Full_Acc_Dop_Ring_by_MD_Creation.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/JB3-O500RS-Angga-Saputro.jpg?quality=100&f=auto",
@@ -1924,7 +1927,7 @@
 		{
 			"name": "Download MOD BUSSID JB3+ O500RS Angga Saputro.bussidmod",
 			"title": "Download MOD BUSSID JB3+ O500RS Angga Saputro",
-			"url": "https://download.modbussid.co.id/3wl",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3+_SHD_Mercy_O500RS_Angga_Saputro_Facelift_V1_Full_Acc_Dop_Ring_by_MD_Creation.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/JB3-O500RS-Angga-Saputro.jpg?quality=100&f=auto",
@@ -1937,12 +1940,8 @@
 		{
 			"name": "Download MOD BUSSID Mobil Toyota Hiace.bussidmod",
 			"title": "Download MOD BUSSID Mobil Toyota Hiace",
-			"url": "https://download.modbussid.co.id/3wd",
-			"livery": [
-				"https://download.modbussid.co.id/3we",
-				"https://download.modbussid.co.id/3wf",
-				"https://download.modbussid.co.id/3wg"
-			],
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Mobil_Toyota_Hiace_Commuter_by_MAH_Channel.bussidmod",
+			"livery": [],
 			"img_url": [
 				"https://modbussidterbaru.com/wp-content/uploads/2020/02/download-mod-bussid-mobil-travel-hiace.jpg",
 				"https://1.bp.blogspot.com/-cC_IbEW1QuI/XKwWSN42FuI/AAAAAAAAFHI/D7U81ltRbhgYrxV2VfziLIzOI7s3cG9jACKgBGAs/s1600/Screenshot_2019-04-09-10-37-25.png",
@@ -1950,13 +1949,13 @@
 				"https://modbussidterbaru.com/wp-content/uploads/2020/02/download-mod-bussid-mobil-travel-terbaru-2020.jpg"
 			],
 			"kategori": "car",
-			"size": "7.50 mb",
+			"size": "16.54 mb",
 			"created_on": "13/03/2021"
 		},
 		{
 			"name": "Bus Bumel Maxi – Setia Negara by DC cvt RA project.bussidvehicle",
 			"title": "Bus Bumel Maxi – Setia Negara by DC cvt RA project",
-			"url": "https://download.modbussid.co.id/t5/Bus_Bumel_Maxi_-_Setia_Negara_by_DC_cvt_RA_project_-_MODBUSSID.co.id.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JBHD_Full_Anim_by_Anas_Cvt_Willy_Edit_Sahrul_-_Javastech.com.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Bumel-Maxi-Setia-Negara-by-DC-cvt-RA-project.jpg?w=600&quality=100&f=auto",
@@ -1964,7 +1963,7 @@
 				"https://javastech.com/wp-content/uploads/2019/07/Bumel-Maxi-Setia-Negara.jpg"
 			],
 			"kategori": "buss",
-			"size": "13.41 mb",
+			"size": "21.35 mb",
 			"created_on": "01/02/2020"
 		},
 		{
@@ -1986,7 +1985,7 @@
 		{
 			"name": "Tentrem Max by WSP.bussidmod",
 			"title": "Tentrem Max by WSP",
-			"url": "https://download.modbussid.co.id/3cp/MOD_BUSSID_TENTREM_MAX_BY_WSP.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_TENTREM_MAX_BY_WSP.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-BUSSID-Tentrem-Max-by-WSP.jpg?w=600&quality=100&f=auto",
@@ -2000,7 +1999,7 @@
 		{
 			"name": "Mobil Ford TS50.bussidmod",
 			"title": "Mobil Ford TS50",
-			"url": "https://download.modbussid.co.id/8NU",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Ford_TS50_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Ford-TS50.jpg?quality=100&f=auto",
@@ -2015,7 +2014,7 @@
 		{
 			"name": "Pesawat Airbus Beluga 4.bussidmod",
 			"title": "Pesawat Airbus Beluga 4",
-			"url": "https://download.modbussid.co.id/6aS",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Pesawat_Airbus_Beluga_4_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/Pesawat-Airbus-Beluga-4.jpg?quality=100&f=auto",
@@ -2030,7 +2029,7 @@
 		{
 			"name": "Helikopter TNI-AU.bussidmod",
 			"title": "Helikopter TNI-AU",
-			"url": "https://download.modbussid.co.id/3s3",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Helikopter_TNI-AU_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/Helikopter-TNI-AU.jpg?quality=100&f=auto",
