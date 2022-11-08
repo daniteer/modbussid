@@ -2491,7 +2491,7 @@
 		{
 			"name": "Motor Vespa Omah.bussidvehicle",
 			"title": "Motor Vespa Omah",
-			"url": "",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_Vespa_Omah.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Motor-Vespa-Omah.png?quality=100&f=auto",
@@ -2506,7 +2506,7 @@
 		{
 			"name": "Motor Honda CBR600RR.bussidvehicle",
 			"title": "Motor Honda CBR600RR",
-			"url": "https://download.modbussid.co.id/5u4/MOD_BUSSID_Motor_CBR600RR_-_BUSSID.co.id.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_Honda_CBR_600_RR.Bussid.co.id.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/uaorBz4K2Hk/maxresdefault.jpg",
@@ -2547,9 +2547,9 @@
 		{
 			"name": "Truck Canter Bandar Susu Terpal Segitiga.bussidmod",
 			"title": "Truck Canter Bandar Susu Terpal Segitiga",
-			"url": "https://download.modbussid.co.id/3me",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Bandar%20Susu%20Terpal%20Segitiga/Canter_Bandar_Susu_Terpal_Segitiga_by_RMC_Creation.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3mf"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Bandar%20Susu%20Terpal%20Segitiga/Bandar_Susu_99_by_LfDsgn.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Canter-Bandar-Susu-Terpal-Segitiga.jpg?w=768&quality=100&f=auto",
@@ -2564,7 +2564,7 @@
 		{
 			"name": "Gerobak Motor Odading.bussidmod",
 			"title": "Gerobak Motor Odading",
-			"url": "https://download.modbussid.co.id/3jf",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Gerobak_Motor_Odading_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Gerobak-Motor-Odading.jpg?w=768&quality=100&f=auto",
@@ -2579,9 +2579,9 @@
 		{
 			"name": "Motor Honda C70.bussidmod",
 			"title": "Motor Honda C70",
-			"url": "https://download.modbussid.co.id/3t2",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Motor%20Honda%20C70/Honda_C70_V1_Standar_by_AzuMods.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3t5"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Motor%20Honda%20C70/Livery_Honda_C70_by_AG.jpg"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/12/Honda-C70.jpg?quality=100&f=auto",
