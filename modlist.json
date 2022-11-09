@@ -2942,7 +2942,7 @@
 		{
 			"name": "Truck Canter Spesial Wahyu Abadi HF Project.bussidmod",
 			"title": "Truck Canter Spesial Wahyu Abadi HF Project",
-			"url": "https://download.modbussid.co.id/JT/canter_spesial_wahyu_abadi_hf_project.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/canter_spesial_wahyu_abadi_hf_project.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/Screenshot_2019-12-07-21-57-31-94_5d347d05ff406c08e59fd63f6905b8af.jpg?w=600&quality=100&f=auto",
@@ -3229,9 +3229,9 @@
 		{
 			"name": "Truck Hino Dutro Tangki Tiga Saudara.bussidmod",
 			"title": "Truck Hino Dutro Tangki Tiga Saudara",
-			"url": "https://download.modbussid.co.id/6cy",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Hino%20Dutro%20Tangki%20Tiga%20Saudara/Hino_Dutro_Tangki_Tiga_Saudara_by_Budesign.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/6cz"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Hino%20Dutro%20Tangki%20Tiga%20Saudara/Livery_Tiga_Saudara_Dutro_Tangki_by_Tony_05_ID.png"
 			],
 			"img_url": [
 				"https://i.ytimg.com/vi/5CQ-J7EK39A/maxresdefault.jpg",
