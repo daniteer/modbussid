@@ -3142,7 +3142,7 @@
 		{
 			"name": "Motor Honda Astrea Legenda.bussidmod",
 			"title": "Motor Honda Astrea Legenda",
-			"url": "https://download.modbussid.co.id/639",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Honda_Astrea_Legenda_V1_Standar_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/Honda-Astrea-Legenda.jpg?quality=100&f=auto",
@@ -3157,7 +3157,7 @@
 		{
 			"name": "Mobil Suzuki Carry.bussidmod",
 			"title": "Mobil Suzuki Carry",
-			"url": "https://download.modbussid.co.id/3vr",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Suzuki_Carry_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/Suzuki-Carry.jpg?quality=100&f=auto",
@@ -3171,7 +3171,7 @@
 		{
 			"name": "Truck VAR 4.bussidmod",
 			"title": "Truck VAR 4",
-			"url": "https://download.modbussid.co.id/we/VAR4.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/VAR4.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Truck-VAR-4.jpg?w=600&quality=100&f=auto",
@@ -3184,13 +3184,13 @@
 		{
 			"name": "Mobil Suzuki APV Ambulance.bussidmod",
 			"title": "Mobil Suzuki APV Ambulance",
-			"url": "https://download.modbussid.co.id/8N1",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Suzuki%20APV%20Ambulance/Suzuki_APV_Ambulance_by_DSP.bussidmod",
 			"livery": [],
 			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Suzuki-APV-Ambulance.jpg?quality=100&f=auto",
-				"https://i.ytimg.com/vi/AtZRipm_x00/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/riiTLsLgZQw/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/9TKEFI64ZSU/maxresdefault.jpg"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Suzuki%20APV%20Ambulance/Livery_Ambulance_Suzuki_APV_by_Guntur_Putra_S.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Suzuki%20APV%20Ambulance/Livery_Black_Suzuki_APV_Ambulance_by_DSP.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Suzuki%20APV%20Ambulance/Livery_White_Suzuki_APV_Ambulance_by_DSP.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Suzuki%20APV%20Ambulance/Livery_Yellow_Suzuki_APV_Ambulance_by_DSP.png"
 			],
 			"kategori": "car",
 			"size": "26.26 mb",
@@ -3199,7 +3199,7 @@
 		{
 			"name": "Canter Box Lady Rose.bussidmod",
 			"title": "Canter Box Lady Rose",
-			"url": "https://download.modbussid.co.id/3vi",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Canter_Box_Lady_Rose_by_AD_ISKN.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/8hzuqWlXjFY/maxresdefault.jpg",
@@ -3214,7 +3214,7 @@
 		{
 			"name": "Bus Infinity HD Deluxe.bussidmod",
 			"title": "Bus Infinity HD Deluxe",
-			"url": "https://download.modbussid.co.id/J6/Infinity_HD_Deluxe_-_MODBUSSID.co.id.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Infinity_HD_Deluxe_-_Javastech.com.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Infinity-HD-Deluxe.jpg?w=600&quality=100&f=auto",
