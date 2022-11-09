@@ -2971,7 +2971,7 @@
 		{
 			"name": "Bus Sekolah Cvt WSP.bussidvehicle",
 			"title": "Bus Sekolah Cvt WSP",
-			"url": "https://download.modbussid.co.id/tw/Bus_Sekolah_Cvt_WSP.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus_Sekolah_Cvt_WSP.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Sekolah-Cvt-WSP.jpg?w=600&quality=100&f=auto",
@@ -2985,7 +2985,7 @@
 		{
 			"name": "Truck Scania S730.bussidmod",
 			"title": "Truck Scania S730",
-			"url": "https://download.modbussid.co.id/6ff",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Scania_S730_With_Trailer_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/PwLZ5Ez7cKY/maxresdefault.jpg",
@@ -3000,7 +3000,7 @@
 		{
 			"name": "Motor Honda Beat Gojek.bussidmod",
 			"title": "Motor Honda Beat Gojek",
-			"url": "https://download.modbussid.co.id/5SX",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_Honda_Beat_Gojek.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Motor-Honda-Beat-Gojek.png?quality=100&f=auto",
@@ -3028,7 +3028,7 @@
 		{
 			"name": "Mobil Bugatti Divo 2019.bussidmod",
 			"title": "Mobil Bugatti Divo 2019",
-			"url": "https://download.modbussid.co.id/6dv",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bugatti_Divo_2019_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Bugatti-Divo.jpg?quality=100&f=auto",
@@ -3043,9 +3043,9 @@
 		{
 			"name": "Truck Canter New Tawakal 3 Terpal Kotak.bussidmod",
 			"title": "Truck Canter New Tawakal 3 Terpal Kotak",
-			"url": "https://download.modbussid.co.id/8R8",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak/Canter_New_Tawakal_3_Terpal_Kotak_by_ADS.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/8R5"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak/Livery_New_Tawakal_3_by_Lfdesign.png"
 			],
 			"img_url": [
 				"https://i.ytimg.com/vi/gQbVG2CjWJI/hqdefault.jpg",
@@ -3058,7 +3058,7 @@
 		{
 			"name": "Isuzu NKR Towing Angkut Beko & Canter.bussidmod",
 			"title": "Isuzu NKR Towing Angkut Beko & Canter",
-			"url": "https://download.modbussid.co.id/3lx",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Isuzu_NKR_Towing_Angkut_Beko___Canter_by_MS_Project.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-NKR-Towing-Angkut-Beko-Canter.jpg?w=768&quality=100&f=auto",
@@ -3073,9 +3073,11 @@
 		{
 			"name": "Peterbilt Truck.bussidmod",
 			"title": "Peterbilt Truck",
-			"url": "https://download.modbussid.co.id/8yx",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Peterbilt%20Truck/Peterbilt_Box_Truck_by_Ghoni_RK.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/8yy"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Peterbilt%20Truck/Livery_Evergreen.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Peterbilt%20Truck/Livery_J_T_Express.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Peterbilt%20Truck/Livery_Meratus.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Peterbilt-Truck.jpg?w=768&quality=100&f=auto",
@@ -3085,13 +3087,13 @@
 				"https://i.ytimg.com/vi/gRkB2CvwcBU/hqdefault.jpg"
 			],
 			"kategori": "truck",
-			"size": "20.93 mb",
+			"size": "25.42 mb",
 			"created_on": "17/08/2020"
 		},
 		{
 			"name": "Bus Evolander Wheeldop.bussidvehicle",
 			"title": "Bus Evolander Wheeldop",
-			"url": "https://download.modbussid.co.id/sk/evolander_wheeldop.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/evolander_wheeldop.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://modbussid.co.id/wp-content/uploads/2020/10/Evolander-Wheeldop.png",
@@ -3105,9 +3107,10 @@
 		},
 		{
 			"name": "Truck Canter Towing Grand Master.bussidmod",
-			"url": "https://download.modbussid.co.id/3mj",
+			"title": "Truck Canter Towing Grand Master",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20Towing%20Grand%20Master/Canter_Towing_Grand_Master_by_RMC_Creation.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3mk"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Towing%20Grand%20Master/Livery_Grand_Master_by_Dero_AP.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Canter-Towing-Grand-Master.jpg?w=768&quality=100&f=auto",
@@ -3122,9 +3125,9 @@
 		{
 			"name": "Bus Avante D2 ZS.bussidmod",
 			"title": "Bus Avante D2 ZS",
-			"url": "https://download.modbussid.co.id/2Rv/AVANTE_D2_ZS_(2).bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Avante%20D2%20ZS/AVANTE_D2_ZS__2_.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/2Rw/Harapan_Jaya_Avante_D2_By_Zine_Sujatmiko_(Zstm)_FatRas.jpg"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Avante%20D2%20ZS/Harapan_Jaya_Avante_D2_By_Zine_Sujatmiko__Zstm__FatRas.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Avante-D2-ZS.jpg?w=600&quality=100&f=auto",
