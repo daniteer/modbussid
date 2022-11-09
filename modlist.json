@@ -2842,21 +2842,21 @@
 		{
 			"name": "Bus JB3 O500 RS Facelift.bussidmod",
 			"title": "Bus JB3 O500 RS Facelift",
-			"url": "https://download.modbussid.co.id/2Ru/JB3O500RSFACELIFT(dop)(ring).bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_JB3__SHD_Mercy_O500RS_Angga_Saputro_Facelift_V2.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-JB3-O500-RS-Facelift.jpg?w=600&quality=100&f=auto"
 			],
 			"kategori": "buss",
-			"size": "16.38 mb",
+			"size": "67.37 mb",
 			"created_on": "14/08/2020"
 		},
 		{
 			"name": "Truck Ragasa Thailook.bussidmod",
 			"title": "Truck Ragasa Thailook",
-			"url": "https://download.modbussid.co.id/3ml",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Ragasa%20Thailook/Ragasa_Thailook_by_RMC_Creation.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3mm"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Ragasa%20Thailook/Livery_Kuning_Simple_by_LfDesign.png"
 			],
 			"img_url": [
 				"https://i.ytimg.com/vi/41dKplPkJzY/maxresdefault.jpg",
@@ -2871,7 +2871,7 @@
 		{
 			"name": "Mobil Toyota Hilux Muatan Semen.bussidmod",
 			"title": "Mobil Toyota Hilux Muatan Semen",
-			"url": "https://download.modbussid.co.id/3vg",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota_Hilux_Muatan_Semen_V1_Transmisi_Manual_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/Toyota-Hilux-Muatan-Semen.jpg?quality=100&f=auto",
@@ -2885,7 +2885,7 @@
 		{
 			"name": "Truck Canter Paman Santri Muatan Gayor.bussidmod",
 			"title": "Truck Canter Paman Santri Muatan Gayor",
-			"url": "https://download.modbussid.co.id/3ex/Paman_Santri_VP_xx_.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Paman_Santri_VP_xx_.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/06/MOD-BUSSID-Truck-Canter-Paman-Santri-Muatan-Gayor.jpg?quality=100&f=auto",
@@ -2900,7 +2900,7 @@
 		{
 			"name": "Bus Legacy 3.bussidmod",
 			"title": "Bus Legacy 3",
-			"url": "https://download.modbussid.co.id/2Rt/legacy3.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/legacy3.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Legacy-3.jpg?w=600&quality=100&f=auto",
@@ -2914,7 +2914,7 @@
 		{
 			"name": "Mobil Honda Civic Type R 2017.bussidmod",
 			"title": "Mobil Honda Civic Type R 2017",
-			"url": "https://download.modbussid.co.id/3vn",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Honda_Civic_Type_R_2017_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/Honda-Civic-Type-R-2017.jpg?quality=100&f=auto",
@@ -2928,7 +2928,7 @@
 		{
 			"name": "Truck New Canter Gandeng.bussidmod",
 			"title": "Truck New Canter Gandeng",
-			"url": "https://download.modbussid.co.id/5S4",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_New_Canter_Gandeng.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-New-Canter-Gandeng.png?quality=100&f=auto",
@@ -2957,7 +2957,7 @@
 		{
 			"name": "Truck HINO 500 NG HSD ENGKEL+TOPI.bussidmod",
 			"title": "Truck HINO 500 NG HSD ENGKEL+TOPI",
-			"url": "https://download.modbussid.co.id/K2/HINO_500_NG_HSD_ENGKEL+TOPI_-_MODBUSSID.co.id.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/HINO_500_NG_HSD_ENGKEL+TOPI__Bussidgame.com_.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Truck-HINO-500-NG-HSD-ENGKELTOPI.jpg?w=600&quality=100&f=auto",
