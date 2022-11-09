@@ -2596,7 +2596,7 @@
 		{
 			"name": "Motor Yamaha Nmax 155cc.bussidmod",
 			"title": "Motor Yamaha Nmax 155cc",
-			"url": "https://download.modbussid.co.id/3eq/MOD_NMAX_155cc_BUSSID_FREE_BY_AZUMODS.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_NMAX_155cc_BUSSID_FREE_BY_AZUMODS.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://1.bp.blogspot.com/-xqbN_d6GmC4/XoZCYiw2WkI/AAAAAAAAClc/5BwUGRmMtREWCGeOUhIIuYbGc-kg42N7ACLcBGAsYHQ/s1600/Photo_200402042522.jpeg",
@@ -2612,7 +2612,7 @@
 		{
 			"name": "Motor Honda CRF.bussidmod",
 			"title": "Motor Honda CRF",
-			"url": "https://download.modbussid.co.id/63h",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Honda_CRF_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/Honda-CRF.jpg?quality=100&f=auto",
@@ -2644,7 +2644,7 @@
 		{
 			"name": "JB3+ MHD Voyager.bussidmod",
 			"title": "JB3+ MHD Voyager",
-			"url": "https://download.modbussid.co.id/5Gd/MOD_BUSSID_JB3+MHD_Voyager_Dop_-_Keira.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3+MHD_Voyager_Dop.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/03/JB3-MHD-Voyager.jpg?quality=100&f=auto",
@@ -2659,7 +2659,7 @@
 		{
 			"name": "Mobil Dodge Charger 1970.bussidmod",
 			"title": "Mobil Dodge Charger 1970",
-			"url": "https://download.modbussid.co.id/8Q0",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Dodge_Charger_1970_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Dodge-Charger-1970.jpg?quality=100&f=auto",
@@ -2672,9 +2672,9 @@
 			"created_on": "11/01/2020"
 		},
 		{
-			"name": "Motor Mio Drag.bussidmod",
+			"name": "Motor Mio Drag 200cc.bussidmod",
 			"title": "Motor Mio Drag",
-			"url": "https://download.modbussid.co.id/5u3/Mod_BUSSID_Motor_Mio_Drag_-_BUSSID.co.id.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Yamaha_Mio_Drag_Racing_200cc_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Motor-Mio-Drag.jpg?w=600&quality=100&f=auto",
@@ -2682,13 +2682,13 @@
 				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazUMlUfLCiN7hmoX5gnQdraWWuN8WtpMiqg&usqp=CAU"
 			],
 			"kategori": "motor",
-			"size": "9.34 mb",
+			"size": "16.35 mb",
 			"created_on": "11/03/2020"
 		},
 		{
 			"name": "Truck Hino 500 Bumper Modif by HSD Codit Aldovadewa.bussidmod",
 			"title": "Truck Hino 500 Bumper Modif by HSD Codit Aldovadewa",
-			"url": "https://download.modbussid.co.id/3ed/MOD_BUSSID_Truck_Hino_500_Bumper_Modif_by_HSD_Codit_Aldovadewa.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Hino_500_Bumper_Modif_by_HSD_Codit_Aldovadewa.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-BUSSID-Truck-Hino-500-Bumper-Modif-by-HSD-Codit-Aldovadewa.png?quality=100&f=auto",
@@ -2702,7 +2702,7 @@
 		{
 			"name": "Motor Suzuki Satria FU Drag.bussidmod",
 			"title": "Motor Suzuki Satria FU Drag",
-			"url": "https://download.modbussid.co.id/5T1",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_Suzuki_Satria_FU_Drag.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Motor-Suzuki-Satria-FU-Drag.png?quality=100&f=auto",
@@ -2717,7 +2717,7 @@
 		{
 			"name": "Pesawat Sriwijaya Air.bussidmod",
 			"title": "Pesawat Sriwijaya Air",
-			"url": "https://download.modbussid.co.id/631",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Pesawat_Sriwijaya_Air_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/Pesawat-Sriwijaya-Air.jpg?quality=100&f=auto",
@@ -2734,9 +2734,9 @@
 		{
 			"name": "Bus Marcopolo Rombak.bussidvehicle",
 			"title": "Bus Marcopolo Rombak",
-			"url": "https://download.modbussid.co.id/t1/Marcopolo_Rombak_-_MODBUSSID.co.id.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Marcopolo%20Rombak/Marcopolo_Rombak_-_Javastech.com.bussidvehicle",
 			"livery": [
-				"https://download.modbussid.co.id/t2/Livery_Marcopolo_Laju_Prima_-_MODBUSSID.co.id.jpg"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Marcopolo%20Rombak/Livery_Marcopolo_Laju_Prima_-_Javastech.com.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Marcopolo-Rombak.jpg?w=600&quality=100&f=auto",
@@ -2767,7 +2767,7 @@
 		{
 			"name": "Jetbus 2 Travego.bussidmod",
 			"title": "Jetbus 2 Travego",
-			"url": "https://download.modbussid.co.id/8Qe",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Jetbus_2_Travego_Dop_Ring_V1_Spion_Gajah_by_MD_Creation.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://i.ytimg.com/vi/SUL9puEzi04/maxresdefault.jpg",
@@ -2782,7 +2782,7 @@
 		{
 			"name": "Mobil Porsche 911 RWB.bussidmod",
 			"title": "Mobil Porsche 911 RWB",
-			"url": "https://download.modbussid.co.id/3un",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Porsche_911_RWB_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/12/Porsche-911-RWB.jpg?quality=100&f=auto",
@@ -2797,7 +2797,7 @@
 		{
 			"name": "Volvo FMX E5 10X4 Dumper.bussidmod",
 			"title": "Volvo FMX E5 10X4 Dumper",
-			"url": "https://download.modbussid.co.id/3vo",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Volvo_FMX_E5_10X4_Dumper_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/Volvo-FMX-E5-10X4-Dumper.jpg?quality=100&f=auto",
@@ -2813,7 +2813,7 @@
 		{
 			"name": "Motor KTM Duke 150.bussidmod",
 			"title": "Motor KTM Duke 150",
-			"url": "https://download.modbussid.co.id/5u6/MOD_BUSSID_Motor_KTM_DUKE_150_-_BUSSID.co.id.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_KTM_Duke_150.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Motor-KTM-Duke-150.jpg?w=600&quality=100&f=auto",
@@ -2827,7 +2827,7 @@
 		{
 			"name": "Tank Leopard.bussidmod",
 			"title": "Tank Leopard",
-			"url": "https://download.modbussid.co.id/3vs",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Tank_Leopard_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/Tank-Leopard.jpg?quality=100&f=auto",
