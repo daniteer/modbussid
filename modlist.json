@@ -1304,8 +1304,6 @@
 			"title": "Mobil Maruti Suzuki Swift 2018",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Maruti%20Suzuki%20Swift%202018/MOD_BUSSID_Mobil_Maruti_Suzuki_Swift_2018_by_MAH_Channel.bussidmod?inline=false",
 			"livery": [
-				"https://download.modbussid.co.id/6ij",
-				"https://download.modbussid.co.id/6ik"
 			],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/08/MOD-BUSSID-Mobil-Maruti-Suzuki-Swift-2018.jpg",
@@ -1321,8 +1319,6 @@
 			"title": "Truck DAF XF Euro 6",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD%20BUSSID%20Truck%20DAF%20XF%20Euro%206%20by%20MAH%20Channel/MOD_BUSSID_Truck_DAF_XF_Euro_6_by_MAH_Channel.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/6m9",
-				"https://download.modbussid.co.id/6m9"
 			],
 			"img_url": [
 				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-DAF-XF-Euro-6.jpg",
@@ -1544,20 +1540,6 @@
 			],
 			"kategori": "special",
 			"size": "8.6 mb",
-			"created_on": "26/07/2021"
-		},
-		{
-			"name": "Truck Mercedes-Benz Actros Double Trailer.bussidmod",
-			"title": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mercedes-Benz_Actros_Double_Trailer_by_MAH_Channel.bussidmod",
-			"url": "https://download.modbussid.co.id/byh",
-			"livery": [],
-			"img_url": [
-				"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-Mercedes-Benz-Actros-Double-Trailer.jpg",
-				"https://i.ytimg.com/vi/y7DjJoZ7fMM/hqdefault.jpg",
-				"https://galeribussid.com/wp-content/uploads/2021/06/Photo_210626115708.jpeg"
-			],
-			"kategori": "truck",
-			"size": "18.5 mb",
 			"created_on": "26/07/2021"
 		},
 		{
@@ -1786,32 +1768,7 @@
 			"size": "25.8 mb",
 			"created_on": "26/05/2021"
 		},
-		{
-			"name": "Sepeda Anak Roda Tiga Roda v1.bussidmod",
-			"title": "Sepeda Anak Roda Tiga Roda v1",
-			"url": "https://download.modbussid.co.id/6h2",
-			"livery": [],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/03/Sepeda-Anak-Roda-Tiga.jpg?quality=100&f=auto",
-				"https://i.ytimg.com/vi/rcbOVsDITg0/maxresdefault.jpg"
-			],
-			"kategori": "special",
-			"size": "1.4 mb",
-			"created_on": "26/05/2021"
-		},
-		{
-			"name": "Sepeda Anak Roda Tiga Roda v2.bussidmod",
-			"title": "Sepeda Anak Roda Tiga Roda v2",
-			"url": "https://download.modbussid.co.id/6h3",
-			"livery": [],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/03/Sepeda-Anak-Roda-Tiga.jpg?quality=100&f=auto",
-				"https://i.ytimg.com/vi/rcbOVsDITg0/maxresdefault.jpg"
-			],
-			"kategori": "special",
-			"size": "1.4 mb",
-			"created_on": "26/05/2021"
-		},
+
 		{
 			"name": "Motor Honda Supra X 125 Gojek.bussidmod",
 			"title": "Motor Honda Supra X 125 Gojek",
@@ -2046,7 +2003,6 @@
 			"title": "Elf NLR 55 BLX Bumper Avante",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Elf_NLR_55_BLX_Bumper_Avante_by_AM_Project.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3th"
 			],
 			"img_url": [
 				"https://droidve.com/wp-content/uploads/2021/01/MOD-BussID-Elf-NLR-55-BLX-Bumper-Avante-Bus-Simulator-Indonesia-Polos.jpg",
@@ -2127,22 +2083,6 @@
 			"kategori": "buss",
 			"size": "21.35 mb",
 			"created_on": "01/02/2020"
-		},
-		{
-			"name": "JB3 UHD.bussidmod",
-			"title": "JB3 UHD",
-			"url": "https://download.modbussid.co.id/60S",
-			"livery": [
-				"https://download.modbussid.co.id/60U",
-				"https://download.modbussid.co.id/60T"
-			],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD.jpg?quality=100&f=auto",
-				"https://1.bp.blogspot.com/-aKVgg0hKIe8/XYcbSVJgEkI/AAAAAAAAC6c/xuCWFrG65wsVeS3fyAYAz_zr0kkPtqExgCLcBGAsYHQ/s1600/Photo_190922012534.jpeg"
-			],
-			"kategori": "buss",
-			"size": "31.2 mb",
-			"created_on": "28/02/2021"
 		},
 		{
 			"name": "Tentrem Max by WSP.bussidmod",
@@ -2309,19 +2249,7 @@
 			"size": "13.12 mb",
 			"created_on": "04/04/2020"
 		},
-		{
-			"name": "Truck Isuzu Giga.bussidmod",
-			"url": "https://download.modbussid.co.id/3nt",
-			"livery": [],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-Giga.jpg?quality=100&f=auto",
-				"https://i.ytimg.com/vi/8WzXzxpkOo4/sddefault.jpg"
-			],
-			"title": "Truck Isuzu Giga",
-			"kategori": "truck",
-			"size": "34.45 mb",
-			"created_on": "04/04/2020"
-		},
+
 		{
 			"name": "Yamaha Aerox 155cc.bussidmod",
 			"title": "Yamaha Aerox 155cc",
@@ -2680,33 +2608,6 @@
 			"created_on": "09/03/2020"
 		},
 		{
-			"name": "Bus Touring.bussidvehicle",
-			"title": "Bus Touring",
-			"url": "https://download.modbussid.co.id/u0/touring.bussidvehicle",
-			"livery": [],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Touring.jpg?w=600&quality=100&f=auto"
-			],
-			"kategori": "buss",
-			"size": "24.31 mb",
-			"created_on": "09/06/2020"
-		},
-		{
-			"name": "Bus Dc(Discovery) 3.bussidvehicle",
-			"title": "Bus Dc(Discovery) 3",
-			"url": "https://download.modbussid.co.id/K7/dc3.bussidvehicle",
-			"livery": [],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Dc-3.jpg?w=600&quality=100&f=auto",
-				"https://i.ytimg.com/vi/Uh8-Sl9TNxI/maxresdefault.jpg",
-				"https://i1.wp.com/www.sgcarena.com/wp-content/uploads/2019/01/screenshot_2019-01-22-16-53-26168903611.png",
-				"https://modbussidterbaru.com/wp-content/uploads/2019/11/Mod-Bussid-Bus-Discovery-3.jpg"
-			],
-			"kategori": "buss",
-			"size": "17.41 mb",
-			"created_on": "09/06/2020"
-		},
-		{
 			"name": "Truck Canter Bandar Susu Terpal Segitiga.bussidmod",
 			"title": "Truck Canter Bandar Susu Terpal Segitiga",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Bandar%20Susu%20Terpal%20Segitiga/Canter_Bandar_Susu_Terpal_Segitiga_by_RMC_Creation.bussidmod",
@@ -2785,23 +2686,6 @@
 			"kategori": "motor",
 			"size": "28.28 mb",
 			"created_on": "10/08/2020"
-		},
-		{
-			"name": "JB2 SHD Full Anim.bussidmod",
-			"title": "JB2 SHD Full Anim",
-			"url": "https://download.modbussid.co.id/5Gf/MOD_BUSSID_JB2_SHD_-_Keira.bussidmod",
-			"livery": [
-				"https://download.modbussid.co.id/350/Livery_Zentrum_JB2_SHD_-_Keira.png"
-			],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/03/JB2-SHD.jpg?quality=100&f=auto",
-				"https://feesheldon.com/wp-content/uploads/2020/12/Download-MOD-BUSSID-Full-Animasi-JB2-SHD-Zentrum.jpg",
-				"https://i.ytimg.com/vi/Q3jSjxH1o0c/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/hoY7Wnq4Z7E/maxresdefault.jpg"
-			],
-			"kategori": "buss",
-			"size": "21.72 mb",
-			"created_on": "10/11/2020"
 		},
 		{
 			"name": "JB3+ MHD Voyager.bussidmod",
@@ -2910,22 +2794,7 @@
 			"size": "9.08 mb",
 			"created_on": "12/07/2020"
 		},
-		{
-			"name": "Bus JB3HD.bussidmod",
-			"title": "Bus JB3HD",
-			"url": "https://download.modbussid.co.id/2Rq/jb3hd.bussidmod",
-			"livery": [
-				"https://download.modbussid.co.id/2Rr/setia_negara.jpg"
-			],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-JB3HD.png?quality=100&f=auto",
-				"https://i.ytimg.com/vi/xEbD7_SsVmI/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/xOFxmdTbSbU/hqdefault.jpg"
-			],
-			"kategori": "buss",
-			"size": "11.87 mb",
-			"created_on": "12/07/2020"
-		},
+
 		{
 			"name": "Jetbus 2 Travego.bussidmod",
 			"title": "Jetbus 2 Travego",
@@ -3173,19 +3042,6 @@
 			"kategori": "special",
 			"size": "8.83 mb",
 			"created_on": "16/01/2020"
-		},
-		{
-			"name": "Mobil Angkot Oren Beken.bussidmod",
-			"title": "Mobil Angkot Oren Beken",
-			"url": "https://download.modbussid.co.id/661",
-			"livery": [],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/12/Angkutan-Kota-Angkot.jpg?quality=100&f=auto",
-				"https://1.bp.blogspot.com/-y3zuBLENNYM/XC4E7SmdFuI/AAAAAAAAAPY/HxDnBxggTIYxdrcZ1x8E2ojDFODA6D8XwCKgBGAs/s1600/Screenshot_2018-12-31-12-20-25-360_com.maleo.bussimulatorid%257E01.png"
-			],
-			"kategori": "car",
-			"size": "14.78 mb",
-			"created_on": "16/04/2020"
 		},
 		{
 			"name": "Mobil Bugatti Divo 2019.bussidmod",
@@ -3453,23 +3309,7 @@
 			"size": "6.05 mb",
 			"created_on": "21/12/2020"
 		},
-		{
-			"name": "JBHD Bumel.bussidmod",
-			"title": "JBHD Bumel",
-			"url": "https://download.modbussid.co.id/60Y",
-			"livery": [
-				"https://download.modbussid.co.id/60Z"
-			],
-			"img_url": [
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/JBHD-Bumel.jpg?quality=100&f=auto",
-				"https://i.ytimg.com/vi/zqIM83Wy6Ys/maxresdefault.jpg",
-				"https://i.ytimg.com/vi/Wjvlr6sEAxM/maxresdefault.jpg",
-				"https://feesheldon.com/wp-content/uploads/2020/12/JBHD-Bumel-.jpg"
-			],
-			"kategori": "buss",
-			"size": "23.1 mb",
-			"created_on": "22/03/2020"
-		},
+
 		{
 			"name": "All New Tourista.bussidmod",
 			"title": "All New Tourista",
@@ -3762,21 +3602,7 @@
 			"size": "20.27 mb",
 			"created_on": "26/08/2020"
 		},
-		{
-			"name": "Bus Jetbus 3+ UHD Pandawa 87 by Shiver Zwin.bussidvehicle",
-			"title": "Bus Jetbus 3+ UHD Pandawa 87 by Shiver Zwin",
-			"url": "https://download.modbussid.co.id/II/Jetbus_3+_UHD_Pandawa_87_by_Shiver_Zwin_-_MODBUSSID.co.id.bussidvehicle",
-			"livery": [],
-			"img_url": [
-				"https://i.pinimg.com/736x/d9/af/a7/d9afa701f47d75c80623bbb2c1538c5a.jpg",
-				"https://assets.jalantikus.com/assets/cache/500/243/userfiles/2020/10/13/Pandawa-87-by-Shiver-Zwin-cf9f2.jpg",
-				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Jetbus-3-UHD-Pandawa-87-by-Shiver-Zwin.jpg?w=600&quality=100&f=auto",
-				"https://i.ytimg.com/vi/uke4Yjn-tQo/maxresdefault.jpg"
-			],
-			"kategori": "buss",
-			"size": "13.08 mb",
-			"created_on": "27/05/2020"
-		},
+
 		{
 			"name": "Bus Transjakarta.bussidmod",
 			"title": "Bus Transjakarta",
