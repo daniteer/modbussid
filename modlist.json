@@ -3246,8 +3246,13 @@
 		{
 			"name": "Bus Setra Smile Travego.bussidmod",
 			"title": "Bus Setra Smile Travego",
-			"url": "https://download.modbussid.co.id/tx/Bus_Setra_Smile_Travego.bussidmod",
-			"livery": [],
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Setra%20Smile%20Travego/Travego_Setra_Smile_-_Javastech.com.bussidmod",
+			"livery": [
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Setra%20Smile%20Travego/Livery_TRAVEGO_Sinar_Jaya_by_Warung_Game_-_Javastech.com.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Setra%20Smile%20Travego/Livery_TRAVEGO_Harapan_Jaya_by_Warung_Game_-_Javastech.com.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Setra%20Smile%20Travego/Livery_TRAVEGO_Garuda_Mas_by_ArdiYS_-__Javastech.com.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20Setra%20Smile%20Travego/Livery_TRAVEGO_Blue_Star_by_Ucok_BK_-_Javastech.com.png"
+			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Setra-Smile-Travego.jpg?w=600&quality=100&f=auto",
 				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjRge1W_tjU1u3oy-e85yk7nYrjsdA-gcgA&usqp=CAU"
