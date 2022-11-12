@@ -3439,7 +3439,7 @@
 		{
 			"name": "Mobil Polisi Mazda 6.bussidmod v1.bussidmod",
 			"title": "Mobil Polisi Mazda 6 v1",
-			"url": "https://download.modbussid.co.id/3zq",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil_Polisi_Mazda_6_V1_Speed_Kencang_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/01/Mobil-Polisi-Mazda-6.jpg?quality=100&f=auto",
@@ -3455,9 +3455,9 @@
 		{
 			"name": "Truck Canter New Bocah Tamfan.bussidmod",
 			"title": "Truck Canter New Bocah Tamfan",
-			"url": "https://download.modbussid.co.id/8PS",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20New%20Bocah%20Tamfan/Canter_New_Bocah_Tamfan_V1_Avante_Body_by_Andry_Azhari.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/6ez"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20New%20Bocah%20Tamfan/Livery_New_Bocah_Tamfan_by_X_Play_Kembar.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Canter-New-Bocah-Tamfan.jpg?quality=100&f=auto",
@@ -3471,7 +3471,7 @@
 		{
 			"name": "Truck Hino Pasir dan Topi.bussidmod",
 			"title": "Truck Hino Pasir dan Topi",
-			"url": "https://download.modbussid.co.id/JU/hino_pasir_dan_topi.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/hino_pasir_dan_topi.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Truck-Hino-Pasir-dan-Topi.jpg?w=600&quality=100&f=auto",
@@ -3485,20 +3485,20 @@
 		{
 			"name": "Isuzu NKR Towing Angkut Beko.bussidmod",
 			"title": "Isuzu NKR Towing Angkut Beko",
-			"url": "https://download.modbussid.co.id/3ly",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Isuzu_NKR_Towing_Angkut_Beko___Canter_by_MS_Project__1_.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-NKR-Towing-Angkut-Beko.jpg?w=768&quality=100&f=auto",
 				"https://i.ytimg.com/vi/jfZQVujjXbU/maxresdefault.jpg"
 			],
 			"kategori": "truck",
-			"size": "29.05 mb",
+			"size": "40.90 mb",
 			"created_on": "25/06/2020"
 		},
 		{
 			"name": "MOD Kawasaki Ninja 150rr Drag.bussidmod",
 			"title": "MOD Kawasaki Ninja 150rr Drag",
-			"url": "https://download.modbussid.co.id/3s2",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_Kawasaki_Ninja_150RR_Drag.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/11/Kawasaki-Ninja-150RR-Drag.jpg?quality=100&f=auto",
@@ -3513,7 +3513,7 @@
 		{
 			"name": "Mobil Bugatti Divo 2019.bussidmod",
 			"title": "Mobil Bugatti Divo 2019",
-			"url": "https://download.modbussid.co.id/6dv",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bugatti_Divo_2019_by_MAH_Channel__1_.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Bugatti-Divo.jpg?quality=100&f=auto",
@@ -3528,10 +3528,10 @@
 		{
 			"name": "Mobil Toyota Fortuner TRD.bussidmod",
 			"title": "Mobil Toyota Fortuner TRD",
-			"url": "https://download.modbussid.co.id/66h",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mobil%20Toyota%20Fortuner%20TRD/Toyota_Fortuner_TRD_by_DSP.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/3v0",
-				"https://download.modbussid.co.id/3v1"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Toyota%20Fortuner%20TRD/Livery_White_Toyota_Fortuner_TRD.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Mobil%20Toyota%20Fortuner%20TRD/Livery_Black_Toyota_Fortuner_TRD.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/12/Toyota-Fortuner-TRD.jpg?quality=100&f=auto",
@@ -3545,9 +3545,9 @@
 		{
 			"name": "Bus JB3+ Putra Luragung Montel MN RSM.bussidmod",
 			"title": "Bus JB3+ Putra Luragung Montel MN RSM",
-			"url": "https://download.modbussid.co.id/JX/jetbus3_air_sus_sound_9.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20JB3+%20Putra%20Luragung%20Montel%20MN%20RSM/jetbus3_air_sus_sound_9__1_.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/JW/Putra_Luragung_JB3+_MN_RSM_by_Blahbloh.jpg"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20JB3+%20Putra%20Luragung%20Montel%20MN%20RSM/Putra_Luragung_JB3+_MN_RSM_by_Blahbloh__2_.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-JB3-Putra-Luragung-Montel-MN-RSM.jpg?w=600&quality=100&f=auto",
@@ -3561,7 +3561,7 @@
 		{
 			"name": "Motor Timun.bussidmod",
 			"title": "Motor Timun",
-			"url": "https://download.modbussid.co.id/3jl",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Motor_Timun_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Motor-Timun.jpg?w=768&quality=100&f=auto",
@@ -3575,7 +3575,7 @@
 		{
 			"name": "Motor Vespa Matic v 2.2.bussidmod",
 			"title": "Motor Vespa Matic v2.2",
-			"url": "https://download.modbussid.co.id/6ea",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Vespa_Matic_V2.2_Cowok_Speed_Standar_by_AzuMods.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Vespa-Matic.jpg?quality=100&f=auto",
@@ -3590,7 +3590,7 @@
 		{
 			"name": "Motor Honda Beat Racing.bussidvehicle",
 			"title": "Motor Honda Beat Racing",
-			"url": "https://download.modbussid.co.id/5u2/MOD_BUSSID_Motor_Honda_Beat_Racing_-_BUSSID.co.id.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Motor_Honda_Beat_Drag_Racing.bussidvehicle",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Motor-Honda-Beat-Racing.jpg?w=600&quality=100&f=auto",
@@ -3619,7 +3619,7 @@
 		{
 			"name": "Bus Transjakarta.bussidmod",
 			"title": "Bus Transjakarta",
-			"url": "https://download.modbussid.co.id/66d",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Transjakarta_by_MAH_Channel.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/12/Bus-Transjakarta.jpg?quality=100&f=auto",
