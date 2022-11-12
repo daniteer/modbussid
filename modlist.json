@@ -3264,8 +3264,10 @@
 		{
 			"name": "Truck Anti Gosip Terpal.bussidmod",
 			"title": "Truck Anti Gosip Terpal",
-			"url": "https://download.modbussid.co.id/2Rs/ANTI_GOSIP_TERPAL.bussidmod",
-			"livery": [],
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Anti%20Gosip%20Terpal/Canter_Anti_Gosip_Terpal_Segitiga_by_RMC_Creation.bussidmod",
+			"livery": [
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Anti%20Gosip%20Terpal/Livery_Anti_Gosip_by_MS_Project.png"
+			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Truck-Anti-Gosip-Terpal.jpg?w=600&quality=100&f=auto",
 				"https://i.pinimg.com/564x/94/cd/c1/94cdc1f1fc3c19b0891b330796907665.jpg",
@@ -3273,13 +3275,13 @@
 				"https://i.ytimg.com/vi/rpCDghHJA_g/maxresdefault.jpg"
 			],
 			"kategori": "truck",
-			"size": "19.47 mb",
+			"size": "31.18 mb",
 			"created_on": "21/04/2020"
 		},
 		{
 			"name": "Truck Fuso Dump Muatan Batu.bussidmod",
 			"title": "Truck Fuso Dump Muatan Batu",
-			"url": "https://download.modbussid.co.id/JM/Truck_Fuso_Dump_Truck_Muatan_Batu.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Truck_Fuso_Dump_Muatan_Batu_.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Truck-Fuso-Dump-Muatan-Batu.jpg?w=600&quality=100&f=auto",
@@ -3310,7 +3312,7 @@
 		{
 			"name": "All New Tourista.bussidmod",
 			"title": "All New Tourista",
-			"url": "https://download.modbussid.co.id/3l9",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/All_New_Tourista.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/All-New-Tourista.jpeg?w=600&quality=100&f=auto",
@@ -3324,10 +3326,10 @@
 		{
 			"name": "Truck Canter Black Team Giga Merah.bussidmod",
 			"title": "Truck Canter Black Team Giga Merah",
-			"url": "https://download.modbussid.co.id/8Rf",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Black%20Team%20Giga%20Merah/Canter_Black_Team_Giga_Merah_by_RMC_Creation.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/8Rg",
-				"https://download.modbussid.co.id/8Rh"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Black%20Team%20Giga%20Merah/Livery_Black_Team_01_Merah_by_X_Play_Kembar.png",
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Black%20Team%20Giga%20Merah/Livery_Boss_Cilik_by_X_Play_Kembar.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Canter-Black-Team-Giga-Merah.jpg?quality=100&f=auto",
@@ -3342,9 +3344,9 @@
 		{
 			"name": "Truck Canter Bumi Wali Muat Bambu.bussidmod",
 			"title": "Truck Canter Bumi Wali Muat Bambu",
-			"url": "https://download.modbussid.co.id/6de",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Bumi%20Wali%20Muat%20Bambu/Canter_Bumi_Wali_Muat_Bambu_by_KGM_Creation.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/6df"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Truck%20Canter%20Bumi%20Wali%20Muat%20Bambu/Livery_Bumi_Wali_by_Tony_05_ID.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Canter-Bumi-Wali-Muat-Bambu.jpg?quality=100&f=auto",
@@ -3358,7 +3360,7 @@
 		{
 			"name": "Classic Jadul Marodadi Prima Patriot Standart.bussidmod",
 			"title": "Classic Jadul Marodadi Prima Patriot Standart",
-			"url": "https://download.modbussid.co.id/3j8",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Classic_Jadul_Marodadi_Prima_Patriot_Standart.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/10/Classic-Jadul-Marodadi-Prima-Patriot-Standart.png?w=600&quality=100&f=auto",
@@ -3372,9 +3374,9 @@
 		{
 			"name": "Bus JB2+ SDD Dop Air Suspension + Tameng.bussidmod",
 			"title": "Bus JB2+ SDD Dop Air Suspension + Tameng",
-			"url": "https://download.modbussid.co.id/J7/JB2+_SDD_Dop_Air_Suspension_+_Tameng_-_MODBUSSID.co.id.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20JB2+%20SDD%20Dop%20Air%20Suspension%20+%20Tameng/JB2+_SDD_Dop_Air_Suspension_+_Tameng_-_Javastech.com__1_.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/t0/Livery_Sempati_Star_Hello_Kitty_JB2+_SDD_Dop_Air_Sus_-_MODBUSSID.co.id.jpg"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20JB2+%20SDD%20Dop%20Air%20Suspension%20+%20Tameng/Livery_Sempati_Star_Hello_Kitty_JB2+_SDD_Dop_Air_Sus_-_Javastech.com.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-JB2-SDD-Dop-Air-Suspension-Tameng.jpg?w=600&quality=100&f=auto",
@@ -3389,9 +3391,9 @@
 		{
 			"name": "Bus JB3 PO. Haryanto Fatamorgana.bussidvehicle",
 			"title": "Bus JB3 PO. Haryanto Fatamorgana",
-			"url": "https://download.modbussid.co.id/J1/jb3.bussidvehicle",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20JB3%20PO.%20Haryanto%20Fatamorgana/jb3.bussidvehicle",
 			"livery": [
-				"https://download.modbussid.co.id/J2/HR-Fatamorgana-By_Aji_Nugroho_(2).jpg"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Bus%20JB3%20PO.%20Haryanto%20Fatamorgana/HR-Fatamorgana-By_Aji_Nugroho__2_.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-JB3-PO.-Haryanto-Fatamorgana.jpg?w=600&quality=100&f=auto",
@@ -3405,9 +3407,9 @@
 		{
 			"name": "Canter Ayam Maulana Expedition.bussidmod",
 			"title": "Canter Ayam Maulana Expedition",
-			"url": "https://download.modbussid.co.id/8NV",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Canter%20Ayam%20Maulana%20Expedition/Canter_Ayam_Maulana_Expedition_by_KGM_Creation.bussidmod",
 			"livery": [
-				"https://download.modbussid.co.id/8NW"
+				"https://gitlab.com/trirdani/bussid-data/-/blob/main/Canter%20Ayam%20Maulana%20Expedition/Livery_Maulana_Expedition_by_X_Play_Kembar.png"
 			],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2021/02/Canter-Ayam-Maulana-Expedition.jpg?quality=100&f=auto",
@@ -3423,7 +3425,7 @@
 		{
 			"name": "Mobil Lamborghini Huracan.bussidmod",
 			"title": "Mobil Lamborghini Huracan",
-			"url": "https://download.modbussid.co.id/sl/LAMBORGHINI_HURACAN.bussidmod",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MOD_BUSSID_Mobil_Lamborghini_Huracan.bussidmod",
 			"livery": [],
 			"img_url": [
 				"https://cdn.statically.io/img/modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Lamborghini-Huracan.jpg?w=600&quality=100&f=auto",
