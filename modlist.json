@@ -2,6 +2,19 @@
 	"mode": "1",
 	"mod": [
 		
+		"name": "Canter Herex Stenlisan.bussidmod",
+			"title": "Canter Herex Stenlisan",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/CANTER_HEREX_STENLISAN_BUDESIGN.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-13112022-173001.jpg?w=1200&ssl=1",
+				"https://i.ytimg.com/vi/nt8iYuQzgek/maxresdefault.jpg"
+			],
+			"kategori": "truck",
+			"size": "58.43 mb",
+			"created_on": "27/11/2022"
+		},
+		
 			{
 			"name": "Western Star 5700 XE Overweight Trailer.bussidmod",
 			"title": "Western Star 5700 XE Overweight Trailer",
