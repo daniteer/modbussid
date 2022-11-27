@@ -3,6 +3,21 @@
 	"mod": [
 		
 		{
+		"name": "Hino 500.bussidmod",
+			"title": "Hino 500",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/HINO_500_TRINTON_BUDESIGN_SPESIAL_100K_SUBREK.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/09/SGCA_IMG-29092022-201616.jpg?w=1200&ssl=1",
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/09/SGCA_IMG-29092022-202507.jpg?fit=1200%2C675&ssl=1"
+			],
+			"kategori": "truck",
+			"size": "55.78 mb",
+			"created_on": "27/11/2022"
+		},
+		
+		
+		{
 		"name": "Isuzu Nkr71 Towing Mod.bussidmod",
 			"title": "Isuzu Nkr71 Towing Mod",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/nkr71_towing.bussidmod",
