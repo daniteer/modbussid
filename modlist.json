@@ -3,6 +3,34 @@
 	"mod": [
 		
 		{
+		"name": "JetBus 3+ Kids Panda.bussidmod",
+			"title": "JetBus 3+ Kids Panda",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/KIDS_PANDA_FAKE_SHADOW.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-01062022-185007.jpg?w=1200&ssl=1",
+				"https://i.ytimg.com/vi/vRfvvyw3DGE/maxresdefault.jpg"
+			],
+			"kategori": "buss",
+			"size": "40.83 mb",
+			"created_on": "01/12/2022"
+		},
+		
+		{
+		"name": "Laksana Legacy SR2.bussidmod",
+			"title": "Laksana Legacy SR2",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Laksana%20Legacy%20SR2/anl_sr2_beta.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Laksana%20Legacy%20SR2/sr2hr.png?inline=false"],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-04062022-101347.jpg?w=1200&ssl=1",
+				"https://jurnalisindonesia.id/uploads/large/6b8a0b692988be96b34465ac5bfda1a3.jpg"
+			],
+			"kategori": "buss",
+			"size": "44.70 mb",
+			"created_on": "01/12/2022"
+		},
+		
+		{
 		"name": "Hino 500.bussidmod",
 			"title": "Hino 500",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/HINO_500_TRINTON_BUDESIGN_SPESIAL_100K_SUBREK.bussidmod",
