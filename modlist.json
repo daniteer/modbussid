@@ -3,6 +3,36 @@
 	"mod": [
 		
 		{
+		"name": "Lamborghini Aventador SVJ.bussidmod",
+			"title": "Lamborghini Aventador SVJ",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Lamborghini%20Aventador%20SVJ/New_Lamborghini_Aventador_SVJ_cvt_Hanzoo_Mod.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/12/SGCA_IMG-30112022-200948.jpg?w=1200&ssl=1",
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/12/SGCA_IMG-30112022-200533.jpeg?fit=1200%2C675&ssl=1",
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/12/SGCA_IMG-30112022-200529.jpeg?fit=1200%2C675&ssl=1"
+			],
+			"kategori": "car",
+			"size": "20.44 mb",
+			"created_on": "01/12/2022"
+		},
+		
+		
+		{
+		"name": "Old Setra Bus.bussidmod",
+			"title": "Old Setra Bus",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Old%20Setra%20Bus/Oldsetra_rindray_sale_goto_free.bussidmod",
+			"livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Old%20Setra%20Bus/256476532_1218328815316008_3974446698340995132_n.png"],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-22052022-143536.jpg?w=1200&ssl=1",
+				"https://ayonaikbis.com/wp-content/uploads/2019/09/Setra-gen-2-AP-min.jpg"
+			],
+			"kategori": "buss",
+			"size": "27.13 mb",
+			"created_on": "01/12/2022"
+		},
+		
+		{
 		"name": "JetBus 3+ Kids Panda.bussidmod",
 			"title": "JetBus 3+ Kids Panda",
 			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/KIDS_PANDA_FAKE_SHADOW.bussidmod",
