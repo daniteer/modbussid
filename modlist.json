@@ -1,6 +1,34 @@
 {
 	"mode": "1",
 	"mod": [
+		{
+		"name": "JetBus 3 SDD Scania K410 IB.bussidmod",
+			"title": "JetBus 3 SDD Scania K410 IB",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3_SDD_SCANIA_DOP.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-09022023-160611.jpg?w=1200&ssl=1",
+				"https://i.ytimg.com/vi/eoo4_OyvrFk/maxresdefault.jpg"
+			],
+			"kategori": "bus",
+			"size": "90.34 mb",
+			"created_on": "14/02/2023"
+		},
+		
+		{
+		"name": "Mercedes-Benz Jadul AC.bussidmod",
+			"title": "Mercedes-Benz Jadul AC",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Mercedes-Benz%20Jadul%20AC%20Mod%20BUSSID/FREE_1521_CAM_SUPIR.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-10022023-150720.jpg?w=1200&ssl=1",
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-10022023-151125.jpg?fit=1200%2C675&ssl=1",
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-10022023-151131.jpg?fit=1200%2C1200&ssl=1"
+			],
+			"kategori": "bus",
+			"size": "26.33 mb",
+			"created_on": "14/02/2023"
+		},
 		
 		{
 		"name": "Lamborghini Aventador SVJ.bussidmod",
