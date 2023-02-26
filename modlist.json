@@ -2,6 +2,32 @@
 	"mode": "1",
 	"mod": [
 		
+		{
+		"name": "Tesla Cybertruck 2020.bussidmod",
+			"title": "Tesla Cybertruck 2020",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Tesla_Cybertruck_2020_cvt_Hanzoo_mod.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-01022023-152742.jpg"
+			],
+			"kategori": "truck",
+			"size": "1.62 mb",
+			"created_on": "26/02/2023"
+		},
+		
+		{
+		"name": "Truk MAN HOME LPcars.bussidmod",
+			"title": "Truk MAN HOME LPcars",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/MAN_HOME_LPcars_cvt_Hanzoo_Mod.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/01/SGCA_IMG-16012023-031154.jpg?w=1200&ssl=1"
+			],
+			"kategori": "truck",
+			"size": "30.48 mb",
+			"created_on": "26/02/2023"
+		},
+		
 		
 		{
 		"name": "Toyota Camry 2015 Police.bussidmod",
@@ -15,8 +41,6 @@
 			"size": "19.02 mb",
 			"created_on": "26/02/2023"
 		},
-		
-		
 		
 		{
 		"name": "Range Rover Evoque Coupe 2016.bussidmod",
