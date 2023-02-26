@@ -1,6 +1,46 @@
 {
 	"mode": "1",
 	"mod": [
+		
+		{
+		"name": "JB3 SHD Mercedes Benz 1836 Single Glass.bussidmod",
+			"title": "JB3 SHD Mercedes Benz 1836 Single Glass",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3_SHD_SG_NS_STD_FIX.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/01/SGCA_IMG-18012023-154219.jpg?w=1200&ssl=1"
+			],
+			"kategori": "buss",
+			"size": "37.20 mb",
+			"created_on": "26/02/2023"
+		},
+		
+		{
+		"name": "SR3 XHD Ultimate Tronton.bussidmod",
+			"title": "SR3 XHD Ultimate Tronton",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Sr3_xhd_ulti_tronton.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/01/SGCA_IMG-01012023-201301.jpg"
+			],
+			"kategori": "buss",
+			"size": "18.82 mb",
+			"created_on": "26/02/2023"
+		},
+		
+		{
+		"name": "Scania Touring Bus Mod BUSSID.bussidmod",
+			"title": "Scania Touring Bus Mod BUSSID",
+			"url": "hhttps://gitlab.com/trirdani/bussid-data/-/raw/main/Scania_Touring_Bus_cvt_Hanzoo_mod.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/01/SGCA_IMG-02012023-125218.jpg?w=1200&ssl=1"
+			],
+			"kategori": "buss",
+			"size": "11.42 mb",
+			"created_on": "26/02/2023"
+		},
+		
 		{
 		"name": "JetBus 3 SDD Scania K410 IB.bussidmod",
 			"title": "JetBus 3 SDD Scania K410 IB",
@@ -10,7 +50,7 @@
 				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-09022023-160611.jpg?w=1200&ssl=1",
 				"https://i.ytimg.com/vi/eoo4_OyvrFk/maxresdefault.jpg"
 			],
-			"kategori": "bus",
+			"kategori": "buss",
 			"size": "90.34 mb",
 			"created_on": "14/02/2023"
 		},
@@ -25,7 +65,7 @@
 				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-10022023-151125.jpg?fit=1200%2C675&ssl=1",
 				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-10022023-151131.jpg?fit=1200%2C1200&ssl=1"
 			],
-			"kategori": "bus",
+			"kategori": "buss",
 			"size": "26.33 mb",
 			"created_on": "14/02/2023"
 		},
