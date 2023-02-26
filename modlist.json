@@ -2,16 +2,46 @@
 	"mode": "1",
 	"mod": [
 		
+		
 		{
-		"name": "JB3 SHD Mercedes Benz 1836 Single Glass.bussidmod",
-			"title": "JB3 SHD Mercedes Benz 1836 Single Glass",
-			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/JB3_SHD_SG_NS_STD_FIX.bussidmod",
+		"name": "Toyota Camry 2015 Police.bussidmod",
+			"title": "Toyota Camry 2015 Police",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Toyota_Camry_2015_Police_cvt_Hanzoo_Mod.bussidmod",
 			"livery": [],
 			"img_url": [
-				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/01/SGCA_IMG-18012023-154219.jpg?w=1200&ssl=1"
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-21022023-133635.jpg?w=1200&ssl=1"
 			],
-			"kategori": "buss",
-			"size": "37.20 mb",
+			"kategori": "car",
+			"size": "19.02 mb",
+			"created_on": "26/02/2023"
+		},
+		
+		
+		
+		{
+		"name": "Range Rover Evoque Coupe 2016.bussidmod",
+			"title": "Range Rover Evoque Coupe 2016",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Range_Rover_Evoque_Coupe_2016_cvt_Hanzoo_Mod.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-25022023-113902.jpg?w=1200&ssl=1"
+			],
+			"kategori": "car",
+			"size": "13.84 mb",
+			"created_on": "26/02/2023"
+		},
+		
+		
+		{
+		"name": "Chevrolet Impala Classic.bussidmod",
+			"title": "Chevrolet Impala Classic",
+			"url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Chevrolet_Impala_cvt_Hanzoo_Mod.bussidmod",
+			"livery": [],
+			"img_url": [
+				"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/02/SGCA_IMG-25022023-144436.jpg?w=1200&ssl=1"
+			],
+			"kategori": "car",
+			"size": "13.82 mb",
 			"created_on": "26/02/2023"
 		},
 		
