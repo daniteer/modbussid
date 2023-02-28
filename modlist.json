@@ -1,6 +1,45 @@
 {
   "mode": "1",
   "mod": [
+	  
+	  {
+      "name": "2014 Toyota Hilux FX.bussidmod",
+      "title": "2014 Toyota Hilux FX",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/2014TOYOTAHILUXFX.bussidmod",
+      "livery": [],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/10/SGCA_IMG-14102022-131630.jpg?w=1200&ssl=1"
+      ],
+      "kategori": "car",
+      "size": "39.29 mb",
+      "created_on": "28/02/2023"
+    },
+	  {
+      "name": "Suzuki New Carry.bussidmod",
+      "title": "Suzuki New Carry",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/toyata%20new%20carry/new_carry.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/toyata%20new%20carry/carry.png?inline=false"],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-09112022-184145.jpg?w=1200&ssl=1"
+      ],
+      "kategori": "car",
+      "size": "34.39 mb",
+      "created_on": "28/02/2023"
+    },
+	  {
+      "name": "Ford Ranger Raptor 2019.bussidmod",
+      "title": "Ford Ranger Raptor 2019",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/2019FordRangerRaptor_OFFROAD_VERSION.bussidmod",
+      "livery": [],
+      "img_url": [
+        "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-11112022-182729.jpg?w=1200&ssl=1",
+	      "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-11112022-182521.jpg?fit=1200%2C675&ssl=1",
+	      "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-11112022-182517.jpg?fit=1200%2C675&ssl=1"
+      ],
+      "kategori": "car",
+      "size": "31.10 mb",
+      "created_on": "28/02/2023"
+    },
 	  {
       "name": "Toyota Tundra TRD Pro 2022.bussidmod",
       "title": "Toyota Tundra TRD Pro 2022",
