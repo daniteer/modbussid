@@ -3,6 +3,43 @@
   "mod": [
 	  
 	  {
+      "name": "Truck Canter Antobolo Muatan Sawit Full Anim.bussidmod",
+      "title": "Truck Canter Antobolo Muatan Sawit Full Anim",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20Antobolo%20Muatan%20Sawit%20Full%20Anim/9._ANTOBOLLO.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20Antobolo%20Muatan%20Sawit%20Full%20Anim/9._Livery_Antobolo_by_RG_DESIGN.png?inline=false"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2023/01/mod-bussid-truck-canter-antobollo.jpg"
+      ],
+      "kategori": "truck",
+      "size": "43.25 mb",
+      "created_on": "01/03/2023"
+    },
+	  {
+      "name": "Truck Canter Muatan Ayam Full Strobo.bussidmod",
+      "title": "Truck Canter Muatan Ayam Full Strobo",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20Muatan%20Ayam%20Full%20Strobo/10._CHIKEN_RUN.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20Muatan%20Ayam%20Full%20Strobo/10._LIVERY.png"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2023/01/10.-Truck-Canter-Muatan-Ayam-Full-Strobo.jpg"
+      ],
+      "kategori": "truck",
+      "size": "27.02 mb",
+      "created_on": "01/03/2023"
+    },
+	  {
+      "name": "Tunggal Jaya Deep Purple.bussidmod",
+      "title": "Tunggal Jaya Deep Purple",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Tunggal%20Jaya%20Deep%20Purple/9._RATU_TAVISHA.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Tunggal%20Jaya%20Deep%20Purple/9._LIVERY_TUNGGAL_JAYA_DEEP_PURPLE_MOD.png"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2023/01/9.-Mod-Bus-Tunggal-Jaya-Deep-Purple.jpg"
+      ],
+      "kategori": "buss",
+      "size": "33.48 mb",
+      "created_on": "01/03/2023"
+    },
+	  
+	  {
       "name": "Bus Sinar Muda Avante H8 Full Animasi.bussidmod",
       "title": "Bus Sinar Muda Avante H8 Full Animasi",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Sinar%20Muda%20Avante%20H8%20Full%20Animasi/11._AVANTE_H8.bussidmod?inline=false",
