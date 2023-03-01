@@ -3,6 +3,31 @@
   "mod": [
 	  
 	  {
+      "name": "Bus Sinar Muda Avante H8 Full Animasi.bussidmod",
+      "title": "Bus Sinar Muda Avante H8 Full Animasi",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Sinar%20Muda%20Avante%20H8%20Full%20Animasi/11._AVANTE_H8.bussidmod?inline=false",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Sinar%20Muda%20Avante%20H8%20Full%20Animasi/11._AVANTE_H9_SINAR_MUDA_BY_DPC_MC.png"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2023/01/11.-Bus-Sinar-Muda-Avante-H8-Full-Animasi.jpg"
+      ],
+      "kategori": "buss",
+      "size": "52.44 mb",
+      "created_on": "01/03/2023"
+    },
+	  
+	{
+      "name": "Bus ALS SR3 Ultimate XHD Velg RK RING DOP.bussidmod",
+      "title": "Bus ALS SR3 Ultimate XHD Velg RK RING DOP",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20ALS%20SR3%20Ultimate%20XHD%20Velg%20RK%20RING%20DOP/12._sr3_xhd_ultimate_VELG_RK_RING_DOP_POLOS.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20ALS%20SR3%20Ultimate%20XHD%20Velg%20RK%20RING%20DOP/12._LIVERY_ANTAR_LINTAS_SUMATERA_MOD_SR3_MN_ART_Livery_By_Lutfi_Gameplays.png?inline=false"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2023/01/12.-Bus-ALS-SR3-Ultimate-XHD-Velg-RK-RING-DOP-Terbaru.jpg"
+      ],
+      "kategori": "buss",
+      "size": "61.05 mb",
+      "created_on": "01/03/2023"
+    },
+	{
       "name": "2014 Toyota Hilux FX.bussidmod",
       "title": "2014 Toyota Hilux FX",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/2014TOYOTAHILUXFX.bussidmod",
