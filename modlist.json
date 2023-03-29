@@ -3,6 +3,19 @@
   "mod": [
 	  
 	  {
+      "name": "Bus Sempati Star JB2HD Full Aksesoris.bussidmod",
+      "title": "Bus Sempati Star JB2HD Full Aksesoris",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Sempati%20Star%20JB2HD%20Full%20Aksesoris/3._jb2_full_alcoa.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Sempati%20Star%20JB2HD%20Full%20Aksesoris/3._Sempati_Star_Hitam_Kuning_JB__HD_Full_Acc_ASxFM_By_AM_Channel.png?inline=false"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2023/03/Bus-Sempati-Star-JB2HD-Full-Aksesoris.jpg"
+      ],
+      "kategori": "buss",
+      "size": "40.38 mb",
+      "created_on": "30/03/2023"
+    },
+	  
+	  {
       "name": "Truck Canter Antobolo Muatan Sawit Full Anim.bussidmod",
       "title": "Truck Canter Antobolo Muatan Sawit Full Anim",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Truck%20Canter%20Antobolo%20Muatan%20Sawit%20Full%20Anim/9._ANTOBOLLO.bussidmod",
