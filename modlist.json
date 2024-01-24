@@ -2,6 +2,20 @@
   "mode": "1",
   "mod": [
 
+	   {
+      "name": "Bus Tunggal Jaya Kids Panda.bussidmod",
+      "title": "Bus Tunggal Jaya Kids Panda",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Livery%20+%20Mod%20BUSSID%20Kids%20Panda/CASPER.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Livery%20+%20Mod%20BUSSID%20Kids%20Panda/Tunggal_Jaya_Kids_Panda_Faridh_Blahbloh-1.png"],
+      "img_url": [
+        "https://www.mediarale.com/wp-content/uploads/2023/07/Compress_20230724_075841_1777-1024x575.jpg.webp",
+	      "https://www.mediarale.com/wp-content/uploads/2023/07/Compress_20230724_075841_1585-768x773.jpg.webp"
+      ],
+      "kategori": "buss",
+      "size": "33.25 mb",
+      "created_on": "24/01/2024"
+    },
+
 	  {
       "name": "Bus ALS SR3 Ultimate XHD Velg RK RING DOP Terbaru.bussidmod",
       "title": "Bus ALS SR3 Ultimate XHD Velg RK RING DOP Terbaru",
