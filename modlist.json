@@ -1,6 +1,20 @@
 {
   "mode": "1",
   "mod": [
+
+	   {
+      "name": "Bus Sugeng Rahayu DC3 Full Aksesoris Sumber Group.bussidmod",
+      "title": "Bus Sugeng Rahayu DC3 Full Aksesoris Sumber Group",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/sugeng%20rahayu/3._Dc3_Full_Acc_Sumber_Group.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/sugeng%20rahayu/3._7366StutJack.png?inline=false"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2023/01/3.-Mod-Bus-Sugeng-Rahayu-DC3-Full-Aksesoris-Sumber-Group.jpg",
+	      "https://ayonaikbis.com/wp-content/uploads/2018/08/DC-V2-700x380.jpg"
+      ],
+      "kategori": "buss",
+      "size": "32.7 mb",
+      "created_on": "24/01/2024"
+    },
 	  
 	  {
       "name": "Bus Sempati Star JB2HD Full Aksesoris.bussidmod",
