@@ -2,6 +2,21 @@
   "mode": "1",
   "mod": [
 
+	  {
+      "name": "Bus Mulyo Indah JB3 SHD Scania Pintu Tengah.bussidmod",
+      "title": "Bus Mulyo Indah JB3 SHD Scania Pintu Tengah",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Mulyo%20Indah%20JB3%20SHD%20Scania%20Pintu%20Tengah/1._K360_PT_FVAR_VOYAGER.bussidmod",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/Bus%20Mulyo%20Indah%20JB3%20SHD%20Scania%20Pintu%20Tengah/1._JB3_SHD_SCANIA_PINTU_TENGAH_MULYO_INDAH_exs_roosich_trans__farid_BY_JEFFRY_BUSSID.png"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2023/01/1.-Mod-Bus-Mulyo-Indah-JB3-SHD-Scania-Pintu-Tengah.jpg",
+	      "https://i.ytimg.com/vi/RoHaIlylNCI/sddefault.jpg",
+	      "https://i0.wp.com/modbussidindonesia.id/wp-content/uploads/2023/10/Mod-Bus-Mulyo-Indah-JB3-SHD-Scania-Full-Animasi.png?fit=550%2C308&ssl=1"
+      ],
+      "kategori": "buss",
+      "size": "38.0 mb",
+      "created_on": "24/01/2024"
+    },
+
 	   {
       "name": "Bus Sugeng Rahayu DC3 Full Aksesoris Sumber Group.bussidmod",
       "title": "Bus Sugeng Rahayu DC3 Full Aksesoris Sumber Group",
