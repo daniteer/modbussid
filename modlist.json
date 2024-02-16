@@ -3,6 +3,20 @@
   "mod": [
 
 	   {
+      "name": "Toyota Land Cruiser Fj40 1978 Off Road.bussidmod",
+      "title": "Toyota Land Cruiser Fj40 1978 Off Road",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/land%20cruiser/Toyota_Land_Cruiser_Fj40_1978_Off_Road_cvt_Hanzoo_Mod.bussidmod?inline=false",
+      "livery": [],
+      "img_url": [
+        "https://modbussid.co.id/wp-content/uploads/2023/07/Toyota-Land-Cruiser-Fj40-1978-Off-Road.jpeg",
+	      "https://i.ytimg.com/vi/CDxcmxIlvno/maxresdefault.jpg"
+      ],
+      "kategori": "car",
+      "size": "33.25 mb",
+      "created_on": "16/02/2024"
+    },
+
+	   {
       "name": "Bus Tunggal Jaya Kids Panda.bussidmod",
       "title": "Bus Tunggal Jaya Kids Panda",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/Livery%20+%20Mod%20BUSSID%20Kids%20Panda/CASPER.bussidmod",
