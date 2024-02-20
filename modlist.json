@@ -3,6 +3,20 @@
   "mod": [
 
 	   {
+      "name": "TRUCK HINO RANGER DUMP SUMATRA FULL ANIM.bussidmod",
+      "title": "TRUCK HINO RANGER DUMP SUMATRA FULL ANIM",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/TRUCK%20HINO%20RANGER%20DUMP%20SUMATRA%20FULL%20ANIM/HINO_RANGER_DUMP.bussidmod?inline=false",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/TRUCK%20HINO%20RANGER%20DUMP%20SUMATRA%20FULL%20ANIM/LIVERY_RANGER_SUMATRA_BATADORESS_GAMING.png?inline=false"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2024/01/TRUCK-HINO-RANGER-DUMP-SUMATRA-FULL-ANIM-TERBARU.png",
+	      "https://lh3.googleusercontent.com/HrqGJtcvxKL_RAoRSTmcDHiNU_rY_HTGthvXW7bXbrYDfaK4BoYCulC-UsBMAcyIQJ4=h315"
+      ],
+      "kategori": "truck",
+      "size": "55.51 mb",
+      "created_on": "20/02/2024"
+    },
+
+	   {
       "name": "Toyota Land Cruiser Fj40 1978 Off Road.bussidmod",
       "title": "Toyota Land Cruiser Fj40 1978 Off Road",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/land%20cruiser/Toyota_Land_Cruiser_Fj40_1978_Off_Road_cvt_Hanzoo_Mod.bussidmod?inline=false",
