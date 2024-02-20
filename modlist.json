@@ -3,6 +3,21 @@
   "mod": [
 
 	   {
+      "name": "TRUCK TRAILER FUSO TG LOWBET EXCAVATOR.bussidmod",
+      "title": "TRUCK TRAILER FUSO TG LOWBET EXCAVATOR",
+      "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/TRUCK%20TRAILER%20FUSO%20TG%20LOWBET%20EXCAVATOR/new_fuso_tg_lowbet_spesial_tahun_baru.bussidmod?inline=false",
+      "livery": ["https://gitlab.com/trirdani/bussid-data/-/raw/main/TRUCK%20TRAILER%20FUSO%20TG%20LOWBET%20EXCAVATOR/LIVERY_FUSO_TRAILER_TG_BATADORESS_GAMING.png?inline=false"],
+      "img_url": [
+        "https://modbussidterbaru.com/wp-content/uploads/2024/01/TRUCK-TRAILER-FUSO-TG-LOWBET-EXCAVATOR-1.png",
+	      "https://i.ytimg.com/vi/SyUzljBvmgM/maxresdefault.jpg"
+      ],
+      "kategori": "truck",
+      "size": "67.44 mb",
+      "created_on": "20/02/2024"
+    },
+
+
+	   {
       "name": "TRUCK HINO RANGER DUMP SUMATRA FULL ANIM.bussidmod",
       "title": "TRUCK HINO RANGER DUMP SUMATRA FULL ANIM",
       "url": "https://gitlab.com/trirdani/bussid-data/-/raw/main/TRUCK%20HINO%20RANGER%20DUMP%20SUMATRA%20FULL%20ANIM/HINO_RANGER_DUMP.bussidmod?inline=false",
